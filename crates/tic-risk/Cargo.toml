@@ -1,0 +1,31 @@
+[package]
+name = "tic-risk"
+description = "Command-line tool for the TIC Risk Open Model: scores a company from data files, with a terminal report or JSON output"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license = "MIT OR Apache-2.0"
+publish.workspace = true
+
+[dependencies]
+risk-engine = { path = "../risk-engine" }
+risk-tokens = { path = "../risk-tokens" }
+chrono = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+anyhow = { workspace = true }
+clap = { workspace = true }
+tracing = { workspace = true }
+tracing-subscriber = { workspace = true }
+# the terminal report: tables, bars and charts drawn into a buffer and printed through crossterm
+# (Windows and Linux)
+ratatui = { version = "0.30.2", default-features = false, features = ["crossterm"] }
+# `download`: the model's files over HTTPS, each checked against its SHA-256
+ureq = { workspace = true }
+sha2 = { workspace = true }
+# the allocator: musl's (the static Linux build) hands every large block back to the kernel, and
+# the engine allocates buffers of megabytes per layer; mimalloc keeps them
+mimalloc = "0.1.52"
+
+[lints]
+workspace = true

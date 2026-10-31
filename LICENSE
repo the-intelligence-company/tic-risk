@@ -1,0 +1,12 @@
+TIC Risk is dual-licensed. You may use it under either of:
+
+  * MIT license          - see LICENSE-MIT    (https://opensource.org/licenses/MIT)
+  * Apache License 2.0   - see LICENSE-APACHE (https://www.apache.org/licenses/LICENSE-2.0)
+
+at your option.
+
+This covers the source code, the model weights and the files that come with them (vocabulary,
+tables, calibration, bands and the example inputs).
+
+Unless you state otherwise, any contribution you intentionally submit for inclusion in this work
+shall be dual-licensed as above, without any additional terms or conditions.

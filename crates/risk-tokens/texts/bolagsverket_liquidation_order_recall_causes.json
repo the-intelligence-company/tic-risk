@@ -1,0 +1,46 @@
+[
+ {
+  "code": "0001",
+  "text": "Handling inkommit"
+ },
+ {
+  "code": "0002",
+  "text": "Inträffad konkurs"
+ },
+ {
+  "code": "0003",
+  "text": "Frivillig likvidation"
+ },
+ {
+  "code": "0004",
+  "text": "Tvångslikvidation (tingsrätt)"
+ },
+ {
+  "code": "0005",
+  "text": "Tvångslikvidation (Bolagsverket)"
+ },
+ {
+  "code": "0006",
+  "text": "Annan omständighet"
+ },
+ {
+  "code": "0007",
+  "text": "Meddelandet har ej besvarats inom föreskriven tid (vid frivillig likvidation)"
+ },
+ {
+  "code": "0008",
+  "text": "Ärendet avvisas"
+ },
+ {
+  "code": "0009",
+  "text": "Ansökan bifalles ej"
+ },
+ {
+  "code": "0010",
+  "text": "Konkurs inträffat (LIKALL)"
+ },
+ {
+  "code": "0011",
+  "text": "Likvidation ska upphöra och verksamheten återupptas (LIKALL)"
+ }
+]

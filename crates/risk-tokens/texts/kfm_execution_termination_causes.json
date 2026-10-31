@@ -1,0 +1,62 @@
+[
+ {
+  "code": "ansokanOfullstandig",
+  "text": "Ansökan saknar nödvändig information."
+ },
+ {
+  "code": "avhysningGenomford",
+  "text": "(Avhysningsmål) Vräkning genomförd."
+ },
+ {
+  "code": "botesforvandling",
+  "text": "Bötesförvandling (endast A-mål)."
+ },
+ {
+  "code": "forMangaUppskov",
+  "text": "Det har varit för många eller för långa uppskov."
+ },
+ {
+  "code": "galdenarAvliden",
+  "text": "Gäldenär avliden (endast vissa medelslag i A-mål)."
+ },
+ {
+  "code": "galdenarIKonkurs",
+  "text": "Gäldenären är i konkurs."
+ },
+ {
+  "code": "galdenarsKonkursAvslutad",
+  "text": "Gäldenärens konkurs är avslutad."
+ },
+ {
+  "code": "godsetAtertaget",
+  "text": "(Återtagningmål) Godset är återtaget."
+ },
+ {
+  "code": "godsetEjAntraffat",
+  "text": "(Återtagningmål) Det gick inte att hitta godset."
+ },
+ {
+  "code": "malIndrivningUpphort",
+  "text": "Indrivning av målet har upphört."
+ },
+ {
+  "code": "malIngarISkuldsaneringsbeslut",
+  "text": "Målet ingår i ett skuldsaneringsbeslut."
+ },
+ {
+  "code": "malPreskriberat",
+  "text": "Målet är preskriberat."
+ },
+ {
+  "code": "maletAterkallat",
+  "text": "Målet återkallat."
+ },
+ {
+  "code": "maletFullbetalt",
+  "text": "Målet fullt betalt."
+ },
+ {
+  "code": "maletRedovisas",
+  "text": "Målet redovisas."
+ }
+]

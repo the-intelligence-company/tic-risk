@@ -1,0 +1,166 @@
+[
+ {
+  "code": "0",
+  "text": "Skuldtyp ej angiven"
+ },
+ {
+  "code": "14",
+  "text": "Tillkommande skatt (Skatteverket)"
+ },
+ {
+  "code": "16",
+  "text": "Kupongskatt (Skatteverket)"
+ },
+ {
+  "code": "20",
+  "text": "Skattekontot (Skatteverket)"
+ },
+ {
+  "code": "30",
+  "text": "Vägavgift (Transportstyrelsen)"
+ },
+ {
+  "code": "32",
+  "text": "Vägtrafikregisteravgift (Transportstyrelsen)"
+ },
+ {
+  "code": "33",
+  "text": "Trängselskatt (Transportstyrelsen)"
+ },
+ {
+  "code": "34",
+  "text": "Överlastavgift (Transportstyrelsen)"
+ },
+ {
+  "code": "35",
+  "text": "Fordonsskatt (Transportstyrelsen)"
+ },
+ {
+  "code": "36",
+  "text": "Infrastrukturavgift (Transportstyrelsen)"
+ },
+ {
+  "code": "38",
+  "text": "Sanktionsavgift (Transportstyrelsen)"
+ },
+ {
+  "code": "39",
+  "text": "Felparkeringsavgift (Transportstyrelsen)"
+ },
+ {
+  "code": "40",
+  "text": "Återkrav av studiestöd m.m. (CSN)"
+ },
+ {
+  "code": "52",
+  "text": "Förseningsavgift enligt årsredovisningslagen (Bolagsverket)"
+ },
+ {
+  "code": "53",
+  "text": "Byggsanktionsavgift (Lantmäteriet/Kommun 3)"
+ },
+ {
+  "code": "54",
+  "text": "Tilläggsavgift vid olovligt byggande (Har utgått)"
+ },
+ {
+  "code": "56",
+  "text": "Särskild avgift enligt ABL (Bolagsverket)"
+ },
+ {
+  "code": "57",
+  "text": "TV-avgift (Radiotjänst)"
+ },
+ {
+  "code": "60",
+  "text": "Återkrav m.m. (Olika myndigheter, a-kassor)"
+ },
+ {
+  "code": "61",
+  "text": "Statliga återkrav m.m. (Statens centralkonto)"
+ },
+ {
+  "code": "62",
+  "text": "Underhållsstöd (Försäkringskassan)"
+ },
+ {
+  "code": "63",
+  "text": "Diverse fordringar (Olika myndigheter)"
+ },
+ {
+  "code": "64",
+  "text": "Brottsofferfonden (Polisen)"
+ },
+ {
+  "code": "65",
+  "text": "Ekonomiskt bistånd (Utländsk myndighet)"
+ },
+ {
+  "code": "66",
+  "text": "Utländsk tullavgift m.m. (Utländsk myndighet)"
+ },
+ {
+  "code": "68",
+  "text": "Särskild rättsverkan (Polisen)"
+ },
+ {
+  "code": "69",
+  "text": "Diverse statliga fordringar (Olika myndigheter)"
+ },
+ {
+  "code": "73",
+  "text": "Rättshjälpskostnad (Rättshjälpsmyndigheten)"
+ },
+ {
+  "code": "75",
+  "text": "Studiemedelsavgifter (CSN)"
+ },
+ {
+  "code": "76",
+  "text": "EU-sociala avgifter (Utländsk myndighet)"
+ },
+ {
+  "code": "78",
+  "text": "Utomnordisk skatt (Utländsk myndighet)"
+ },
+ {
+  "code": "79",
+  "text": "Nordisk skatt (Utländsk myndighet)"
+ },
+ {
+  "code": "84",
+  "text": "Stämpelskatt (Lantmäteriet och Bolagsverket)"
+ },
+ {
+  "code": "88",
+  "text": "Kostnader för lantmäteriförrättning (Lantmäteriet)"
+ },
+ {
+  "code": "90",
+  "text": "Bötesmedel (Polisen)"
+ },
+ {
+  "code": "91",
+  "text": "Företagsbot (Polisen)"
+ },
+ {
+  "code": "92",
+  "text": "Vite (Polisen)"
+ },
+ {
+  "code": "93",
+  "text": "EU-böter (Utländsk myndighet)"
+ },
+ {
+  "code": "95",
+  "text": "Tull och andra införselavgifter (Tullverket)"
+ },
+ {
+  "code": "96",
+  "text": "Punktskatter (Tullverket)"
+ },
+ {
+  "code": "97",
+  "text": "Nordiska böter m.m. (Utländsk myndighet)"
+ }
+]

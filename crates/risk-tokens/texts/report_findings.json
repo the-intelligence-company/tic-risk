@@ -1,0 +1,194 @@
+[
+ {
+  "code": "AFFILIATION",
+  "text": "Sammankopplad"
+ },
+ {
+  "code": "AGM_TOO_LATE",
+  "text": "Sen årsstämma"
+ },
+ {
+  "code": "AGM_WRONG_DATE",
+  "text": "Fel datum årsstämma"
+ },
+ {
+  "code": "AR_TOO_LATE",
+  "text": "Sen inlämning årsredovisning"
+ },
+ {
+  "code": "AUDITOR_ACCOUNTING_ERR",
+  "text": "Revisorn beskriver fel i redovisningen"
+ },
+ {
+  "code": "AUDITOR_ACCOUNTING_ISSUES",
+  "text": "Revisorn beskriver brister i redovisningsrutiner"
+ },
+ {
+  "code": "AUDITOR_ACCOUNTING_LAG",
+  "text": "Revisorn beskriver eftersläpningar i redovisningen"
+ },
+ {
+  "code": "AUDITOR_CONTROL_BS",
+  "text": "Revisorn beskriver kontrollbalansräkning"
+ },
+ {
+  "code": "AUDITOR_DISCOURGES",
+  "text": "Revisorn avstryker delar i årsredovisningen"
+ },
+ {
+  "code": "AUDITOR_EARLY_RESIGNATION",
+  "text": "Revisorn har avgått i förtid"
+ },
+ {
+  "code": "AUDITOR_FORBIDDEN_LOAN",
+  "text": "Revisorn beskriver förbjudet lån"
+ },
+ {
+  "code": "AUDITOR_LIQUIDATION_REQUIRED",
+  "text": "Revisorn beskriver krav om likvidation"
+ },
+ {
+  "code": "AUDITOR_MISSING_EVIDENCE",
+  "text": "Revisorn beskriver att saknas erforderliga underlag"
+ },
+ {
+  "code": "AUDITOR_REMARK",
+  "text": "Revisorn har en eller flera anmärkningar"
+ },
+ {
+  "code": "AUDITOR_TAXES_LATE",
+  "text": "Revisorn beskriver bolaget inte betalat skatter och avgifter i tid"
+ },
+ {
+  "code": "AUDITOR_UNAUTH_VALUETRANSFER",
+  "text": "Revisorn beskriver otillåten värdeöverföring"
+ },
+ {
+  "code": "AUDITOR_UNCERTAINTY",
+  "text": "Revisorn beskriver osäkerhet i årsredovisningen"
+ },
+ {
+  "code": "BS_MISMATCH",
+  "text": "Balansräkningen balanserar inte i årsredovisningen"
+ },
+ {
+  "code": "COMPARATIVE_FIGURES_ERR",
+  "text": "Jämförelsesiffrorna innehåller fel"
+ },
+ {
+  "code": "CONTROL_BS",
+  "text": "Kontrollbalansräkning"
+ },
+ {
+  "code": "DUPLICATE",
+  "text": "Kopia"
+ },
+ {
+  "code": "FORBIDDEN_LOAN",
+  "text": "Förbjudet lån"
+ },
+ {
+  "code": "F_TAX_REVOKED",
+  "text": "F-skatt har återkallats"
+ },
+ {
+  "code": "F_TAX_TIMELIMITED",
+  "text": "Tidsbegränsad F-skatt"
+ },
+ {
+  "code": "ISSUE_WITH_REGISTRATION",
+  "text": "Felaktigheter vid registreringen"
+ },
+ {
+  "code": "K3_REQUIRED",
+  "text": "Krav om redovisningsregelverket K3"
+ },
+ {
+  "code": "LIQUIDATION_REQUIRED",
+  "text": "Likvidationsplikt föreligger"
+ },
+ {
+  "code": "MANAGEMENT_REPORT_ERR",
+  "text": "Förvaltningsberättelse saknas"
+ },
+ {
+  "code": "MANAGEMENT_REPORT_UNCERTAINTY",
+  "text": "Management report uncertainty"
+ },
+ {
+  "code": "MISMATCH_PL_CE",
+  "text": "Resultaträkningen stämmer inte med balansräkningen"
+ },
+ {
+  "code": "MISMATCH_PL_RS_BS",
+  "text": "Resultaträkningen stämmer inte med balansräkningen"
+ },
+ {
+  "code": "MISSING_AUDITOR",
+  "text": "Revisor saknas"
+ },
+ {
+  "code": "MISSING_BS_ASSETS",
+  "text": "Tillgångar i balansräkningen saknas"
+ },
+ {
+  "code": "MISSING_BS_EQUITY",
+  "text": "Eget kapital i balansräkningen saknas"
+ },
+ {
+  "code": "MISSING_CHANGEEQUITY",
+  "text": "Förändringar i eget kapital saknas"
+ },
+ {
+  "code": "MISSING_MULTIYEAR",
+  "text": "Flerårsöversikt saknas"
+ },
+ {
+  "code": "MISSING_NUMBEREMPLOYEES",
+  "text": "Uppgift om antal anställda saknas"
+ },
+ {
+  "code": "MISSING_RS",
+  "text": "Resultaträkningen saknas"
+ },
+ {
+  "code": "NEGATIVE_ASSETS",
+  "text": "Negative assets"
+ },
+ {
+  "code": "NEGATIVE_SHARECAPITAL",
+  "text": "Aktiekapital i balansräkningen är negativt"
+ },
+ {
+  "code": "NO_SHARECAPITAL",
+  "text": "Aktiekapital i balansräkningen saknas"
+ },
+ {
+  "code": "POSSIBLE_MISSINGASSETS",
+  "text": "Tillgångar verkar saknas i balansräkningen"
+ },
+ {
+  "code": "PROPOSED_DIVIDEND_ERR",
+  "text": "Förslagen utdelning är felaktig"
+ },
+ {
+  "code": "SUSPECTED_AR",
+  "text": "Suspected ar"
+ },
+ {
+  "code": "SUSPECT_YEAR_DUPLICATE",
+  "text": "Kopia av tidigare årsredovisning"
+ },
+ {
+  "code": "WRONG_EQUITYASSETSRATIO",
+  "text": "Fel i soliditetsberäkning"
+ },
+ {
+  "code": "WRONG_SHARECAPITAL",
+  "text": "Fel i aktiekapital"
+ },
+ {
+  "code": "WRONG_SIGNATUREDATE",
+  "text": "Fel datum för undertecknade"
+ }
+]

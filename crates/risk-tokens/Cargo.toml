@@ -1,0 +1,21 @@
+[package]
+name = "risk-tokens"
+description = "The tokenizer and temporal neighbour sampler: a company's facts known on a day, as the records and cells the model reads"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license = "MIT OR Apache-2.0"
+publish.workspace = true
+
+[dependencies]
+risk-store = { path = "../risk-store" }
+risk-eval = { path = "../risk-eval" }
+serde = { workspace = true }
+serde_json = { workspace = true }
+chrono = { workspace = true }
+thiserror = { workspace = true }
+rayon = { workspace = true }
+tracing = { workspace = true }
+
+[lints]
+workspace = true

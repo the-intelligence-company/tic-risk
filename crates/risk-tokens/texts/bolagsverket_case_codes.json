@@ -1,0 +1,1346 @@
+[
+ {
+  "code": "AABF",
+  "text": "Bifirma hävd genom dom"
+ },
+ {
+  "code": "AAF",
+  "text": "Firma hävd genom dom"
+ },
+ {
+  "code": "AAHF",
+  "text": "Annans ansökan om administrativ hävning av firma"
+ },
+ {
+  "code": "AAPF",
+  "text": "Parallellfirma hävd genom dom"
+ },
+ {
+  "code": "ACK",
+  "text": "Ackordsförhandling inledd"
+ },
+ {
+  "code": "ACKUHÄ",
+  "text": "Ackordsförhandling upphävd"
+ },
+ {
+  "code": "ACKUHÖ",
+  "text": "Ackordsförhandling upphörd"
+ },
+ {
+  "code": "AKT",
+  "text": "Ändring av aktier"
+ },
+ {
+  "code": "AKTIEBOK",
+  "text": "Registrering av värdepapperscentral som ansvarar för aktieboken"
+ },
+ {
+  "code": "APPORT",
+  "text": "Aktiekapitalet har betalats helt eller delvis med apportegendom (AB, BAB, FAB, TPAB)"
+ },
+ {
+  "code": "AS",
+  "text": "Handlingar i ärendet finns på annat språk än svenska"
+ },
+ {
+  "code": "AUAR",
+  "text": "Avförd enligt SFS 1981:460 eller enligt 13:18 ABK"
+ },
+ {
+  "code": "AVF",
+  "text": "Avförande av bolag enligt lag"
+ },
+ {
+  "code": "AVFFU",
+  "text": "Företaget har avförts pga att det genom gränsöverskridande fusin har uppgått i ett utländskt företag"
+ },
+ {
+  "code": "AVFÖRD",
+  "text": "Företaget avfört"
+ },
+ {
+  "code": "AVG",
+  "text": "Inkommen avgift"
+ },
+ {
+  "code": "AVREG",
+  "text": "Avregistrerad efter anmälan om att verksamheten har upphört"
+ },
+ {
+  "code": "AVRFLY",
+  "text": "Avregistrerad pga flyttning till nytt län"
+ },
+ {
+  "code": "AVRIN",
+  "text": "Avregistrerad pga ny innehavare"
+ },
+ {
+  "code": "AVSDAT",
+  "text": "Ändring av avstämningsförbehållets fr.o.m.-datum"
+ },
+ {
+  "code": "AVSLAG",
+  "text": "Avslag på sökt firmaförlag"
+ },
+ {
+  "code": "AVT",
+  "text": "Avtal godkända av bolagsstämma"
+ },
+ {
+  "code": "BENY",
+  "text": "Bemyndigande innebär att bolagsstämman ger styrelsen rätt att besluta om nyemission"
+ },
+ {
+  "code": "BESK",
+  "text": "Bemyndigande om ökning av aktiekapitalet genom utgivande av teckningsopptioner eller konvertibler eller båda"
+ },
+ {
+  "code": "BESTRID",
+  "text": "Inkommet bestridande"
+ },
+ {
+  "code": "BEVAK",
+  "text": "Bevakning av inkomna ärenden"
+ },
+ {
+  "code": "BFU",
+  "text": "Fusion inledd mellan moderbolag och helägt dotterbolag"
+ },
+ {
+  "code": "BIF",
+  "text": "Registrering av bifirma eller ändring av bifirmans verksamhet"
+ },
+ {
+  "code": "BIFU",
+  "text": "Upphävande av bifirma"
+ },
+ {
+  "code": "BLVJUR",
+  "text": "Kontroll av företrädare"
+ },
+ {
+  "code": "BRFNED",
+  "text": "Nedsättning av insatser"
+ },
+ {
+  "code": "BVE",
+  "text": "Ärendet initierat av Bolagsverket"
+ },
+ {
+  "code": "BVEFT",
+  "text": "Registervård av firmateckning på initiativ av Bolagsverket"
+ },
+ {
+  "code": "BVEFÖR",
+  "text": "Kontroll av företrädare"
+ },
+ {
+  "code": "BVEJUR",
+  "text": "Ändring av uppgifter för juridisk person registrerad som företrädare/revisor"
+ },
+ {
+  "code": "BVEMFA",
+  "text": "Misstanke om felaktig postadress"
+ },
+ {
+  "code": "BVEMFE",
+  "text": "Misstanke om felaktig e-postadress"
+ },
+ {
+  "code": "BVEOF",
+  "text": "Bolagsverket har på eget initiativ registrerat att föreningen saknar ordförande"
+ },
+ {
+  "code": "BVEPA",
+  "text": "Registeruppdatering av postadress på initiativ av Bolagsverket"
+ },
+ {
+  "code": "BVEPERS",
+  "text": "Kontroll av företrädare"
+ },
+ {
+  "code": "BVEPNR",
+  "text": "Ändring av personuppgift enligt underrättelse från Folkbokföringsregistret"
+ },
+ {
+  "code": "BVEREV",
+  "text": "Ändring av reviso"
+ },
+ {
+  "code": "BVEVAK",
+  "text": "Ärende initierat av Bolagsverket. Företaget/föreningen har haft en vakans i styrelsen i mer än 18 månader"
+ },
+ {
+  "code": "BVEÅR",
+  "text": "Föreläggande om årsredovisning"
+ },
+ {
+  "code": "BVEÖVR",
+  "text": "Registeruppdatering på initiativ av Bolagsverket"
+ },
+ {
+  "code": "DE",
+  "text": "Likvidationsföreläggande pga att särskild delgivningsmottagare saknas"
+ },
+ {
+  "code": "DEL",
+  "text": "Bolaget bildat genom delning"
+ },
+ {
+  "code": "DELAN",
+  "text": "Registrering av anmälan om genomförd delning"
+ },
+ {
+  "code": "DELANG",
+  "text": "Registrering av anmälan om genomförd gränsöverskridande delning"
+ },
+ {
+  "code": "DELAT",
+  "text": "Ansökan om tillstånd till delning av bolag"
+ },
+ {
+  "code": "DELBESG",
+  "text": "Bestridande av eller protest mot gränsöverskridande delning"
+ },
+ {
+  "code": "DELE",
+  "text": "Eget utträde för delgivningsmottagare"
+ },
+ {
+  "code": "DELFÖ",
+  "text": "Registrering av förfallen delning"
+ },
+ {
+  "code": "DELFÖG",
+  "text": "Registrering av förfallen gränsöverskridande delning"
+ },
+ {
+  "code": "DELG",
+  "text": "Registrering av särskild delgivningsmottagare"
+ },
+ {
+  "code": "DELGP",
+  "text": "Ändring av postadress för särskild delgivningsmottagare"
+ },
+ {
+  "code": "DELGR",
+  "text": "Bolaget bildat genom gränsöverskridande delning"
+ },
+ {
+  "code": "DELGU",
+  "text": "Eget utträde för särskild delgivningsmottagare"
+ },
+ {
+  "code": "DELKALG",
+  "text": "Registrering att kallelse av borgenärer utfärdats vid gränsöverskridande delning"
+ },
+ {
+  "code": "DELKALL",
+  "text": "Registrering att kallelse av borgenärer utfärdats vid delning"
+ },
+ {
+  "code": "DELOTR",
+  "text": "Registrering att tillståndsärende i delning överlämnats till tingsrätt"
+ },
+ {
+  "code": "DELOTRG",
+  "text": "Registrering att tillståndsärende i gränsöverskridande delning överlämnats till tingsrätt"
+ },
+ {
+  "code": "DELP",
+  "text": "Ändring av postadress för särskild delgivningsmottagare"
+ },
+ {
+  "code": "DELPKALL",
+  "text": "Registrering att kallelse av borgenärer utfärdats vid delning"
+ },
+ {
+  "code": "DELPL",
+  "text": "Registrering av delningsplan"
+ },
+ {
+  "code": "DELPLG",
+  "text": "Registrering av delningsplan för gränsöverskridande delning"
+ },
+ {
+  "code": "DELTI",
+  "text": "Registrering av tillstånd att verkställa delning"
+ },
+ {
+  "code": "DELTIG",
+  "text": "Registrering av tillstånd att verkställa gränsöverskridande delning"
+ },
+ {
+  "code": "DELTP",
+  "text": "Inkommen delårsrapport för ytterligare en period"
+ },
+ {
+  "code": "DELÅR",
+  "text": "Inkommen delårsrapport"
+ },
+ {
+  "code": "DELÖVRG",
+  "text": "Inkommen handling p g a pågående gränsöverskridande delning"
+ },
+ {
+  "code": "DEÖVR",
+  "text": "Inkommen handling pga pågående delning (AB)"
+ },
+ {
+  "code": "DEÖVR ",
+  "text": "Inkommen handling pga pågående delning"
+ },
+ {
+  "code": "DFI",
+  "text": "Dödande av förkommen handling - inteckningsbrev"
+ },
+ {
+  "code": "DISP",
+  "text": "Ansökan om dispens från bosättningskravet"
+ },
+ {
+  "code": "EEIG",
+  "text": "Firmaskydd för europeisk ekonomisk intressegruppering"
+ },
+ {
+  "code": "EFTG",
+  "text": "Inkommen ansökan om eftergift"
+ },
+ {
+  "code": "EKPLAN",
+  "text": "Registrering av ekonomisk plan"
+ },
+ {
+  "code": "EPA",
+  "text": "Registrering och ändring av objektets e-postadress"
+ },
+ {
+  "code": "FAX",
+  "text": "Årsredovisning som lämnats in via fax"
+ },
+ {
+  "code": "FELU",
+  "text": "Felupplagt ärende"
+ },
+ {
+  "code": "FFAN",
+  "text": "Ändring av försäkringsförmedlaruppgifter"
+ },
+ {
+  "code": "FFNY",
+  "text": "Skapande av FF-objekt"
+ },
+ {
+  "code": "FFRV",
+  "text": "Registervård av försäkringsförmedlaruppgifter"
+ },
+ {
+  "code": "FFUA",
+  "text": "Ändring av försäkringsförmedlaruppgifter"
+ },
+ {
+  "code": "FIRM",
+  "text": "Ändring av firma"
+ },
+ {
+  "code": "FOBO",
+  "text": "Fortsatt bolagsstämma"
+ },
+ {
+  "code": "FRAM",
+  "text": "Ändring av företrädare/firmateckning med verkan från en senare tidpunkt som angivits i beslutet"
+ },
+ {
+  "code": "FRAMMED",
+  "text": "Inkommet meddelande om framtida företrädarändring utan formell anmälan"
+ },
+ {
+  "code": "FRI",
+  "text": "Frivillig likvidation"
+ },
+ {
+  "code": "FRTST",
+  "text": "Registrering av anmälan om genomför fusion"
+ },
+ {
+  "code": "FTK",
+  "text": "Registrering av en förenings firmateckning utifrån stadgarna"
+ },
+ {
+  "code": "FU",
+  "text": "Företaget bildat genom fusion"
+ },
+ {
+  "code": "FUAN",
+  "text": "Registrering av anmälan om genomförd fusion"
+ },
+ {
+  "code": "FUANG",
+  "text": "Registrering av anmälan om genomförd gränsöverskridande fusion"
+ },
+ {
+  "code": "FUANK",
+  "text": "Registrering av anmälan om genomförd fusion genom kombination"
+ },
+ {
+  "code": "FUAT",
+  "text": "Ansökan om tillstånd till fusion"
+ },
+ {
+  "code": "FUAV",
+  "text": "Registrering av fusionsavtal"
+ },
+ {
+  "code": "FUBE",
+  "text": "Beslut om godkännande av fusionsavtal"
+ },
+ {
+  "code": "FUBESTR",
+  "text": "Bestridande av eller protest mot fusion"
+ },
+ {
+  "code": "FUFÖ",
+  "text": "Registrering av förfallen fusion"
+ },
+ {
+  "code": "FUFÖG",
+  "text": "Registrering av förfallen gränsöverskridande fusion"
+ },
+ {
+  "code": "FUFÖK",
+  "text": "Registrering av förfallen fusion genom kombination"
+ },
+ {
+  "code": "FUKALL",
+  "text": "Registrering att kallelse av borgenärer utfärdats vid fusion"
+ },
+ {
+  "code": "FUKALLG",
+  "text": "Registrering att kallelse av borgenärer utfärdats vid gränsöverskridande fusion"
+ },
+ {
+  "code": "FUKALLK",
+  "text": "Registrering att kallelse av borgenärer utfärdats vid fusion genom kombination"
+ },
+ {
+  "code": "FUKOMB",
+  "text": "Registrering av uppgifter avseende fusion genom kombination"
+ },
+ {
+  "code": "FUOTR",
+  "text": "Registrering att tillståndsärende i fusion överlämnats till tingsrätt"
+ },
+ {
+  "code": "FUPL",
+  "text": "Registrering av fusionsplan"
+ },
+ {
+  "code": "FUPLG",
+  "text": "Registrering av fusionsplan för gränsöverskridande fusion"
+ },
+ {
+  "code": "FUPLK",
+  "text": "Registrering av fusionsplan för fusion genom kombination"
+ },
+ {
+  "code": "FUPLKALL",
+  "text": "Registrering att kallelse av borgenärer utfärdats vid fusion"
+ },
+ {
+  "code": "FUPLTI",
+  "text": "Registrering av tilltstånd attt verkställa fusion utan att fusionsplan först har registrerats"
+ },
+ {
+  "code": "FUPLVE",
+  "text": "Registrering av verkställd fusion utan att fusionsplan först har registrerats"
+ },
+ {
+  "code": "FUSAN",
+  "text": "Registrering av anmälan om genomförd fusion"
+ },
+ {
+  "code": "FUSFÖ",
+  "text": "Registrering av fusion förfallen"
+ },
+ {
+  "code": "FUSKV",
+  "text": "Beslut från Skatteverket i fusion"
+ },
+ {
+  "code": "FUSTI",
+  "text": "Registrering av tillstånd att verkställa fusion"
+ },
+ {
+  "code": "FUSVE",
+  "text": "Registrering av verkställd fusion"
+ },
+ {
+  "code": "FUTI",
+  "text": "Registrering av tillstånd att verkställa fusion"
+ },
+ {
+  "code": "FUTIG",
+  "text": "Registrering av tillstånd att verkställa gränsöverskridande fusion"
+ },
+ {
+  "code": "FUTIK",
+  "text": "Registrering av tillstånd att verkställa fusion genom kombination"
+ },
+ {
+  "code": "FUTST",
+  "text": "Ansökan om tillstånd att verkställa fusion"
+ },
+ {
+  "code": "FUVE",
+  "text": "Registrering av verkställd fusion"
+ },
+ {
+  "code": "FUVIL",
+  "text": "Registrering att fusionen förklarats vilande"
+ },
+ {
+  "code": "FUÅT",
+  "text": "Registrering av återgång av fusion"
+ },
+ {
+  "code": "FUÖL",
+  "text": "Registrering på överlåtande företag att företaget är upplöst genom fusion"
+ },
+ {
+  "code": "FUÖT",
+  "text": "Registrering av fusion på övertagande bolag"
+ },
+ {
+  "code": "FUÖVR",
+  "text": "Inkommen handling pga pågående fusion"
+ },
+ {
+  "code": "FUÖVRG",
+  "text": "Inkommen handling pga pågående gränsöverskridande fusion (AB, BAB, FAB, OFB, FOF, EK, TPAB, OTPB, TPF)"
+ },
+ {
+  "code": "FÖR",
+  "text": "Ändring av företrädare/firmateckning"
+ },
+ {
+  "code": "FÖRAV",
+  "text": "Avregistrering av företrädare pga felaktig anmälan om registrering"
+ },
+ {
+  "code": "FÖRFTG",
+  "text": "Ändring av företrädarnas företrädare"
+ },
+ {
+  "code": "FÖRGR",
+  "text": "Ändring av styrelsegränser"
+ },
+ {
+  "code": "FÖRIN",
+  "text": "Inregistrering av företrädare pga felaktig anmälan om avregistrering"
+ },
+ {
+  "code": "FÖRMED",
+  "text": "Inkommet meddelande om företrädarändring utan formell anmälan"
+ },
+ {
+  "code": "FÖRP",
+  "text": "Ändring av företrädares postadress"
+ },
+ {
+  "code": "FÖRU",
+  "text": "Eget utträde för företrädare"
+ },
+ {
+  "code": "GALLBO",
+  "text": "Gallringsförfrågan där antalet bolagsmän är färre än två"
+ },
+ {
+  "code": "GALLEJ",
+  "text": "Svar på gallringsförfrågan att verksamhet fortfarande bedrivs"
+ },
+ {
+  "code": "GALLFR",
+  "text": "Inkommen begäran om avförande ur registret"
+ },
+ {
+  "code": "GALLRA",
+  "text": "Förfrågan om företaget fortfarande bedriver verksamhet"
+ },
+ {
+  "code": "GALLTID",
+  "text": "Gallringsförfrågan där bolaget inte anmält ändringar dom senaste 10 åren"
+ },
+ {
+  "code": "GARATR",
+  "text": "Återbetalning av garantikapital"
+ },
+ {
+  "code": "GARBET",
+  "text": "Fullbetalning av registrerad ej tillfullo betalt garantikapital"
+ },
+ {
+  "code": "GARKAP",
+  "text": "Garantikapital"
+ },
+ {
+  "code": "GR",
+  "text": "Registrering av styrelsegränser då uppgift saknades eller var felaktig vid konvertering"
+ },
+ {
+  "code": "HSÄTE",
+  "text": "Registrering av säte då uppgift saknades vid övertagandet av länsstyrelsens register"
+ },
+ {
+  "code": "KAPGRÄNS",
+  "text": "Omräkning av aktiekapitalgränser"
+ },
+ {
+  "code": "KK",
+  "text": "Konkurs inledd"
+ },
+ {
+  "code": "KKAVMÖ",
+  "text": "Konkurs avslutad med överskott"
+ },
+ {
+  "code": "KKAVSL",
+  "text": "Konkurs avslutad utan överskott"
+ },
+ {
+  "code": "KKFORT",
+  "text": "Konkurs fortsätter"
+ },
+ {
+  "code": "KKFV",
+  "text": "Registrering/ändring av konkursförvaltare eller ändring av tillsynsmyndighet"
+ },
+ {
+  "code": "KKUHÄ",
+  "text": "Konkurs upphävd"
+ },
+ {
+  "code": "KKÄND",
+  "text": "Ändring av konkursuppgifter"
+ },
+ {
+  "code": "KONC",
+  "text": "Ny koncession"
+ },
+ {
+  "code": "KONCFÖ",
+  "text": "Koncession förverkad"
+ },
+ {
+  "code": "KONV",
+  "text": "Maskinell konvertering av objekt till Bolagsverkets datasystem"
+ },
+ {
+  "code": "KONVM",
+  "text": "Manuell konvertering av objekt till Bolagsverkets datasystem"
+ },
+ {
+  "code": "KONVT",
+  "text": "Registervård på initiativ av Bolagsverket"
+ },
+ {
+  "code": "KÖ",
+  "text": "Likvidationsföreläggande pga konkurs avslutad med överskott"
+ },
+ {
+  "code": "LAGER",
+  "text": "Firmaskydd för lagerbolag"
+ },
+ {
+  "code": "LAN",
+  "text": "Likvidationsanmälan till tingsrätt med anledning av vakans i styrelsen"
+ },
+ {
+  "code": "LI",
+  "text": "Likvidation beslutad"
+ },
+ {
+  "code": "LIA",
+  "text": "Likvidationsanmälan till tingsrätt pga att årsredovisning ej insänts"
+ },
+ {
+  "code": "LIAVSL",
+  "text": "Likvidation avslutad"
+ },
+ {
+  "code": "LIBORG",
+  "text": "Anmäld fordran om känd/okänd borgenär"
+ },
+ {
+  "code": "LIFORT",
+  "text": "Likvidation fortsätter"
+ },
+ {
+  "code": "LIKALAVB",
+  "text": "Kallelse på okända borgenärer avbryts"
+ },
+ {
+  "code": "LIKALAVS",
+  "text": "Avslutad kallelse på okänds borgenärer"
+ },
+ {
+  "code": "LIKALL",
+  "text": "Kallelse på okända borgenärer för företag i likvidation"
+ },
+ {
+  "code": "LIKALLÖ",
+  "text": "Kallelse på okända borgenärer överklagat"
+ },
+ {
+  "code": "LIKV",
+  "text": "Ändring av likvidatorer eller entledigande och förordnande av likvidatorer"
+ },
+ {
+  "code": "LIKVP",
+  "text": "Ändring av likvidators postadress"
+ },
+ {
+  "code": "LIKVU",
+  "text": "Eget utträde för likvidator"
+ },
+ {
+  "code": "LITR",
+  "text": "Pågående likvidationsärende hos tingsrätt"
+ },
+ {
+  "code": "LIUHÄ",
+  "text": "Likvidation upphävd"
+ },
+ {
+  "code": "LIUPÅV",
+  "text": "Likvidation upphör och verksamheten återupptages"
+ },
+ {
+  "code": "LIÖKL",
+  "text": "Likvidationsbeslut överklagat"
+ },
+ {
+  "code": "LIÖKLU",
+  "text": "Beslut om utseende av likvidator överklagat"
+ },
+ {
+  "code": "MAIL",
+  "text": "Okänt"
+ },
+ {
+  "code": "MPA",
+  "text": "Ändring av företrädares och/eller revisors postadress i flera bolag"
+ },
+ {
+  "code": "MREVF",
+  "text": "Revisors uppdrag upphör i förtid i flera bolag"
+ },
+ {
+  "code": "MREVU",
+  "text": "Eget utträde för revisor ur flera bolag"
+ },
+ {
+  "code": "NK",
+  "text": "Minskning av aktiekapital"
+ },
+ {
+  "code": "NKFÖ",
+  "text": "Ökning av aktiekapital pga förfallen minskning"
+ },
+ {
+  "code": "NKKALL",
+  "text": "Registrering att kallelse av borgenärer utfärdats vid minskning av aktiekapitalet"
+ },
+ {
+  "code": "NKOTR",
+  "text": "Registrering att ärende avseende tillstånd till minskning av aktiekapitalet överlämnats till tingsrätt"
+ },
+ {
+  "code": "NKTST",
+  "text": "Tillstånd till minskning av aktiekapitalet"
+ },
+ {
+  "code": "NYB",
+  "text": "Nybildning"
+ },
+ {
+  "code": "OKTÅT",
+  "text": "Oktroj återkallat"
+ },
+ {
+  "code": "OMBAB",
+  "text": "Ombildning till bankaktiebolag"
+ },
+ {
+  "code": "OMBANG",
+  "text": "Registrering av anmälan om genomförd gränsöverskridande ombildning"
+ },
+ {
+  "code": "OMBESTG",
+  "text": "Bestridande av eller protest mot gränsöverskridande ombildning"
+ },
+ {
+  "code": "OMBFÖ",
+  "text": "Ombildning till bankaktiebolag förfallen"
+ },
+ {
+  "code": "OMBFÖG",
+  "text": "Registrering av förfallen gränsöverskridande ombildning"
+ },
+ {
+  "code": "OMBG",
+  "text": "Bolaget bildat genom gränsöverskridande ombildning"
+ },
+ {
+  "code": "OMBKALG",
+  "text": "Registrering att kallelse av borgenärer utfärdats vid gränsöverskridande ombildning"
+ },
+ {
+  "code": "OMBOTRG",
+  "text": "Registrering att tillståndsärende i gränsöverskridande ombildning överlämnats till tingsrätt"
+ },
+ {
+  "code": "OMBPLG",
+  "text": "Registrering av ombildningsplan för gränsöverskridande ombildning"
+ },
+ {
+  "code": "OMBTIG",
+  "text": "Registrering av tillstånd att verkställa gränsöverskridande ombildning"
+ },
+ {
+  "code": "OMBTST",
+  "text": "Tillstånd till ombildning till bankaktiebolag"
+ },
+ {
+  "code": "OMBVE",
+  "text": "Verkställighet av ombildning till bankaktiebolag"
+ },
+ {
+  "code": "OMBÖVRG",
+  "text": "Inkommen handling p.g.a. pågående gränsöverskridande ombildning"
+ },
+ {
+  "code": "OMP",
+  "text": "Inkommen ansökan om omprövning"
+ },
+ {
+  "code": "OMRÄK",
+  "text": "Omräkning av aktiekapital/grundfond/garantikapital till tidigare beslutad valuta"
+ },
+ {
+  "code": "ORDN",
+  "text": "Ändring av bolagsordning"
+ },
+ {
+  "code": "ORDNABL",
+  "text": "Anmälan om förtida anpassning av bolagsordning"
+ },
+ {
+  "code": "OS",
+  "text": "Likvidationsföreläggande pga obehörig styrelse"
+ },
+ {
+  "code": "PA",
+  "text": "Ändring av objektets postadress"
+ },
+ {
+  "code": "PARF",
+  "text": "Registrering av företagsnamnet på främmande språk"
+ },
+ {
+  "code": "PARFU",
+  "text": "Avregistrering av företagsnamnet på främmande språk"
+ },
+ {
+  "code": "PERIOD",
+  "text": "Period på inkommen handling stämmer ej med registrerad period"
+ },
+ {
+  "code": "PRA",
+  "text": "Inkommen protest för företaget"
+ },
+ {
+  "code": "PRIV",
+  "text": "Kategoribyte från publikt till privat bolag"
+ },
+ {
+  "code": "PROT",
+  "text": "Protokoll som ej avser ingivet registreringsärende"
+ },
+ {
+  "code": "PRVEFG",
+  "text": "Bolagsverket efterger beslut"
+ },
+ {
+  "code": "PRVFÖR",
+  "text": "Ändring av företrädare på initiativ av Bolagsverket"
+ },
+ {
+  "code": "PRVFÖRK",
+  "text": "Ändring av företrädare pga personlig konkurs"
+ },
+ {
+  "code": "PRVFÖRN",
+  "text": "Ändring av företrädare pga näringsförbud"
+ },
+ {
+  "code": "PRVLI",
+  "text": "Registrering av likvidationsbeslut innan formell ändringsanmälan inkommit"
+ },
+ {
+  "code": "PRVNF",
+  "text": "Ändring av företrädare/revisorer pga näringsförbud"
+ },
+ {
+  "code": "PRVOMP",
+  "text": "Bolagsverket omprövar beslut"
+ },
+ {
+  "code": "PRVPERS",
+  "text": "Ändring av företrädare/revisor pga avisering från myndighet"
+ },
+ {
+  "code": "PRVPKK",
+  "text": "Ändring av företrädare/revisorer pga personlig konkurs"
+ },
+ {
+  "code": "PRVREV",
+  "text": "Ändring av revisor på initiativ av Bolagsverket"
+ },
+ {
+  "code": "PRVREVK",
+  "text": "Ändring av revisor pga personlig konkurs"
+ },
+ {
+  "code": "PRVREVN",
+  "text": "Ändring av revisor pga näringsförbud"
+ },
+ {
+  "code": "PTR",
+  "text": "Anmälan om registrering om åtgärder mot penningtvätt"
+ },
+ {
+  "code": "PTRUA",
+  "text": "Ärende tillhörande registret för penningtvätt, utan avgift"
+ },
+ {
+  "code": "PUBL",
+  "text": "Kategoribyte från privat till publikt bolag"
+ },
+ {
+  "code": "RAPPBET",
+  "text": "Rapport om vissa betalningar till myndigheter"
+ },
+ {
+  "code": "RE",
+  "text": "Likvidationsföreläggande pga att behörig revisor saknas"
+ },
+ {
+  "code": "REFA",
+  "text": "Revisors uppdrag upphör i förtid i flera bolag"
+ },
+ {
+  "code": "REGFU",
+  "text": "Registrering av uppgifter om gränsöverskridande fusion"
+ },
+ {
+  "code": "REGL",
+  "text": "Ändring av reglemente"
+ },
+ {
+  "code": "REGLÄN",
+  "text": "Ändring av registreringslän"
+ },
+ {
+  "code": "REGÖVR",
+  "text": "Övriga registeruppgifter"
+ },
+ {
+  "code": "REK",
+  "text": "Företagsrekonstruktion inledd"
+ },
+ {
+  "code": "REKPLAN",
+  "text": "Underrättelse från domstol om fastställd rekonstruktionsplan"
+ },
+ {
+  "code": "REKUHÄ",
+  "text": "Företagsrekonstruktion upphävd av rätt"
+ },
+ {
+  "code": "REKUHÖ",
+  "text": "Företagsrekonstruktion upphörd"
+ },
+ {
+  "code": "REKÄND",
+  "text": "Ändring av uppgifter om företagsrekonstruktion"
+ },
+ {
+  "code": "REST",
+  "text": "Handling som ej avser ingivet registreringsärende"
+ },
+ {
+  "code": "REV",
+  "text": "Ändring beträffande revisorer"
+ },
+ {
+  "code": "REVA",
+  "text": "Eget utträde för revisor ur flera bolag"
+ },
+ {
+  "code": "REVB",
+  "text": "Inkommen revisorsbekräftelse"
+ },
+ {
+  "code": "REVE",
+  "text": "Eget utträde för revisor"
+ },
+ {
+  "code": "REVF",
+  "text": "Revisors uppdrag upphör i förtid"
+ },
+ {
+  "code": "REVP",
+  "text": "Ändring av postadress för revisor"
+ },
+ {
+  "code": "REVU",
+  "text": "Eget utträde för revisor"
+ },
+ {
+  "code": "RFU",
+  "text": "Rättens tillstånd till fusion"
+ },
+ {
+  "code": "RPA",
+  "text": "Ändring av revisors postadress i flera bolag"
+ },
+ {
+  "code": "RÄK",
+  "text": "Ändring av räkenskapsår"
+ },
+ {
+  "code": "RÄKP",
+  "text": "Ändring av räkenskapsperiod"
+ },
+ {
+  "code": "RÄKPER",
+  "text": "Inkommen årsredovisning"
+ },
+ {
+  "code": "RÄKUTL",
+  "text": "Inkommen årsredovisning för utländskt bolag"
+ },
+ {
+  "code": "SK",
+  "text": "Utgivande eller ändring av skuldebrev"
+ },
+ {
+  "code": "SKKON",
+  "text": "Utgivande eller ändring av konvertibler"
+ },
+ {
+  "code": "SKKONVM",
+  "text": "Villkorsändring/makulering av konvertibler"
+ },
+ {
+  "code": "SKYDDREG",
+  "text": "Registrering av skyddslän då Bolagsverket ännu ej övertagit registreringslänet"
+ },
+ {
+  "code": "SPA",
+  "text": "Ändring av företrädares postadress i flera bolag"
+ },
+ {
+  "code": "SR",
+  "text": "Skyddsregistrering av firma i annat län än registreringslänet"
+ },
+ {
+  "code": "SRU",
+  "text": "Skyddsregistrering upphör"
+ },
+ {
+  "code": "ST",
+  "text": "Ändring av företrädare/firmateckning"
+ },
+ {
+  "code": "STAD",
+  "text": "Ändring av stadgar"
+ },
+ {
+  "code": "STE",
+  "text": "Eget utträde för företrädare"
+ },
+ {
+  "code": "STIFT",
+  "text": "Firmaskydd för näringsdrivande stiftelse som övertagits av länsstyrelsen"
+ },
+ {
+  "code": "STP",
+  "text": "Ändring av företrädares postadress"
+ },
+ {
+  "code": "SÄTE",
+  "text": "Ändring av säte"
+ },
+ {
+  "code": "TEL",
+  "text": "Registrering och ändring av företagets telefonnummer"
+ },
+ {
+  "code": "TIKALL",
+  "text": "Registrering att kallelse av borgenärer utfärdats i ärende avseende tillstånd till vinstutdelning/tillstånd till minskning av reserv- eller överkursfond"
+ },
+ {
+  "code": "TILLST",
+  "text": "Tillstånd"
+ },
+ {
+  "code": "TILLÅTK",
+  "text": "Återkallande av tillstånd"
+ },
+ {
+  "code": "TIOTR",
+  "text": "Registrering att ärende avseende tillstånd till vinstutdelning/tillstånd till minskning av reserv- eller överkursfond har överlämnats till tingsrätt"
+ },
+ {
+  "code": "TIVUM",
+  "text": "Tillstånd till vinstutdelning/tillstånd till minskning av reserv- eller överkursfond"
+ },
+ {
+  "code": "TOPT",
+  "text": "Utgivande eller ändring av teckningsoptioner"
+ },
+ {
+  "code": "TOPTVM",
+  "text": "Villkorsändring/makulering av teckningsoptioner"
+ },
+ {
+  "code": "TR",
+  "text": "Likvidator utsedd av tingsrätt"
+ },
+ {
+  "code": "TST",
+  "text": "Tillstånd"
+ },
+ {
+  "code": "TSTÄNDR",
+  "text": "Ändring av tillstånd att driva försäkringsrörelse"
+ },
+ {
+  "code": "TSTÅTER",
+  "text": "Återställande av säkerhet"
+ },
+ {
+  "code": "TSTÅTK",
+  "text": "Återkallande av tillstånd att driva bankrörelse"
+ },
+ {
+  "code": "TYPAB",
+  "text": "Omregistrering till aktiebolag"
+ },
+ {
+  "code": "TYPBAB",
+  "text": "Omregistrering till bankaktiebolag"
+ },
+ {
+  "code": "TYPBFL",
+  "text": "Ändring av objekttyp till bankfilial"
+ },
+ {
+  "code": "TYPBRF",
+  "text": "Ändring av objekttyp från BF till BRF"
+ },
+ {
+  "code": "TYPEK",
+  "text": "Omregistrering till ekonomisk förening"
+ },
+ {
+  "code": "TYPFAB",
+  "text": "Ändring av objekttyp till försäkringsaktiebolag"
+ },
+ {
+  "code": "TYPFL",
+  "text": "Ändring av objekttyp till filial"
+ },
+ {
+  "code": "TYPFOF",
+  "text": "Ändring av objekttyp till försäkringsförening"
+ },
+ {
+  "code": "TYPHB",
+  "text": "Ändring av objekttyp från KB till HB"
+ },
+ {
+  "code": "TYPKB",
+  "text": "Ändring av objekttyp från HB till KB"
+ },
+ {
+  "code": "TYPKHF",
+  "text": "Ändring av objekttyp till KHF"
+ },
+ {
+  "code": "TYPMB",
+  "text": "Omregistrering till medlemsbank"
+ },
+ {
+  "code": "TYPOFB",
+  "text": "Ändring av objekttyp till OFB"
+ },
+ {
+  "code": "TYPOTPB",
+  "text": "Ändring av objekttyp till OTPB"
+ },
+ {
+  "code": "TYPTPAB",
+  "text": "Ändring av objekttyp till TPAB"
+ },
+ {
+  "code": "TYPTPF",
+  "text": "Ändring av objekttyp till TPF"
+ },
+ {
+  "code": "UB",
+  "text": "Utbyte av handlingar"
+ },
+ {
+  "code": "UP",
+  "text": "Registrering av ärende utan avgift"
+ },
+ {
+  "code": "UPPANS",
+  "text": "Ansökan om upplösning genom förenklad avveckling"
+ },
+ {
+  "code": "UPPBESL",
+  "text": "Beslut om upplösning genom förenklad avveckling"
+ },
+ {
+  "code": "UTD",
+  "text": "Vinstutdelning på extra bolagsstämma"
+ },
+ {
+  "code": "UTL",
+  "text": "Ändring av uppgifter ang. det utländska bolaget"
+ },
+ {
+  "code": "UTLFLAV",
+  "text": "Avregistrering av utländsk filial enligt underrättelse från Bris (AB,BAB,FAB,TPAB,SE)"
+ },
+ {
+  "code": "UTLFLNY",
+  "text": "Registrering av utländsk filial enligt underrättelse från Bris (AB, BAB, FAB, TPAB, SE)"
+ },
+ {
+  "code": "UTLFLÄN",
+  "text": "Ändring av uppgifter avseende utländsk filial enligt underrättelse från Bris (AB, BAB, FAB, TPAB, SE)"
+ },
+ {
+  "code": "UTLFÖR",
+  "text": "Ändring av personer i det utländska företaget"
+ },
+ {
+  "code": "UTLFÖRP",
+  "text": "Ändring av postadress för personer i det utländska företaget"
+ },
+ {
+  "code": "UTLSTAT",
+  "text": "Registrering av status för det utländska företaget"
+ },
+ {
+  "code": "VALUTA",
+  "text": "Beslut om ny valuta"
+ },
+ {
+  "code": "VD",
+  "text": "Likvidationsföreläggande pga att VD saknas"
+ },
+ {
+  "code": "VERK",
+  "text": "Ändring av verksamhet"
+ },
+ {
+  "code": "VERKAP",
+  "text": "Återbetalning av Berksamhetskapital"
+ },
+ {
+  "code": "VITE",
+  "text": "Vitesföreläggande/Vite pga att ofullständig eller ej inlämnad årsredovisning"
+ },
+ {
+  "code": "VPCREG",
+  "text": "Anlitad värdepapperscentral"
+ },
+ {
+  "code": "VPO",
+  "text": "Registrering av värdepappersombud"
+ },
+ {
+  "code": "XBRL",
+  "text": "Okänt"
+ },
+ {
+  "code": "ÅR",
+  "text": "Likvidationsföreläggande pga att årsredovisning saknas"
+ },
+ {
+  "code": "ÅRSLUT",
+  "text": "Inkommen slutredovisning"
+ },
+ {
+  "code": "ÅRSRED",
+  "text": "Inkommen årsredovisning"
+ },
+ {
+  "code": "ÅTERIN",
+  "text": "Företaget har återinförts i registret"
+ },
+ {
+  "code": "ÖK",
+  "text": "Ökning av aktiekapital"
+ },
+ {
+  "code": "ÖKBET",
+  "text": "Fullbetalning av registrerad ej till fullo betald nyemission"
+ },
+ {
+  "code": "ÖKFO",
+  "text": "Ökning av aktiekapitalet genom fondemission"
+ },
+ {
+  "code": "ÖKFÖ",
+  "text": "Minskning av aktiekapitalet pga bristande betalning för tidigare anmäld aktiekapitalsökning"
+ },
+ {
+  "code": "ÖKLA",
+  "text": "Överklagande"
+ },
+ {
+  "code": "ÖKNY",
+  "text": "Ökning av aktiekapitalet genom nyemission"
+ },
+ {
+  "code": "ÖKSK",
+  "text": "Ökning av aktiekapitalet genom konvertering eller genom aktieteckning pga teckningsoptioner"
+ },
+ {
+  "code": "ÖTBE",
+  "text": "Försäkringsbestånd har övertagits från annat bolag"
+ },
+ {
+  "code": "ÖVBE",
+  "text": "Beslut om överlåtelse av försäkringsbestånd"
+ },
+ {
+  "code": "ÖVFÖ",
+  "text": "Överlåtelse av försäkringsbestånd har förfallit"
+ },
+ {
+  "code": "ÖVTST",
+  "text": "Tillstånd till överlåtelse av försäkringsbestånd"
+ },
+ {
+  "code": "ÖVÖVR",
+  "text": "Övriga registeruppgifter om överlåtelse eller övertagande av försäkringsbestånd"
+ }
+]

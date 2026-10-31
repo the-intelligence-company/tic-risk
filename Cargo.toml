@@ -1,0 +1,41 @@
+[workspace]
+resolver = "3"
+members = [
+    "crates/risk-store",
+    "crates/risk-eval",
+    "crates/risk-tokens",
+    "crates/risk-model",
+    "crates/risk-engine",
+    "crates/tic-risk",
+]
+
+[workspace.package]
+version = "2.0.0"
+edition = "2024"
+rust-version = "1.94"
+publish = false
+repository = "https://github.com/the-intelligence-company/tic-risk"
+
+[workspace.dependencies]
+anyhow = "1.0.104"
+chrono = { version = "0.4.45", features = ["serde", "clock"] }
+clap = { version = "4.6.6", features = ["derive", "env"] }
+rayon = "1.12.0"
+serde = { version = "1.0.229", features = ["derive"] }
+serde_json = "1.0.151"
+sha2 = "0.11.1"
+thiserror = "2.0.20"
+tracing = "0.1.44"
+tracing-subscriber = { version = "0.3.23", features = ["env-filter", "fmt"] }
+ureq = { version = "3.5.0", default-features = false, features = ["rustls"] }
+
+[workspace.lints.rust]
+unsafe_code = "forbid"
+
+[workspace.lints.clippy]
+unwrap_used = "warn"
+expect_used = "warn"
+
+[profile.release]
+debug = false
+strip = "symbols"

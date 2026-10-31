@@ -1,0 +1,14 @@
+[
+ {
+  "code": "allaSokandeAvstarUtmatning",
+  "text": "Alla sökande avstår från utmätning."
+ },
+ {
+  "code": "allaSokandenAvstarUtmatningAvFastighet",
+  "text": "Alla sökande avstår från att utmäta fastighet."
+ },
+ {
+  "code": "galdenarenSaknarKandaUtmatningsbaraTillgangarForTackandeAvSkulden",
+  "text": "Tillgångsutredningen avslutas för att gäldenären inte har några tillgångar som kan utmätas för att täcka skulden."
+ }
+]

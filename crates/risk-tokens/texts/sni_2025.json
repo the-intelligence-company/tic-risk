@@ -1,0 +1,9302 @@
+[
+ {
+  "code": "01",
+  "text": "Jordbruk och jakt samt stödverksamhet i anslutning härtill",
+  "section": "A"
+ },
+ {
+  "code": "011",
+  "text": "Odling av ett- och tvååriga växter",
+  "section": "A"
+ },
+ {
+  "code": "0111",
+  "text": "Odling av spannmål (utom ris), baljväxter och oljeväxter",
+  "section": "A"
+ },
+ {
+  "code": "01110",
+  "text": "Odling av spannmål (utom ris), baljväxter och oljeväxter",
+  "section": "A"
+ },
+ {
+  "code": "0112",
+  "text": "Odling av ris",
+  "section": "A"
+ },
+ {
+  "code": "01120",
+  "text": "Odling av ris",
+  "section": "A"
+ },
+ {
+  "code": "0113",
+  "text": "Odling av grönsaker och meloner, rotfrukter och stam- eller rotknölar",
+  "section": "A"
+ },
+ {
+  "code": "01131",
+  "text": "Potatisodling",
+  "section": "A"
+ },
+ {
+  "code": "01132",
+  "text": "Sockerbetsodling",
+  "section": "A"
+ },
+ {
+  "code": "01133",
+  "text": "Odling av grönsaker (köksväxter) på friland",
+  "section": "A"
+ },
+ {
+  "code": "01134",
+  "text": "Odling av grönsaker (köksväxter) i växthus",
+  "section": "A"
+ },
+ {
+  "code": "01135",
+  "text": "Svampodling m.m.",
+  "section": "A"
+ },
+ {
+  "code": "0114",
+  "text": "Odling av sockerrör",
+  "section": "A"
+ },
+ {
+  "code": "01140",
+  "text": "Odling av sockerrör",
+  "section": "A"
+ },
+ {
+  "code": "0115",
+  "text": "Odling av tobak",
+  "section": "A"
+ },
+ {
+  "code": "01150",
+  "text": "Odling av tobak",
+  "section": "A"
+ },
+ {
+  "code": "0116",
+  "text": "Odling av fiberväxter",
+  "section": "A"
+ },
+ {
+  "code": "01160",
+  "text": "Odling av fiberväxter",
+  "section": "A"
+ },
+ {
+  "code": "0119",
+  "text": "Odling av andra ett- och tvååriga växter",
+  "section": "A"
+ },
+ {
+  "code": "01191",
+  "text": "Odling av prydnadsväxter i växthus",
+  "section": "A"
+ },
+ {
+  "code": "01199",
+  "text": "Odling av övriga ett- och tvååriga växter",
+  "section": "A"
+ },
+ {
+  "code": "012",
+  "text": "Odling av fleråriga växter",
+  "section": "A"
+ },
+ {
+  "code": "0121",
+  "text": "Odling av druvor",
+  "section": "A"
+ },
+ {
+  "code": "01210",
+  "text": "Odling av druvor",
+  "section": "A"
+ },
+ {
+  "code": "0122",
+  "text": "Odling av tropiska och subtropiska frukter",
+  "section": "A"
+ },
+ {
+  "code": "01220",
+  "text": "Odling av tropiska och subtropiska frukter",
+  "section": "A"
+ },
+ {
+  "code": "0123",
+  "text": "Odling av citrusfrukter",
+  "section": "A"
+ },
+ {
+  "code": "01230",
+  "text": "Odling av citrusfrukter",
+  "section": "A"
+ },
+ {
+  "code": "0124",
+  "text": "Odling av kärnfrukter och stenfrukter",
+  "section": "A"
+ },
+ {
+  "code": "01240",
+  "text": "Odling av kärnfrukter och stenfrukter",
+  "section": "A"
+ },
+ {
+  "code": "0125",
+  "text": "Odling av andra frukter, bär samt nötter",
+  "section": "A"
+ },
+ {
+  "code": "01250",
+  "text": "Odling av andra frukter, bär samt nötter",
+  "section": "A"
+ },
+ {
+  "code": "0126",
+  "text": "Odling av oljehaltiga frukter",
+  "section": "A"
+ },
+ {
+  "code": "01260",
+  "text": "Odling av oljehaltiga frukter",
+  "section": "A"
+ },
+ {
+  "code": "0127",
+  "text": "Odling av växter för dryckesframställning",
+  "section": "A"
+ },
+ {
+  "code": "01270",
+  "text": "Odling av växter för dryckesframställning",
+  "section": "A"
+ },
+ {
+  "code": "0128",
+  "text": "Odling av kryddväxter, drog- och medicinalväxter",
+  "section": "A"
+ },
+ {
+  "code": "01280",
+  "text": "Odling av kryddväxter, drog- och medicinalväxter",
+  "section": "A"
+ },
+ {
+  "code": "0129",
+  "text": "Odling av andra fleråriga växter",
+  "section": "A"
+ },
+ {
+  "code": "01290",
+  "text": "Odling av andra fleråriga växter",
+  "section": "A"
+ },
+ {
+  "code": "013",
+  "text": "Odling av plantskoleväxter",
+  "section": "A"
+ },
+ {
+  "code": "0130",
+  "text": "Odling av plantskoleväxter",
+  "section": "A"
+ },
+ {
+  "code": "01301",
+  "text": "Odling av plantskoleväxter i växthus",
+  "section": "A"
+ },
+ {
+  "code": "01302",
+  "text": "Odling av plantskoleväxter m.m. på friland",
+  "section": "A"
+ },
+ {
+  "code": "014",
+  "text": "Husdjursskötsel",
+  "section": "A"
+ },
+ {
+  "code": "0141",
+  "text": "Mjölkproduktion och uppfödning av nötkreatur av mjölkras",
+  "section": "A"
+ },
+ {
+  "code": "01410",
+  "text": "Mjölkproduktion och uppfödning av nötkreatur av mjölkras",
+  "section": "A"
+ },
+ {
+  "code": "0142",
+  "text": "Uppfödning av andra nötkreatur och bufflar",
+  "section": "A"
+ },
+ {
+  "code": "01420",
+  "text": "Uppfödning av andra nötkreatur och bufflar",
+  "section": "A"
+ },
+ {
+  "code": "0143",
+  "text": "Uppfödning av hästar och andra hästdjur",
+  "section": "A"
+ },
+ {
+  "code": "01430",
+  "text": "Uppfödning av hästar och andra hästdjur",
+  "section": "A"
+ },
+ {
+  "code": "0144",
+  "text": "Uppfödning av kameler och kameldjur",
+  "section": "A"
+ },
+ {
+  "code": "01440",
+  "text": "Uppfödning av kameler och kameldjur",
+  "section": "A"
+ },
+ {
+  "code": "0145",
+  "text": "Uppfödning av får och getter",
+  "section": "A"
+ },
+ {
+  "code": "01450",
+  "text": "Uppfödning av får och getter",
+  "section": "A"
+ },
+ {
+  "code": "0146",
+  "text": "Uppfödning av svin",
+  "section": "A"
+ },
+ {
+  "code": "01461",
+  "text": "Uppfödning av smågrisar",
+  "section": "A"
+ },
+ {
+  "code": "01462",
+  "text": "Uppfödning av slaktsvin",
+  "section": "A"
+ },
+ {
+  "code": "0147",
+  "text": "Äggproduktion och uppfödning av fjäderfä",
+  "section": "A"
+ },
+ {
+  "code": "01471",
+  "text": "Äggproduktion (för försäljning)",
+  "section": "A"
+ },
+ {
+  "code": "01472",
+  "text": "Uppfödning av fjäderfä, ej äggproduktion",
+  "section": "A"
+ },
+ {
+  "code": "0148",
+  "text": "Uppfödning av andra djur",
+  "section": "A"
+ },
+ {
+  "code": "01481",
+  "text": "Renskötsel",
+  "section": "A"
+ },
+ {
+  "code": "01482",
+  "text": "Uppfödning av sällskapsdjur",
+  "section": "A"
+ },
+ {
+  "code": "01489",
+  "text": "Övrig uppfödning av andra djur",
+  "section": "A"
+ },
+ {
+  "code": "015",
+  "text": "Blandat jordbruk",
+  "section": "A"
+ },
+ {
+  "code": "0150",
+  "text": "Blandat jordbruk",
+  "section": "A"
+ },
+ {
+  "code": "01500",
+  "text": "Blandat jordbruk",
+  "section": "A"
+ },
+ {
+  "code": "016",
+  "text": "Stödverksamhet avseende jordbruk och bearbetning av skördade växter",
+  "section": "A"
+ },
+ {
+  "code": "0161",
+  "text": "Stödverksamhet avseende växtodling",
+  "section": "A"
+ },
+ {
+  "code": "01610",
+  "text": "Stödverksamhet avseende växtodling",
+  "section": "A"
+ },
+ {
+  "code": "0162",
+  "text": "Stödverksamhet avseende husdjursskötsel",
+  "section": "A"
+ },
+ {
+  "code": "01620",
+  "text": "Stödverksamhet avseende husdjursskötsel",
+  "section": "A"
+ },
+ {
+  "code": "0163",
+  "text": "Bearbetning av skördade växter och utsäde",
+  "section": "A"
+ },
+ {
+  "code": "01630",
+  "text": "Bearbetning av skördade växter och utsäde",
+  "section": "A"
+ },
+ {
+  "code": "017",
+  "text": "Jakt och stödverksamhet i anslutning härtill",
+  "section": "A"
+ },
+ {
+  "code": "0170",
+  "text": "Jakt och stödverksamhet i anslutning härtill",
+  "section": "A"
+ },
+ {
+  "code": "01700",
+  "text": "Jakt och stödverksamhet i anslutning härtill",
+  "section": "A"
+ },
+ {
+  "code": "02",
+  "text": "Skogsbruk",
+  "section": "A"
+ },
+ {
+  "code": "021",
+  "text": "Skogsförvaltning och skogsskötsel",
+  "section": "A"
+ },
+ {
+  "code": "0210",
+  "text": "Skogsförvaltning och skogsskötsel",
+  "section": "A"
+ },
+ {
+  "code": "02101",
+  "text": "Skogsförvaltning",
+  "section": "A"
+ },
+ {
+  "code": "02102",
+  "text": "Skogsskötsel",
+  "section": "A"
+ },
+ {
+  "code": "02109",
+  "text": "Övrig skoglig verksamhet",
+  "section": "A"
+ },
+ {
+  "code": "022",
+  "text": "Drivning",
+  "section": "A"
+ },
+ {
+  "code": "0220",
+  "text": "Drivning",
+  "section": "A"
+ },
+ {
+  "code": "02200",
+  "text": "Drivning",
+  "section": "A"
+ },
+ {
+  "code": "023",
+  "text": "Insamling av annat vilt växande skogsmaterial än trä",
+  "section": "A"
+ },
+ {
+  "code": "0230",
+  "text": "Insamling av annat vilt växande skogsmaterial än trä",
+  "section": "A"
+ },
+ {
+  "code": "02300",
+  "text": "Insamling av annat vilt växande skogsmaterial än trä",
+  "section": "A"
+ },
+ {
+  "code": "024",
+  "text": "Stödverksamhet avseende skogsbruk",
+  "section": "A"
+ },
+ {
+  "code": "0240",
+  "text": "Stödverksamhet avseende skogsbruk",
+  "section": "A"
+ },
+ {
+  "code": "02400",
+  "text": "Stödverksamhet avseende skogsbruk",
+  "section": "A"
+ },
+ {
+  "code": "03",
+  "text": "Fiske och vattenbruk",
+  "section": "A"
+ },
+ {
+  "code": "031",
+  "text": "Fiske",
+  "section": "A"
+ },
+ {
+  "code": "0311",
+  "text": "Saltvattensfiske",
+  "section": "A"
+ },
+ {
+  "code": "03111",
+  "text": "Trålfiske i saltvatten",
+  "section": "A"
+ },
+ {
+  "code": "03119",
+  "text": "Övrigt saltvattensfiske",
+  "section": "A"
+ },
+ {
+  "code": "0312",
+  "text": "Sötvattensfiske",
+  "section": "A"
+ },
+ {
+  "code": "03120",
+  "text": "Sötvattensfiske",
+  "section": "A"
+ },
+ {
+  "code": "032",
+  "text": "Vattenbruk",
+  "section": "A"
+ },
+ {
+  "code": "0321",
+  "text": "Vattenbruk i saltvatten",
+  "section": "A"
+ },
+ {
+  "code": "03210",
+  "text": "Vattenbruk i saltvatten",
+  "section": "A"
+ },
+ {
+  "code": "0322",
+  "text": "Vattenbruk i sötvatten",
+  "section": "A"
+ },
+ {
+  "code": "03220",
+  "text": "Vattenbruk i sötvatten",
+  "section": "A"
+ },
+ {
+  "code": "033",
+  "text": "Stödverksamhet avseende fiske och vattenbruk",
+  "section": "A"
+ },
+ {
+  "code": "0330",
+  "text": "Stödverksamhet avseende fiske och vattenbruk",
+  "section": "A"
+ },
+ {
+  "code": "03300",
+  "text": "Stödverksamhet avseende fiske och vattenbruk",
+  "section": "A"
+ },
+ {
+  "code": "05",
+  "text": "Kolutvinning",
+  "section": "B"
+ },
+ {
+  "code": "051",
+  "text": "Stenkolsutvinning",
+  "section": "B"
+ },
+ {
+  "code": "0510",
+  "text": "Stenkolsutvinning",
+  "section": "B"
+ },
+ {
+  "code": "05100",
+  "text": "Stenkolsutvinning",
+  "section": "B"
+ },
+ {
+  "code": "052",
+  "text": "Brunkolsutvinning",
+  "section": "B"
+ },
+ {
+  "code": "0520",
+  "text": "Brunkolsutvinning",
+  "section": "B"
+ },
+ {
+  "code": "05200",
+  "text": "Brunkolsutvinning",
+  "section": "B"
+ },
+ {
+  "code": "06",
+  "text": "Utvinning av råpetroleum och naturgas",
+  "section": "B"
+ },
+ {
+  "code": "061",
+  "text": "Utvinning av råpetroleum",
+  "section": "B"
+ },
+ {
+  "code": "0610",
+  "text": "Utvinning av råpetroleum",
+  "section": "B"
+ },
+ {
+  "code": "06100",
+  "text": "Utvinning av råpetroleum",
+  "section": "B"
+ },
+ {
+  "code": "062",
+  "text": "Utvinning av naturgas",
+  "section": "B"
+ },
+ {
+  "code": "0620",
+  "text": "Utvinning av naturgas",
+  "section": "B"
+ },
+ {
+  "code": "06200",
+  "text": "Utvinning av naturgas",
+  "section": "B"
+ },
+ {
+  "code": "07",
+  "text": "Utvinning av metallmalmer",
+  "section": "B"
+ },
+ {
+  "code": "071",
+  "text": "Järnmalmsutvinning",
+  "section": "B"
+ },
+ {
+  "code": "0710",
+  "text": "Järnmalmsutvinning",
+  "section": "B"
+ },
+ {
+  "code": "07100",
+  "text": "Järnmalmsutvinning",
+  "section": "B"
+ },
+ {
+  "code": "072",
+  "text": "Utvinning av andra metallmalmer än järnmalm",
+  "section": "B"
+ },
+ {
+  "code": "0721",
+  "text": "Utvinning av uran- och toriummalm",
+  "section": "B"
+ },
+ {
+  "code": "07210",
+  "text": "Utvinning av uran- och toriummalm",
+  "section": "B"
+ },
+ {
+  "code": "0729",
+  "text": "Utvinning av annan malm",
+  "section": "B"
+ },
+ {
+  "code": "07290",
+  "text": "Utvinning av annan malm",
+  "section": "B"
+ },
+ {
+  "code": "08",
+  "text": "Annan utvinning av mineral",
+  "section": "B"
+ },
+ {
+  "code": "081",
+  "text": "Utvinning av sand, grus, sten och lera",
+  "section": "B"
+ },
+ {
+  "code": "0811",
+  "text": "Brytning av natursten, kalk- och gipssten, skiffer eller annan sten",
+  "section": "B"
+ },
+ {
+  "code": "08110",
+  "text": "Brytning av natursten, kalk- och gipssten, skiffer eller annan sten",
+  "section": "B"
+ },
+ {
+  "code": "0812",
+  "text": "Utvinning av sand, grus och berg samt utvinning av lera och kaolin",
+  "section": "B"
+ },
+ {
+  "code": "08120",
+  "text": "Utvinning av sand, grus och berg samt utvinning av lera och kaolin",
+  "section": "B"
+ },
+ {
+  "code": "089",
+  "text": "Övrig utvinning av mineral",
+  "section": "B"
+ },
+ {
+  "code": "0891",
+  "text": "Utvinning av kemiska mineral",
+  "section": "B"
+ },
+ {
+  "code": "08910",
+  "text": "Utvinning av kemiska mineral",
+  "section": "B"
+ },
+ {
+  "code": "0892",
+  "text": "Torvutvinning",
+  "section": "B"
+ },
+ {
+  "code": "08920",
+  "text": "Torvutvinning",
+  "section": "B"
+ },
+ {
+  "code": "0893",
+  "text": "Saltutvinning",
+  "section": "B"
+ },
+ {
+  "code": "08930",
+  "text": "Saltutvinning",
+  "section": "B"
+ },
+ {
+  "code": "0899",
+  "text": "Diverse övrig utvinning av mineral",
+  "section": "B"
+ },
+ {
+  "code": "08990",
+  "text": "Diverse övrig utvinning av mineral",
+  "section": "B"
+ },
+ {
+  "code": "09",
+  "text": "Stödverksamhet avseende utvinning",
+  "section": "B"
+ },
+ {
+  "code": "091",
+  "text": "Stödverksamhet avseende råpetroleum- och naturgasutvinning",
+  "section": "B"
+ },
+ {
+  "code": "0910",
+  "text": "Stödverksamhet avseende råpetroleum- och naturgasutvinning",
+  "section": "B"
+ },
+ {
+  "code": "09100",
+  "text": "Stödverksamhet avseende råpetroleum- och naturgasutvinning",
+  "section": "B"
+ },
+ {
+  "code": "099",
+  "text": "Stödverksamhet avseende annan utvinning",
+  "section": "B"
+ },
+ {
+  "code": "0990",
+  "text": "Stödverksamhet avseende annan utvinning",
+  "section": "B"
+ },
+ {
+  "code": "09900",
+  "text": "Stödverksamhet avseende annan utvinning",
+  "section": "B"
+ },
+ {
+  "code": "10",
+  "text": "Livsmedelsframställning",
+  "section": "C"
+ },
+ {
+  "code": "101",
+  "text": "Beredning och hållbarhetsbehandling av kött och köttvaror",
+  "section": "C"
+ },
+ {
+  "code": "1011",
+  "text": "Beredning och hållbarhetsbehandling av kött, utom fjäderfäkött",
+  "section": "C"
+ },
+ {
+  "code": "10111",
+  "text": "Kreatursslakt",
+  "section": "C"
+ },
+ {
+  "code": "10112",
+  "text": "Styckning av kött",
+  "section": "C"
+ },
+ {
+  "code": "1012",
+  "text": "Beredning och hållbarhetsbehandling av fjäderfäkött",
+  "section": "C"
+ },
+ {
+  "code": "10120",
+  "text": "Beredning och hållbarhetsbehandling av fjäderfäkött",
+  "section": "C"
+ },
+ {
+  "code": "1013",
+  "text": "Charkuteri- och annan köttvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "10130",
+  "text": "Charkuteri- och annan köttvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "102",
+  "text": "Beredning och hållbarhetsbehandling av fisk samt skal- och blötdjur",
+  "section": "C"
+ },
+ {
+  "code": "1020",
+  "text": "Beredning och hållbarhetsbehandling av fisk samt skal- och blötdjur",
+  "section": "C"
+ },
+ {
+  "code": "10200",
+  "text": "Beredning och hållbarhetsbehandling av fisk samt skal- och blötdjur",
+  "section": "C"
+ },
+ {
+  "code": "103",
+  "text": "Beredning och hållbarhetsbehandling av frukt, bär och grönsaker",
+  "section": "C"
+ },
+ {
+  "code": "1031",
+  "text": "Beredning och hållbarhetsbehandling av potatis",
+  "section": "C"
+ },
+ {
+  "code": "10310",
+  "text": "Beredning och hållbarhetsbehandling av potatis",
+  "section": "C"
+ },
+ {
+  "code": "1032",
+  "text": "Juice- och safttillverkning",
+  "section": "C"
+ },
+ {
+  "code": "10320",
+  "text": "Juice- och safttillverkning",
+  "section": "C"
+ },
+ {
+  "code": "1039",
+  "text": "Annan beredning och hållbarhetsbehandling av frukt, bär och grönsaker",
+  "section": "C"
+ },
+ {
+  "code": "10390",
+  "text": "Annan beredning och hållbarhetsbehandling av frukt, bär och grönsaker",
+  "section": "C"
+ },
+ {
+  "code": "104",
+  "text": "Framställning av vegetabiliska och animaliska oljor och fetter",
+  "section": "C"
+ },
+ {
+  "code": "1041",
+  "text": "Framställning av vegetabiliska och animaliska oljor och fetter",
+  "section": "C"
+ },
+ {
+  "code": "10410",
+  "text": "Framställning av vegetabiliska och animaliska oljor och fetter",
+  "section": "C"
+ },
+ {
+  "code": "1042",
+  "text": "Matfettstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "10420",
+  "text": "Matfettstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "105",
+  "text": "Tillverkning av mejerivaror och glassvaror",
+  "section": "C"
+ },
+ {
+  "code": "1051",
+  "text": "Tillverkning av mejerivaror",
+  "section": "C"
+ },
+ {
+  "code": "10511",
+  "text": "Osttillverkning",
+  "section": "C"
+ },
+ {
+  "code": "10519",
+  "text": "Annan mejerivarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "1052",
+  "text": "Tillverkning av glassvaror",
+  "section": "C"
+ },
+ {
+  "code": "10520",
+  "text": "Tillverkning av glassvaror",
+  "section": "C"
+ },
+ {
+  "code": "106",
+  "text": "Tillverkning av kvarnprodukter och stärkelse",
+  "section": "C"
+ },
+ {
+  "code": "1061",
+  "text": "Tillverkning av kvarnprodukter",
+  "section": "C"
+ },
+ {
+  "code": "10611",
+  "text": "Mjöltillverkning",
+  "section": "C"
+ },
+ {
+  "code": "10612",
+  "text": "Tillverkning av frukostflingor, mixer och andra livsmedelsberedningar av kvarnprodukter",
+  "section": "C"
+ },
+ {
+  "code": "1062",
+  "text": "Stärkelsetillverkning",
+  "section": "C"
+ },
+ {
+  "code": "10620",
+  "text": "Stärkelsetillverkning",
+  "section": "C"
+ },
+ {
+  "code": "107",
+  "text": "Tillverkning av bageri- och mjölprodukter",
+  "section": "C"
+ },
+ {
+  "code": "1071",
+  "text": "Tillverkning av mjukt matbröd och färska bakverk",
+  "section": "C"
+ },
+ {
+  "code": "10710",
+  "text": "Tillverkning av mjukt matbröd och färska bakverk",
+  "section": "C"
+ },
+ {
+  "code": "1072",
+  "text": "Tillverkning av knäckebröd, kex och konserverade bakverk",
+  "section": "C"
+ },
+ {
+  "code": "10721",
+  "text": "Knäckebrödstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "10722",
+  "text": "Tillverkning av kex och konserverade bakverk",
+  "section": "C"
+ },
+ {
+  "code": "1073",
+  "text": "Tillverkning av mjölprodukter",
+  "section": "C"
+ },
+ {
+  "code": "10730",
+  "text": "Tillverkning av mjölprodukter",
+  "section": "C"
+ },
+ {
+  "code": "108",
+  "text": "Annan livsmedelsframställning",
+  "section": "C"
+ },
+ {
+  "code": "1081",
+  "text": "Sockertillverkning",
+  "section": "C"
+ },
+ {
+  "code": "10810",
+  "text": "Sockertillverkning",
+  "section": "C"
+ },
+ {
+  "code": "1082",
+  "text": "Tillverkning av kakao, choklad- och sockerkonfektyrer",
+  "section": "C"
+ },
+ {
+  "code": "10820",
+  "text": "Tillverkning av kakao, choklad- och sockerkonfektyrer",
+  "section": "C"
+ },
+ {
+  "code": "1083",
+  "text": "Framställning av te och kaffe",
+  "section": "C"
+ },
+ {
+  "code": "10830",
+  "text": "Framställning av te och kaffe",
+  "section": "C"
+ },
+ {
+  "code": "1084",
+  "text": "Tillverkning av kryddor och andra smaksättare",
+  "section": "C"
+ },
+ {
+  "code": "10840",
+  "text": "Tillverkning av kryddor och andra smaksättare",
+  "section": "C"
+ },
+ {
+  "code": "1085",
+  "text": "Tillverkning av lagad mat och färdigrätter",
+  "section": "C"
+ },
+ {
+  "code": "10850",
+  "text": "Tillverkning av lagad mat och färdigrätter",
+  "section": "C"
+ },
+ {
+  "code": "1086",
+  "text": "Tillverkning av homogeniserade livsmedelsberedningar inklusive dietmat",
+  "section": "C"
+ },
+ {
+  "code": "10860",
+  "text": "Tillverkning av homogeniserade livsmedelsberedningar inklusive dietmat",
+  "section": "C"
+ },
+ {
+  "code": "1089",
+  "text": "Framställning av diverse övriga livsmedel",
+  "section": "C"
+ },
+ {
+  "code": "10890",
+  "text": "Framställning av diverse övriga livsmedel",
+  "section": "C"
+ },
+ {
+  "code": "109",
+  "text": "Framställning av beredda djurfoder",
+  "section": "C"
+ },
+ {
+  "code": "1091",
+  "text": "Framställning av beredda fodermedel",
+  "section": "C"
+ },
+ {
+  "code": "10910",
+  "text": "Framställning av beredda fodermedel",
+  "section": "C"
+ },
+ {
+  "code": "1092",
+  "text": "Framställning av mat till sällskapsdjur",
+  "section": "C"
+ },
+ {
+  "code": "10920",
+  "text": "Framställning av mat till sällskapsdjur",
+  "section": "C"
+ },
+ {
+  "code": "11",
+  "text": "Framställning av drycker",
+  "section": "C"
+ },
+ {
+  "code": "110",
+  "text": "Framställning av drycker",
+  "section": "C"
+ },
+ {
+  "code": "1101",
+  "text": "Destillering, rening och tillblandning av spritdrycker",
+  "section": "C"
+ },
+ {
+  "code": "11010",
+  "text": "Destillering, rening och tillblandning av spritdrycker",
+  "section": "C"
+ },
+ {
+  "code": "1102",
+  "text": "Framställning av vin från druvor",
+  "section": "C"
+ },
+ {
+  "code": "11020",
+  "text": "Framställning av vin från druvor",
+  "section": "C"
+ },
+ {
+  "code": "1103",
+  "text": "Framställning av cider och andra jästa drycker av frukt",
+  "section": "C"
+ },
+ {
+  "code": "11030",
+  "text": "Framställning av cider och andra jästa drycker av frukt",
+  "section": "C"
+ },
+ {
+  "code": "1104",
+  "text": "Framställning av andra icke-destillerade jästa drycker",
+  "section": "C"
+ },
+ {
+  "code": "11040",
+  "text": "Framställning av andra icke-destillerade jästa drycker",
+  "section": "C"
+ },
+ {
+  "code": "1105",
+  "text": "Framställning av öl",
+  "section": "C"
+ },
+ {
+  "code": "11050",
+  "text": "Framställning av öl",
+  "section": "C"
+ },
+ {
+  "code": "1106",
+  "text": "Framställning av malt",
+  "section": "C"
+ },
+ {
+  "code": "11060",
+  "text": "Framställning av malt",
+  "section": "C"
+ },
+ {
+  "code": "1107",
+  "text": "Framställning av läskedrycker, mineralvatten och annat vatten på flaska",
+  "section": "C"
+ },
+ {
+  "code": "11070",
+  "text": "Framställning av läskedrycker, mineralvatten och annat vatten på flaska",
+  "section": "C"
+ },
+ {
+  "code": "12",
+  "text": "Tobaksvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "120",
+  "text": "Tobaksvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "1200",
+  "text": "Tobaksvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "12000",
+  "text": "Tobaksvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "13",
+  "text": "Textilvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "131",
+  "text": "Garntillverkning",
+  "section": "C"
+ },
+ {
+  "code": "1310",
+  "text": "Garntillverkning",
+  "section": "C"
+ },
+ {
+  "code": "13100",
+  "text": "Garntillverkning",
+  "section": "C"
+ },
+ {
+  "code": "132",
+  "text": "Vävnadstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "1320",
+  "text": "Vävnadstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "13200",
+  "text": "Vävnadstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "133",
+  "text": "Blekning, färgning och annan textilberedning",
+  "section": "C"
+ },
+ {
+  "code": "1330",
+  "text": "Blekning, färgning och annan textilberedning",
+  "section": "C"
+ },
+ {
+  "code": "13300",
+  "text": "Blekning, färgning och annan textilberedning",
+  "section": "C"
+ },
+ {
+  "code": "139",
+  "text": "Annan textilietillverkning",
+  "section": "C"
+ },
+ {
+  "code": "1391",
+  "text": "Tillverkning av trikåväv",
+  "section": "C"
+ },
+ {
+  "code": "13910",
+  "text": "Tillverkning av trikåväv",
+  "section": "C"
+ },
+ {
+  "code": "1392",
+  "text": "Tillverkning av hushållstextilier och andra sydda inredningsartiklar",
+  "section": "C"
+ },
+ {
+  "code": "13920",
+  "text": "Tillverkning av hushållstextilier och andra sydda inredningsartiklar",
+  "section": "C"
+ },
+ {
+  "code": "1393",
+  "text": "Tillverkning av mattor",
+  "section": "C"
+ },
+ {
+  "code": "13930",
+  "text": "Tillverkning av mattor",
+  "section": "C"
+ },
+ {
+  "code": "1394",
+  "text": "Tågvirkes- och bindgarnstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "13940",
+  "text": "Tågvirkes- och bindgarnstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "1395",
+  "text": "Tillverkning av bondad duk och varor av bondad duk",
+  "section": "C"
+ },
+ {
+  "code": "13950",
+  "text": "Tillverkning av bondad duk och varor av bondad duk",
+  "section": "C"
+ },
+ {
+  "code": "1396",
+  "text": "Tillverkning av andra tekniska textilier och industritextilier",
+  "section": "C"
+ },
+ {
+  "code": "13960",
+  "text": "Tillverkning av andra tekniska textilier och industritextilier",
+  "section": "C"
+ },
+ {
+  "code": "1399",
+  "text": "Övrig textilietillverkning",
+  "section": "C"
+ },
+ {
+  "code": "13990",
+  "text": "Övrig textilietillverkning",
+  "section": "C"
+ },
+ {
+  "code": "14",
+  "text": "Tillverkning av kläder",
+  "section": "C"
+ },
+ {
+  "code": "141",
+  "text": "Tillverkning av trikåvaror",
+  "section": "C"
+ },
+ {
+  "code": "1410",
+  "text": "Tillverkning av trikåvaror",
+  "section": "C"
+ },
+ {
+  "code": "14100",
+  "text": "Tillverkning av trikåvaror",
+  "section": "C"
+ },
+ {
+  "code": "142",
+  "text": "Tillverkning av andra beklädnadsvaror och tillbehör",
+  "section": "C"
+ },
+ {
+  "code": "1421",
+  "text": "Tillverkning av gång- och ytterkläder",
+  "section": "C"
+ },
+ {
+  "code": "14210",
+  "text": "Tillverkning av gång- och ytterkläder",
+  "section": "C"
+ },
+ {
+  "code": "1422",
+  "text": "Tillverkning av underkläder, skjortor och blusar",
+  "section": "C"
+ },
+ {
+  "code": "14220",
+  "text": "Tillverkning av underkläder, skjortor och blusar",
+  "section": "C"
+ },
+ {
+  "code": "1423",
+  "text": "Tillverkning av arbets-, skydds- och överdragskläder",
+  "section": "C"
+ },
+ {
+  "code": "14230",
+  "text": "Tillverkning av arbets-, skydds- och överdragskläder",
+  "section": "C"
+ },
+ {
+  "code": "1424",
+  "text": "Tillverkning av läder- och skinnkläder samt pälsvaror",
+  "section": "C"
+ },
+ {
+  "code": "14240",
+  "text": "Tillverkning av läder- och skinnkläder samt pälsvaror",
+  "section": "C"
+ },
+ {
+  "code": "1429",
+  "text": "Tillverkning av diverse övriga beklädnadsvaror och tillbehör",
+  "section": "C"
+ },
+ {
+  "code": "14290",
+  "text": "Tillverkning av diverse övriga beklädnadsvaror och tillbehör",
+  "section": "C"
+ },
+ {
+  "code": "15",
+  "text": "Tillverkning av läder- och skinnvaror och liknande varor av andra material",
+  "section": "C"
+ },
+ {
+  "code": "151",
+  "text": "Garvning och annan beredning av läder-, skinn och pälsvaror| tillverkning av reseffekter, handväskor, sadel- och seldon",
+  "section": "C"
+ },
+ {
+  "code": "1511",
+  "text": "Garvning och annan beredning av läder-, skinn- och pälsvaror",
+  "section": "C"
+ },
+ {
+  "code": "15110",
+  "text": "Garvning och annan beredning av läder-, skinn- och pälsvaror",
+  "section": "C"
+ },
+ {
+  "code": "1512",
+  "text": "Tillverkning av reseffekter, handväskor, sadel- och seldon oavsett material",
+  "section": "C"
+ },
+ {
+  "code": "15120",
+  "text": "Tillverkning av reseffekter, handväskor, sadel- och seldon oavsett material",
+  "section": "C"
+ },
+ {
+  "code": "152",
+  "text": "Tillverkning av skodon",
+  "section": "C"
+ },
+ {
+  "code": "1520",
+  "text": "Tillverkning av skodon",
+  "section": "C"
+ },
+ {
+  "code": "15200",
+  "text": "Tillverkning av skodon",
+  "section": "C"
+ },
+ {
+  "code": "16",
+  "text": "Tillverkning av trä och varor av trä och kork, utom möbler: tillverkning av varor av halm, rotting o.d.",
+  "section": "C"
+ },
+ {
+  "code": "161",
+  "text": "Sågning och hyvling av trä| bearbetning och slutbehandling av trä",
+  "section": "C"
+ },
+ {
+  "code": "1611",
+  "text": "Sågning och hyvling av trä",
+  "section": "C"
+ },
+ {
+  "code": "16111",
+  "text": "Sågning av trä",
+  "section": "C"
+ },
+ {
+  "code": "16112",
+  "text": "Hyvling av trä",
+  "section": "C"
+ },
+ {
+  "code": "1612",
+  "text": "Bearbetning och slutbehandling av trä",
+  "section": "C"
+ },
+ {
+  "code": "16120",
+  "text": "Bearbetning och slutbehandling av trä",
+  "section": "C"
+ },
+ {
+  "code": "162",
+  "text": "Tillverkning av varor av trä, kork, halm, rotting o.d.",
+  "section": "C"
+ },
+ {
+  "code": "1621",
+  "text": "Tillverkning av fanér och träbaserade skivor",
+  "section": "C"
+ },
+ {
+  "code": "16210",
+  "text": "Tillverkning av fanér och träbaserade skivor",
+  "section": "C"
+ },
+ {
+  "code": "1622",
+  "text": "Tillverkning av sammansatta parkettgolv",
+  "section": "C"
+ },
+ {
+  "code": "16220",
+  "text": "Tillverkning av sammansatta parkettgolv",
+  "section": "C"
+ },
+ {
+  "code": "1623",
+  "text": "Tillverkning av andra byggnads- och inredningssnickerier",
+  "section": "C"
+ },
+ {
+  "code": "16231",
+  "text": "Tillverkning av monteringsfärdiga trähus",
+  "section": "C"
+ },
+ {
+  "code": "16239",
+  "text": "Tillverkning av övriga byggnads- och inredningssnickerier",
+  "section": "C"
+ },
+ {
+  "code": "1624",
+  "text": "Träförpackningstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "16240",
+  "text": "Träförpackningstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "1625",
+  "text": "Tillverkning av dörrar och fönster av trä",
+  "section": "C"
+ },
+ {
+  "code": "16250",
+  "text": "Tillverkning av dörrar och fönster av trä",
+  "section": "C"
+ },
+ {
+  "code": "1626",
+  "text": "Tillverkning av fasta bränslen av vegetabilisk biomassa",
+  "section": "C"
+ },
+ {
+  "code": "16260",
+  "text": "Tillverkning av fasta bränslen av vegetabilisk biomassa",
+  "section": "C"
+ },
+ {
+  "code": "1627",
+  "text": "Slutbehandling av varor av trä",
+  "section": "C"
+ },
+ {
+  "code": "16270",
+  "text": "Slutbehandling av varor av trä",
+  "section": "C"
+ },
+ {
+  "code": "1628",
+  "text": "Tillverkning av andra varor av trä och varor av kork, halm, rotting o.d.",
+  "section": "C"
+ },
+ {
+  "code": "16281",
+  "text": "Övrig trävarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "16282",
+  "text": "Tillverkning av varor av kork, halm, rotting o.d.",
+  "section": "C"
+ },
+ {
+  "code": "17",
+  "text": "Pappers- och pappersvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "171",
+  "text": "Massa-, pappers- och papptillverkning",
+  "section": "C"
+ },
+ {
+  "code": "1711",
+  "text": "Massatillverkning",
+  "section": "C"
+ },
+ {
+  "code": "17110",
+  "text": "Massatillverkning",
+  "section": "C"
+ },
+ {
+  "code": "1712",
+  "text": "Pappers- och papptillverkning",
+  "section": "C"
+ },
+ {
+  "code": "17121",
+  "text": "Tillverkning av tidnings- och journalpapper samt tryckpapper",
+  "section": "C"
+ },
+ {
+  "code": "17122",
+  "text": "Tillverkning av kraftpapper och kraftpapp",
+  "section": "C"
+ },
+ {
+  "code": "17129",
+  "text": "Övrig tillverkning av papper och papp",
+  "section": "C"
+ },
+ {
+  "code": "172",
+  "text": "Tillverkning av pappers- och pappvaror",
+  "section": "C"
+ },
+ {
+  "code": "1721",
+  "text": "Tillverkning av wellpapp och pappers- och pappförpackningar",
+  "section": "C"
+ },
+ {
+  "code": "17211",
+  "text": "Tillverkning av wellpapp och wellpappförpackningar",
+  "section": "C"
+ },
+ {
+  "code": "17219",
+  "text": "Övrig tillverkning av pappers- och pappförpackningar",
+  "section": "C"
+ },
+ {
+  "code": "1722",
+  "text": "Tillverkning av hushålls- och hygienartiklar av papper",
+  "section": "C"
+ },
+ {
+  "code": "17220",
+  "text": "Tillverkning av hushålls- och hygienartiklar av papper",
+  "section": "C"
+ },
+ {
+  "code": "1723",
+  "text": "Tillverkning av skrivpapper, kuvert o.d.",
+  "section": "C"
+ },
+ {
+  "code": "17230",
+  "text": "Tillverkning av skrivpapper, kuvert o.d.",
+  "section": "C"
+ },
+ {
+  "code": "1724",
+  "text": "Tapettillverkning",
+  "section": "C"
+ },
+ {
+  "code": "17240",
+  "text": "Tapettillverkning",
+  "section": "C"
+ },
+ {
+  "code": "1725",
+  "text": "Tillverkning av andra pappers- och pappvaror",
+  "section": "C"
+ },
+ {
+  "code": "17250",
+  "text": "Tillverkning av andra pappers- och pappvaror",
+  "section": "C"
+ },
+ {
+  "code": "18",
+  "text": "Grafisk produktion och reproduktion av inspelningar",
+  "section": "C"
+ },
+ {
+  "code": "181",
+  "text": "Grafisk produktion",
+  "section": "C"
+ },
+ {
+  "code": "1811",
+  "text": "Tryckning av dagstidningar",
+  "section": "C"
+ },
+ {
+  "code": "18110",
+  "text": "Tryckning av dagstidningar",
+  "section": "C"
+ },
+ {
+  "code": "1812",
+  "text": "Annan tryckning",
+  "section": "C"
+ },
+ {
+  "code": "18121",
+  "text": "Tryckning av tidskrifter",
+  "section": "C"
+ },
+ {
+  "code": "18122",
+  "text": "Tryckning av böcker och övriga trycksaker",
+  "section": "C"
+ },
+ {
+  "code": "1813",
+  "text": "Grafiska tjänster före tryckning (prepress/premedia)",
+  "section": "C"
+ },
+ {
+  "code": "18130",
+  "text": "Grafiska tjänster före tryckning (prepress/premedia)",
+  "section": "C"
+ },
+ {
+  "code": "1814",
+  "text": "Bokbindning och annan verksamhet avseende tryckning",
+  "section": "C"
+ },
+ {
+  "code": "18140",
+  "text": "Bokbindning och annan verksamhet avseende tryckning",
+  "section": "C"
+ },
+ {
+  "code": "182",
+  "text": "Reproduktion av inspelningar",
+  "section": "C"
+ },
+ {
+  "code": "1820",
+  "text": "Reproduktion av inspelningar",
+  "section": "C"
+ },
+ {
+  "code": "18200",
+  "text": "Reproduktion av inspelningar",
+  "section": "C"
+ },
+ {
+  "code": "19",
+  "text": "Tillverkning av stenkolsprodukter och raffinerade petroleumprodukter",
+  "section": "C"
+ },
+ {
+  "code": "191",
+  "text": "Tillverkning av stenkolsprodukter",
+  "section": "C"
+ },
+ {
+  "code": "1910",
+  "text": "Tillverkning av stenkolsprodukter",
+  "section": "C"
+ },
+ {
+  "code": "19100",
+  "text": "Tillverkning av stenkolsprodukter",
+  "section": "C"
+ },
+ {
+  "code": "192",
+  "text": "Tillverkning av raffinerade petroleumprodukter och fossila bränsleprodukter",
+  "section": "C"
+ },
+ {
+  "code": "1920",
+  "text": "Tillverkning av raffinerade petroleumprodukter och fossila bränsleprodukter",
+  "section": "C"
+ },
+ {
+  "code": "19200",
+  "text": "Tillverkning av raffinerade petroleumprodukter och fossila bränsleprodukter",
+  "section": "C"
+ },
+ {
+  "code": "20",
+  "text": "Tillverkning av kemikalier och kemiska produkter",
+  "section": "C"
+ },
+ {
+  "code": "201",
+  "text": "Tillverkning av baskemikalier, gödselmedel och kväveprodukter, plaster och syntetgummi i obearbetad form",
+  "section": "C"
+ },
+ {
+  "code": "2011",
+  "text": "Industrigasframställning",
+  "section": "C"
+ },
+ {
+  "code": "20110",
+  "text": "Industrigasframställning",
+  "section": "C"
+ },
+ {
+  "code": "2012",
+  "text": "Tillverkning av färgämnen",
+  "section": "C"
+ },
+ {
+  "code": "20120",
+  "text": "Tillverkning av färgämnen",
+  "section": "C"
+ },
+ {
+  "code": "2013",
+  "text": "Tillverkning av andra oorganiska baskemikalier",
+  "section": "C"
+ },
+ {
+  "code": "20130",
+  "text": "Tillverkning av andra oorganiska baskemikalier",
+  "section": "C"
+ },
+ {
+  "code": "2014",
+  "text": "Tillverkning av andra organiska baskemikalier",
+  "section": "C"
+ },
+ {
+  "code": "20140",
+  "text": "Tillverkning av andra organiska baskemikalier",
+  "section": "C"
+ },
+ {
+  "code": "2015",
+  "text": "Tillverkning av gödselmedel och kväveprodukter",
+  "section": "C"
+ },
+ {
+  "code": "20150",
+  "text": "Tillverkning av gödselmedel och kväveprodukter",
+  "section": "C"
+ },
+ {
+  "code": "2016",
+  "text": "Basplastframställning",
+  "section": "C"
+ },
+ {
+  "code": "20160",
+  "text": "Basplastframställning",
+  "section": "C"
+ },
+ {
+  "code": "2017",
+  "text": "Tillverkning av syntetiskt basgummi",
+  "section": "C"
+ },
+ {
+  "code": "20170",
+  "text": "Tillverkning av syntetiskt basgummi",
+  "section": "C"
+ },
+ {
+  "code": "202",
+  "text": "Tillverkning av bekämpningsmedel, desinfektionsmedel och andra lantbrukskemiska produkter",
+  "section": "C"
+ },
+ {
+  "code": "2020",
+  "text": "Tillverkning av bekämpningsmedel, desinfektionsmedel och andra lantbrukskemiska produkter",
+  "section": "C"
+ },
+ {
+  "code": "20200",
+  "text": "Tillverkning av bekämpningsmedel, desinfektionsmedel och andra lantbrukskemiska produkter",
+  "section": "C"
+ },
+ {
+  "code": "203",
+  "text": "Tillverkning av färg, lack, tryckfärg m.m.",
+  "section": "C"
+ },
+ {
+  "code": "2030",
+  "text": "Tillverkning av färg, lack, tryckfärg m.m.",
+  "section": "C"
+ },
+ {
+  "code": "20300",
+  "text": "Tillverkning av färg, lack, tryckfärg m.m.",
+  "section": "C"
+ },
+ {
+  "code": "204",
+  "text": "Tillverkning av rengöringsmedel, tvättmedel och polermedel",
+  "section": "C"
+ },
+ {
+  "code": "2041",
+  "text": "Tillverkning av tvål, såpa, tvättmedel och polermedel",
+  "section": "C"
+ },
+ {
+  "code": "20410",
+  "text": "Tillverkning av tvål, såpa, tvättmedel och polermedel",
+  "section": "C"
+ },
+ {
+  "code": "2042",
+  "text": "Tillverkning av parfym och toalettartiklar",
+  "section": "C"
+ },
+ {
+  "code": "20420",
+  "text": "Tillverkning av parfym och toalettartiklar",
+  "section": "C"
+ },
+ {
+  "code": "205",
+  "text": "Tillverkning av andra kemiska produkter",
+  "section": "C"
+ },
+ {
+  "code": "2051",
+  "text": "Tillverkning av flytande biobränslen",
+  "section": "C"
+ },
+ {
+  "code": "20510",
+  "text": "Tillverkning av flytande biobränslen",
+  "section": "C"
+ },
+ {
+  "code": "2059",
+  "text": "Tillverkning av diverse övriga kemiska produkter",
+  "section": "C"
+ },
+ {
+  "code": "20591",
+  "text": "Sprängämnestillverkning",
+  "section": "C"
+ },
+ {
+  "code": "20592",
+  "text": "Tillverkning av lim",
+  "section": "C"
+ },
+ {
+  "code": "20593",
+  "text": "Tillverkning av eteriska oljor",
+  "section": "C"
+ },
+ {
+  "code": "20599",
+  "text": "Tillverkning av övriga kemiska produkter",
+  "section": "C"
+ },
+ {
+  "code": "206",
+  "text": "Konstfibertillverkning",
+  "section": "C"
+ },
+ {
+  "code": "2060",
+  "text": "Konstfibertillverkning",
+  "section": "C"
+ },
+ {
+  "code": "20600",
+  "text": "Konstfibertillverkning",
+  "section": "C"
+ },
+ {
+  "code": "21",
+  "text": "Tillverkning av farmaceutiska basprodukter och läkemedel",
+  "section": "C"
+ },
+ {
+  "code": "211",
+  "text": "Tillverkning av farmaceutiska basprodukter",
+  "section": "C"
+ },
+ {
+  "code": "2110",
+  "text": "Tillverkning av farmaceutiska basprodukter",
+  "section": "C"
+ },
+ {
+  "code": "21100",
+  "text": "Tillverkning av farmaceutiska basprodukter",
+  "section": "C"
+ },
+ {
+  "code": "212",
+  "text": "Tillverkning av läkemedel",
+  "section": "C"
+ },
+ {
+  "code": "2120",
+  "text": "Tillverkning av läkemedel",
+  "section": "C"
+ },
+ {
+  "code": "21200",
+  "text": "Tillverkning av läkemedel",
+  "section": "C"
+ },
+ {
+  "code": "22",
+  "text": "Tillverkning av gummi- och plastvaror",
+  "section": "C"
+ },
+ {
+  "code": "221",
+  "text": "Tillverkning av gummivaror",
+  "section": "C"
+ },
+ {
+  "code": "2211",
+  "text": "Tillverkning och regummering av däck, tillverkning av slangar",
+  "section": "C"
+ },
+ {
+  "code": "22110",
+  "text": "Tillverkning och regummering av däck, tillverkning av slangar",
+  "section": "C"
+ },
+ {
+  "code": "2212",
+  "text": "Annan gummivarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "22120",
+  "text": "Annan gummivarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "222",
+  "text": "Plastvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "2221",
+  "text": "Tillverkning av plasthalvfabrikat",
+  "section": "C"
+ },
+ {
+  "code": "22210",
+  "text": "Tillverkning av plasthalvfabrikat",
+  "section": "C"
+ },
+ {
+  "code": "2222",
+  "text": "Plastförpackningstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "22220",
+  "text": "Plastförpackningstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "2223",
+  "text": "Tillverkning av dörrar och fönster av plast",
+  "section": "C"
+ },
+ {
+  "code": "22230",
+  "text": "Tillverkning av dörrar och fönster av plast",
+  "section": "C"
+ },
+ {
+  "code": "2224",
+  "text": "Byggplastvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "22240",
+  "text": "Byggplastvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "2225",
+  "text": "Bearbetning och slutbehandling av plastvaror",
+  "section": "C"
+ },
+ {
+  "code": "22250",
+  "text": "Bearbetning och slutbehandling av plastvaror",
+  "section": "C"
+ },
+ {
+  "code": "2226",
+  "text": "Annan plastvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "22260",
+  "text": "Annan plastvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "23",
+  "text": "Tillverkning av andra icke-metalliska mineraliska produkter",
+  "section": "C"
+ },
+ {
+  "code": "231",
+  "text": "Glas- och glasvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "2311",
+  "text": "Tillverkning av planglas",
+  "section": "C"
+ },
+ {
+  "code": "23110",
+  "text": "Tillverkning av planglas",
+  "section": "C"
+ },
+ {
+  "code": "2312",
+  "text": "Bearbetning av planglas",
+  "section": "C"
+ },
+ {
+  "code": "23120",
+  "text": "Bearbetning av planglas",
+  "section": "C"
+ },
+ {
+  "code": "2313",
+  "text": "Tillverkning av buteljer, glasförpackningar och husgeråd av glas",
+  "section": "C"
+ },
+ {
+  "code": "23130",
+  "text": "Tillverkning av buteljer, glasförpackningar och husgeråd av glas",
+  "section": "C"
+ },
+ {
+  "code": "2314",
+  "text": "Tillverkning av glasfiber",
+  "section": "C"
+ },
+ {
+  "code": "23140",
+  "text": "Tillverkning av glasfiber",
+  "section": "C"
+ },
+ {
+  "code": "2315",
+  "text": "Tillverkning av andra glasvaror inklusive tekniska glasvaror",
+  "section": "C"
+ },
+ {
+  "code": "23150",
+  "text": "Tillverkning av andra glasvaror inklusive tekniska glasvaror",
+  "section": "C"
+ },
+ {
+  "code": "232",
+  "text": "Tillverkning av eldfasta produkter",
+  "section": "C"
+ },
+ {
+  "code": "2320",
+  "text": "Tillverkning av eldfasta produkter",
+  "section": "C"
+ },
+ {
+  "code": "23200",
+  "text": "Tillverkning av eldfasta produkter",
+  "section": "C"
+ },
+ {
+  "code": "233",
+  "text": "Tillverkning av byggmaterial av lergods",
+  "section": "C"
+ },
+ {
+  "code": "2331",
+  "text": "Tillverkning av keramiska golv- och väggplattor",
+  "section": "C"
+ },
+ {
+  "code": "23310",
+  "text": "Tillverkning av keramiska golv- och väggplattor",
+  "section": "C"
+ },
+ {
+  "code": "2332",
+  "text": "Tillverkning av murtegel, takpannor och andra byggvaror av tegel",
+  "section": "C"
+ },
+ {
+  "code": "23320",
+  "text": "Tillverkning av murtegel, takpannor och andra byggvaror av tegel",
+  "section": "C"
+ },
+ {
+  "code": "234",
+  "text": "Tillverkning av andra porslinsprodukter och keramiska produkter",
+  "section": "C"
+ },
+ {
+  "code": "2341",
+  "text": "Tillverkning av keramiska hushålls- och prydnadsartiklar",
+  "section": "C"
+ },
+ {
+  "code": "23410",
+  "text": "Tillverkning av keramiska hushålls- och prydnadsartiklar",
+  "section": "C"
+ },
+ {
+  "code": "2342",
+  "text": "Tillverkning av keramiska sanitetsartiklar",
+  "section": "C"
+ },
+ {
+  "code": "23420",
+  "text": "Tillverkning av keramiska sanitetsartiklar",
+  "section": "C"
+ },
+ {
+  "code": "2343",
+  "text": "Tillverkning av keramiska isolatorer o.d.",
+  "section": "C"
+ },
+ {
+  "code": "23430",
+  "text": "Tillverkning av keramiska isolatorer o.d.",
+  "section": "C"
+ },
+ {
+  "code": "2344",
+  "text": "Tillverkning av andra tekniska keramiska produkter",
+  "section": "C"
+ },
+ {
+  "code": "23440",
+  "text": "Tillverkning av andra tekniska keramiska produkter",
+  "section": "C"
+ },
+ {
+  "code": "2345",
+  "text": "Tillverkning av andra keramiska produkter",
+  "section": "C"
+ },
+ {
+  "code": "23450",
+  "text": "Tillverkning av andra keramiska produkter",
+  "section": "C"
+ },
+ {
+  "code": "235",
+  "text": "Tillverkning av cement, kalk och gips",
+  "section": "C"
+ },
+ {
+  "code": "2351",
+  "text": "Tillverkning av cement",
+  "section": "C"
+ },
+ {
+  "code": "23510",
+  "text": "Tillverkning av cement",
+  "section": "C"
+ },
+ {
+  "code": "2352",
+  "text": "Tillverkning av kalk och gips",
+  "section": "C"
+ },
+ {
+  "code": "23520",
+  "text": "Tillverkning av kalk och gips",
+  "section": "C"
+ },
+ {
+  "code": "236",
+  "text": "Tillverkning av varor av betong, cement och gips",
+  "section": "C"
+ },
+ {
+  "code": "2361",
+  "text": "Tillverkning av betongvaror för byggändamål",
+  "section": "C"
+ },
+ {
+  "code": "23610",
+  "text": "Tillverkning av betongvaror för byggändamål",
+  "section": "C"
+ },
+ {
+  "code": "2362",
+  "text": "Tillverkning av gipsvaror för byggändamål",
+  "section": "C"
+ },
+ {
+  "code": "23620",
+  "text": "Tillverkning av gipsvaror för byggändamål",
+  "section": "C"
+ },
+ {
+  "code": "2363",
+  "text": "Tillverkning av fabriksblandad betong",
+  "section": "C"
+ },
+ {
+  "code": "23630",
+  "text": "Tillverkning av fabriksblandad betong",
+  "section": "C"
+ },
+ {
+  "code": "2364",
+  "text": "Tillverkning av murbruk",
+  "section": "C"
+ },
+ {
+  "code": "23640",
+  "text": "Tillverkning av murbruk",
+  "section": "C"
+ },
+ {
+  "code": "2365",
+  "text": "Tillverkning av fibercementvaror",
+  "section": "C"
+ },
+ {
+  "code": "23650",
+  "text": "Tillverkning av fibercementvaror",
+  "section": "C"
+ },
+ {
+  "code": "2366",
+  "text": "Tillverkning av andra varor av betong, cement och gips",
+  "section": "C"
+ },
+ {
+  "code": "23660",
+  "text": "Tillverkning av andra varor av betong, cement och gips",
+  "section": "C"
+ },
+ {
+  "code": "237",
+  "text": "Huggning, formning och slutlig bearbetning av sten",
+  "section": "C"
+ },
+ {
+  "code": "2370",
+  "text": "Huggning, formning och slutlig bearbetning av sten",
+  "section": "C"
+ },
+ {
+  "code": "23701",
+  "text": "Huggning, formning och slutlig bearbetning av sten för byggnadsändamål",
+  "section": "C"
+ },
+ {
+  "code": "23709",
+  "text": "Huggning, formning och slutlig bearbetning av sten för prydnadsändamål",
+  "section": "C"
+ },
+ {
+  "code": "239",
+  "text": "Tillverkning av slipmedel och övriga icke-metalliska mineraliska produkter",
+  "section": "C"
+ },
+ {
+  "code": "2391",
+  "text": "Tillverkning av slipmedel",
+  "section": "C"
+ },
+ {
+  "code": "23910",
+  "text": "Tillverkning av slipmedel",
+  "section": "C"
+ },
+ {
+  "code": "2399",
+  "text": "Tillverkning av diverse övriga icke-metalliska mineraliska produkter",
+  "section": "C"
+ },
+ {
+  "code": "23991",
+  "text": "Tillverkning av varor av sten- och mineralull",
+  "section": "C"
+ },
+ {
+  "code": "23999",
+  "text": "Diverse övrig tillverkning av icke-metalliska mineraliska produkter",
+  "section": "C"
+ },
+ {
+  "code": "24",
+  "text": "Stål- och metallframställning",
+  "section": "C"
+ },
+ {
+  "code": "241",
+  "text": "Framställning av järn och stål samt ferrolegeringar",
+  "section": "C"
+ },
+ {
+  "code": "2410",
+  "text": "Framställning av järn och stål samt ferrolegeringar",
+  "section": "C"
+ },
+ {
+  "code": "24100",
+  "text": "Framställning av järn och stål samt ferrolegeringar",
+  "section": "C"
+ },
+ {
+  "code": "242",
+  "text": "Tillverkning av rör, ledningar, ihåliga profiler och tillbehör av stål",
+  "section": "C"
+ },
+ {
+  "code": "2420",
+  "text": "Tillverkning av rör, ledningar, ihåliga profiler och tillbehör av stål",
+  "section": "C"
+ },
+ {
+  "code": "24200",
+  "text": "Tillverkning av rör, ledningar, ihåliga profiler och tillbehör av stål",
+  "section": "C"
+ },
+ {
+  "code": "243",
+  "text": "Annan primärbearbetning av stål",
+  "section": "C"
+ },
+ {
+  "code": "2431",
+  "text": "Tillverkning av kalldragen stålstång",
+  "section": "C"
+ },
+ {
+  "code": "24310",
+  "text": "Tillverkning av kalldragen stålstång",
+  "section": "C"
+ },
+ {
+  "code": "2432",
+  "text": "Tillverkning av kallvalsade stålband",
+  "section": "C"
+ },
+ {
+  "code": "24320",
+  "text": "Tillverkning av kallvalsade stålband",
+  "section": "C"
+ },
+ {
+  "code": "2433",
+  "text": "Tillverkning av andra kallformade produkter av stål",
+  "section": "C"
+ },
+ {
+  "code": "24330",
+  "text": "Tillverkning av andra kallformade produkter av stål",
+  "section": "C"
+ },
+ {
+  "code": "2434",
+  "text": "Tillverkning av kalldragen ståltråd",
+  "section": "C"
+ },
+ {
+  "code": "24340",
+  "text": "Tillverkning av kalldragen ståltråd",
+  "section": "C"
+ },
+ {
+  "code": "244",
+  "text": "Framställning av andra metaller än järn",
+  "section": "C"
+ },
+ {
+  "code": "2441",
+  "text": "Framställning av ädla metaller",
+  "section": "C"
+ },
+ {
+  "code": "24410",
+  "text": "Framställning av ädla metaller",
+  "section": "C"
+ },
+ {
+  "code": "2442",
+  "text": "Framställning av aluminium",
+  "section": "C"
+ },
+ {
+  "code": "24420",
+  "text": "Framställning av aluminium",
+  "section": "C"
+ },
+ {
+  "code": "2443",
+  "text": "Framställning av bly, zink och tenn",
+  "section": "C"
+ },
+ {
+  "code": "24430",
+  "text": "Framställning av bly, zink och tenn",
+  "section": "C"
+ },
+ {
+  "code": "2444",
+  "text": "Framställning av koppar",
+  "section": "C"
+ },
+ {
+  "code": "24440",
+  "text": "Framställning av koppar",
+  "section": "C"
+ },
+ {
+  "code": "2445",
+  "text": "Framställning av andra metaller",
+  "section": "C"
+ },
+ {
+  "code": "24450",
+  "text": "Framställning av andra metaller",
+  "section": "C"
+ },
+ {
+  "code": "2446",
+  "text": "Tillverkning av kärnbränsle",
+  "section": "C"
+ },
+ {
+  "code": "24460",
+  "text": "Tillverkning av kärnbränsle",
+  "section": "C"
+ },
+ {
+  "code": "245",
+  "text": "Gjutning av metall",
+  "section": "C"
+ },
+ {
+  "code": "2451",
+  "text": "Gjutning av järn",
+  "section": "C"
+ },
+ {
+  "code": "24510",
+  "text": "Gjutning av järn",
+  "section": "C"
+ },
+ {
+  "code": "2452",
+  "text": "Gjutning av stål",
+  "section": "C"
+ },
+ {
+  "code": "24520",
+  "text": "Gjutning av stål",
+  "section": "C"
+ },
+ {
+  "code": "2453",
+  "text": "Gjutning av lättmetall",
+  "section": "C"
+ },
+ {
+  "code": "24530",
+  "text": "Gjutning av lättmetall",
+  "section": "C"
+ },
+ {
+  "code": "2454",
+  "text": "Gjutning av andra metaller",
+  "section": "C"
+ },
+ {
+  "code": "24540",
+  "text": "Gjutning av andra metaller",
+  "section": "C"
+ },
+ {
+  "code": "25",
+  "text": "Tillverkning av metallvaror utom maskiner och apparater",
+  "section": "C"
+ },
+ {
+  "code": "251",
+  "text": "Byggnadsmetallvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "2511",
+  "text": "Tillverkning av metallstommar och delar därav",
+  "section": "C"
+ },
+ {
+  "code": "25110",
+  "text": "Tillverkning av metallstommar och delar därav",
+  "section": "C"
+ },
+ {
+  "code": "2512",
+  "text": "Tillverkning av dörrar och fönster av metall",
+  "section": "C"
+ },
+ {
+  "code": "25120",
+  "text": "Tillverkning av dörrar och fönster av metall",
+  "section": "C"
+ },
+ {
+  "code": "252",
+  "text": "Tillverkning av cisterner, tankar, kar och andra behållare av metall",
+  "section": "C"
+ },
+ {
+  "code": "2521",
+  "text": "Tillverkning av radiatorer, ånggeneratorer och pannor för centraluppvärmning",
+  "section": "C"
+ },
+ {
+  "code": "25210",
+  "text": "Tillverkning av radiatorer, ånggeneratorer och pannor för centraluppvärmning",
+  "section": "C"
+ },
+ {
+  "code": "2522",
+  "text": "Tillverkning av andra cisterner, tankar, kar och andra behållare av metall",
+  "section": "C"
+ },
+ {
+  "code": "25220",
+  "text": "Tillverkning av andra cisterner, tankar, kar och andra behållare av metall",
+  "section": "C"
+ },
+ {
+  "code": "253",
+  "text": "Tillverkning av vapen och ammunition",
+  "section": "C"
+ },
+ {
+  "code": "2530",
+  "text": "Tillverkning av vapen och ammunition",
+  "section": "C"
+ },
+ {
+  "code": "25300",
+  "text": "Tillverkning av vapen och ammunition",
+  "section": "C"
+ },
+ {
+  "code": "254",
+  "text": "Smidning och formning av metall och pulvermetallurgi",
+  "section": "C"
+ },
+ {
+  "code": "2540",
+  "text": "Smidning och formning av metall och pulvermetallurgi",
+  "section": "C"
+ },
+ {
+  "code": "25400",
+  "text": "Smidning och formning av metall och pulvermetallurgi",
+  "section": "C"
+ },
+ {
+  "code": "255",
+  "text": "Beläggning och överdragning av metall| metallegoarbeten",
+  "section": "C"
+ },
+ {
+  "code": "2551",
+  "text": "Beläggning och överdragning av metall",
+  "section": "C"
+ },
+ {
+  "code": "25510",
+  "text": "Beläggning och överdragning av metall",
+  "section": "C"
+ },
+ {
+  "code": "2552",
+  "text": "Värmebehandling av metall",
+  "section": "C"
+ },
+ {
+  "code": "25520",
+  "text": "Värmebehandling av metall",
+  "section": "C"
+ },
+ {
+  "code": "2553",
+  "text": "Metallegoarbeten",
+  "section": "C"
+ },
+ {
+  "code": "25530",
+  "text": "Metallegoarbeten",
+  "section": "C"
+ },
+ {
+  "code": "256",
+  "text": "Tillverkning av bestick, verktyg och andra järnhandelsvaror",
+  "section": "C"
+ },
+ {
+  "code": "2561",
+  "text": "Tillverkning av bestick",
+  "section": "C"
+ },
+ {
+  "code": "25610",
+  "text": "Tillverkning av bestick",
+  "section": "C"
+ },
+ {
+  "code": "2562",
+  "text": "Tillverkning av lås och gångjärn",
+  "section": "C"
+ },
+ {
+  "code": "25620",
+  "text": "Tillverkning av lås och gångjärn",
+  "section": "C"
+ },
+ {
+  "code": "2563",
+  "text": "Tillverkning av verktyg och redskap",
+  "section": "C"
+ },
+ {
+  "code": "25630",
+  "text": "Tillverkning av verktyg och redskap",
+  "section": "C"
+ },
+ {
+  "code": "259",
+  "text": "Annan metallvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "2591",
+  "text": "Tillverkning av stålfat o.d. behållare",
+  "section": "C"
+ },
+ {
+  "code": "25910",
+  "text": "Tillverkning av stålfat o.d. behållare",
+  "section": "C"
+ },
+ {
+  "code": "2592",
+  "text": "Tillverkning av lättmetallförpackningar",
+  "section": "C"
+ },
+ {
+  "code": "25920",
+  "text": "Tillverkning av lättmetallförpackningar",
+  "section": "C"
+ },
+ {
+  "code": "2593",
+  "text": "Tillverkning av metalltrådvaror, kedjor och fjädrar",
+  "section": "C"
+ },
+ {
+  "code": "25930",
+  "text": "Tillverkning av metalltrådvaror, kedjor och fjädrar",
+  "section": "C"
+ },
+ {
+  "code": "2594",
+  "text": "Tillverkning av nitar och skruvar",
+  "section": "C"
+ },
+ {
+  "code": "25940",
+  "text": "Tillverkning av nitar och skruvar",
+  "section": "C"
+ },
+ {
+  "code": "2599",
+  "text": "Diverse övrig metallvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "25991",
+  "text": "Tillverkning av diskbänkar, sanitetsgods m.m. av metall för byggändamål",
+  "section": "C"
+ },
+ {
+  "code": "25999",
+  "text": "Annan övrig metallvarutillverkning",
+  "section": "C"
+ },
+ {
+  "code": "26",
+  "text": "Tillverkning av datorer, elektronikvaror och optik",
+  "section": "C"
+ },
+ {
+  "code": "261",
+  "text": "Tillverkning av elektroniska komponenter och kretskort",
+  "section": "C"
+ },
+ {
+  "code": "2611",
+  "text": "Tillverkning av elektroniska komponenter",
+  "section": "C"
+ },
+ {
+  "code": "26110",
+  "text": "Tillverkning av elektroniska komponenter",
+  "section": "C"
+ },
+ {
+  "code": "2612",
+  "text": "Tillverkning av kretskort",
+  "section": "C"
+ },
+ {
+  "code": "26120",
+  "text": "Tillverkning av kretskort",
+  "section": "C"
+ },
+ {
+  "code": "262",
+  "text": "Tillverkning av datorer och kringutrustning",
+  "section": "C"
+ },
+ {
+  "code": "2620",
+  "text": "Tillverkning av datorer och kringutrustning",
+  "section": "C"
+ },
+ {
+  "code": "26200",
+  "text": "Tillverkning av datorer och kringutrustning",
+  "section": "C"
+ },
+ {
+  "code": "263",
+  "text": "Tillverkning av kommunikationsutrustning",
+  "section": "C"
+ },
+ {
+  "code": "2630",
+  "text": "Tillverkning av kommunikationsutrustning",
+  "section": "C"
+ },
+ {
+  "code": "26300",
+  "text": "Tillverkning av kommunikationsutrustning",
+  "section": "C"
+ },
+ {
+  "code": "264",
+  "text": "Tillverkning av hemelektronik",
+  "section": "C"
+ },
+ {
+  "code": "2640",
+  "text": "Tillverkning av hemelektronik",
+  "section": "C"
+ },
+ {
+  "code": "26400",
+  "text": "Tillverkning av hemelektronik",
+  "section": "C"
+ },
+ {
+  "code": "265",
+  "text": "Tillverkning av instrument för mätning och provning samt ur",
+  "section": "C"
+ },
+ {
+  "code": "2651",
+  "text": "Tillverkning av instrument och apparater för mätning, provning och navigering",
+  "section": "C"
+ },
+ {
+  "code": "26510",
+  "text": "Tillverkning av instrument och apparater för mätning, provning och navigering",
+  "section": "C"
+ },
+ {
+  "code": "2652",
+  "text": "Urtillverkning",
+  "section": "C"
+ },
+ {
+  "code": "26520",
+  "text": "Urtillverkning",
+  "section": "C"
+ },
+ {
+  "code": "266",
+  "text": "Tillverkning av strålningsutrustning samt elektromedicinsk och elektroterapeutisk utrustning",
+  "section": "C"
+ },
+ {
+  "code": "2660",
+  "text": "Tillverkning av strålningsutrustning samt elektromedicinsk och elektroterapeutisk utrustning",
+  "section": "C"
+ },
+ {
+  "code": "26600",
+  "text": "Tillverkning av strålningsutrustning samt elektromedicinsk och elektroterapeutisk utrustning",
+  "section": "C"
+ },
+ {
+  "code": "267",
+  "text": "Tillverkning av optiska instrument, magnetiska och optiska medier samt fotoutrustning",
+  "section": "C"
+ },
+ {
+  "code": "2670",
+  "text": "Tillverkning av optiska instrument, magnetiska och optiska medier samt fotoutrustning",
+  "section": "C"
+ },
+ {
+  "code": "26700",
+  "text": "Tillverkning av optiska instrument, magnetiska och optiska medier samt fotoutrustning",
+  "section": "C"
+ },
+ {
+  "code": "27",
+  "text": "Tillverkning av elapparatur",
+  "section": "C"
+ },
+ {
+  "code": "271",
+  "text": "Tillverkning av elmotorer, generatorer och transformatorer samt eldistributions- och elkontrollapparater",
+  "section": "C"
+ },
+ {
+  "code": "2711",
+  "text": "Tillverkning av elmotorer, generatorer och transformatorer",
+  "section": "C"
+ },
+ {
+  "code": "27110",
+  "text": "Tillverkning av elmotorer, generatorer och transformatorer",
+  "section": "C"
+ },
+ {
+  "code": "2712",
+  "text": "Tillverkning av eldistributions- och elkontrollapparater",
+  "section": "C"
+ },
+ {
+  "code": "27120",
+  "text": "Tillverkning av eldistributions- och elkontrollapparater",
+  "section": "C"
+ },
+ {
+  "code": "272",
+  "text": "Batteri- och ackumulatortillverkning",
+  "section": "C"
+ },
+ {
+  "code": "2720",
+  "text": "Batteri- och ackumulatortillverkning",
+  "section": "C"
+ },
+ {
+  "code": "27200",
+  "text": "Batteri- och ackumulatortillverkning",
+  "section": "C"
+ },
+ {
+  "code": "273",
+  "text": "Tillverkning av ledningar och kablar och kabeltillbehör",
+  "section": "C"
+ },
+ {
+  "code": "2731",
+  "text": "Tillverkning av optiska fiberkablar",
+  "section": "C"
+ },
+ {
+  "code": "27310",
+  "text": "Tillverkning av optiska fiberkablar",
+  "section": "C"
+ },
+ {
+  "code": "2732",
+  "text": "Tillverkning av andra elektroniska och elektriska ledningar och kablar",
+  "section": "C"
+ },
+ {
+  "code": "27320",
+  "text": "Tillverkning av andra elektroniska och elektriska ledningar och kablar",
+  "section": "C"
+ },
+ {
+  "code": "2733",
+  "text": "Tillverkning av kabeltillbehör",
+  "section": "C"
+ },
+ {
+  "code": "27330",
+  "text": "Tillverkning av kabeltillbehör",
+  "section": "C"
+ },
+ {
+  "code": "274",
+  "text": "Tillverkning av belysningsarmatur",
+  "section": "C"
+ },
+ {
+  "code": "2740",
+  "text": "Tillverkning av belysningsarmatur",
+  "section": "C"
+ },
+ {
+  "code": "27400",
+  "text": "Tillverkning av belysningsarmatur",
+  "section": "C"
+ },
+ {
+  "code": "275",
+  "text": "Tillverkning av hushållsmaskiner och hushållsapparater",
+  "section": "C"
+ },
+ {
+  "code": "2751",
+  "text": "Tillverkning av elektriska hushållsmaskiner och hushållsapparater",
+  "section": "C"
+ },
+ {
+  "code": "27510",
+  "text": "Tillverkning av elektriska hushållsmaskiner och hushållsapparater",
+  "section": "C"
+ },
+ {
+  "code": "2752",
+  "text": "Tillverkning av icke-elektriska hushållsmaskiner och hushållsapparater",
+  "section": "C"
+ },
+ {
+  "code": "27520",
+  "text": "Tillverkning av icke-elektriska hushållsmaskiner och hushållsapparater",
+  "section": "C"
+ },
+ {
+  "code": "279",
+  "text": "Tillverkning av annan elapparatur",
+  "section": "C"
+ },
+ {
+  "code": "2790",
+  "text": "Tillverkning av annan elapparatur",
+  "section": "C"
+ },
+ {
+  "code": "27900",
+  "text": "Tillverkning av annan elapparatur",
+  "section": "C"
+ },
+ {
+  "code": "28",
+  "text": "Tillverkning av övriga maskiner",
+  "section": "C"
+ },
+ {
+  "code": "281",
+  "text": "Tillverkning av maskiner för allmänt ändamål",
+  "section": "C"
+ },
+ {
+  "code": "2811",
+  "text": "Tillverkning av motorer och turbiner utom för luftfartyg och fordon",
+  "section": "C"
+ },
+ {
+  "code": "28110",
+  "text": "Tillverkning av motorer och turbiner utom för luftfartyg och fordon",
+  "section": "C"
+ },
+ {
+  "code": "2812",
+  "text": "Tillverkning av fluidteknisk utrustning",
+  "section": "C"
+ },
+ {
+  "code": "28120",
+  "text": "Tillverkning av fluidteknisk utrustning",
+  "section": "C"
+ },
+ {
+  "code": "2813",
+  "text": "Tillverkning av andra pumpar och kompressorer",
+  "section": "C"
+ },
+ {
+  "code": "28130",
+  "text": "Tillverkning av andra pumpar och kompressorer",
+  "section": "C"
+ },
+ {
+  "code": "2814",
+  "text": "Tillverkning av andra kranar och ventiler",
+  "section": "C"
+ },
+ {
+  "code": "28140",
+  "text": "Tillverkning av andra kranar och ventiler",
+  "section": "C"
+ },
+ {
+  "code": "2815",
+  "text": "Tillverkning av lager, kugghjul och andra delar för kraftöverföring",
+  "section": "C"
+ },
+ {
+  "code": "28150",
+  "text": "Tillverkning av lager, kugghjul och andra delar för kraftöverföring",
+  "section": "C"
+ },
+ {
+  "code": "282",
+  "text": "Tillverkning av andra maskiner för allmänt ändamål",
+  "section": "C"
+ },
+ {
+  "code": "2821",
+  "text": "Tillverkning av ugnar och monterad värmeutrustning för bostadsuppvärmning",
+  "section": "C"
+ },
+ {
+  "code": "28210",
+  "text": "Tillverkning av ugnar och monterad värmeutrustning för bostadsuppvärmning",
+  "section": "C"
+ },
+ {
+  "code": "2822",
+  "text": "Tillverkning av lyft- och godshanteringsanordningar",
+  "section": "C"
+ },
+ {
+  "code": "28220",
+  "text": "Tillverkning av lyft- och godshanteringsanordningar",
+  "section": "C"
+ },
+ {
+  "code": "2823",
+  "text": "Tillverkning av kontorsmaskiner och kontorsutrustning, utom datorer och kringutrustning",
+  "section": "C"
+ },
+ {
+  "code": "28230",
+  "text": "Tillverkning av kontorsmaskiner och kontorsutrustning, utom datorer och kringutrustning",
+  "section": "C"
+ },
+ {
+  "code": "2824",
+  "text": "Tillverkning av motordrivna handverktyg",
+  "section": "C"
+ },
+ {
+  "code": "28240",
+  "text": "Tillverkning av motordrivna handverktyg",
+  "section": "C"
+ },
+ {
+  "code": "2825",
+  "text": "Tillverkning av luftkonditionering, utom för hushåll",
+  "section": "C"
+ },
+ {
+  "code": "28250",
+  "text": "Tillverkning av luftkonditionering, utom för hushåll",
+  "section": "C"
+ },
+ {
+  "code": "2829",
+  "text": "Tillverkning av diverse övriga maskiner för allmänt ändamål",
+  "section": "C"
+ },
+ {
+  "code": "28290",
+  "text": "Tillverkning av diverse övriga maskiner för allmänt ändamål",
+  "section": "C"
+ },
+ {
+  "code": "283",
+  "text": "Tillverkning av jord- och skogsbruksmaskiner",
+  "section": "C"
+ },
+ {
+  "code": "2830",
+  "text": "Tillverkning av jord- och skogsbruksmaskiner",
+  "section": "C"
+ },
+ {
+  "code": "28300",
+  "text": "Tillverkning av jord- och skogsbruksmaskiner",
+  "section": "C"
+ },
+ {
+  "code": "284",
+  "text": "Tillverkning av maskiner för metallbearbetning och verktygsmaskiner",
+  "section": "C"
+ },
+ {
+  "code": "2841",
+  "text": "Tillverkning av maskiner för metallbearbetning och verktygsmaskiner för bearbetning av metall",
+  "section": "C"
+ },
+ {
+  "code": "28410",
+  "text": "Tillverkning av maskiner för metallbearbetning och verktygsmaskiner för bearbetning av metall",
+  "section": "C"
+ },
+ {
+  "code": "2842",
+  "text": "Tillverkning av andra verktygsmaskiner",
+  "section": "C"
+ },
+ {
+  "code": "28420",
+  "text": "Tillverkning av andra verktygsmaskiner",
+  "section": "C"
+ },
+ {
+  "code": "289",
+  "text": "Tillverkning av andra specialmaskiner",
+  "section": "C"
+ },
+ {
+  "code": "2891",
+  "text": "Tillverkning av maskiner för metallurgi",
+  "section": "C"
+ },
+ {
+  "code": "28910",
+  "text": "Tillverkning av maskiner för metallurgi",
+  "section": "C"
+ },
+ {
+  "code": "2892",
+  "text": "Tillverkning av gruv-, bergbrytnings- och byggmaskiner",
+  "section": "C"
+ },
+ {
+  "code": "28920",
+  "text": "Tillverkning av gruv-, bergbrytnings- och byggmaskiner",
+  "section": "C"
+ },
+ {
+  "code": "2893",
+  "text": "Tillverkning av maskiner för framställning av livsmedel, drycker och tobaksvaror",
+  "section": "C"
+ },
+ {
+  "code": "28930",
+  "text": "Tillverkning av maskiner för framställning av livsmedel, drycker och tobaksvaror",
+  "section": "C"
+ },
+ {
+  "code": "2894",
+  "text": "Tillverkning av maskiner för produktion av textil-, beklädnads- och lädervaror",
+  "section": "C"
+ },
+ {
+  "code": "28940",
+  "text": "Tillverkning av maskiner för produktion av textil-, beklädnads- och lädervaror",
+  "section": "C"
+ },
+ {
+  "code": "2895",
+  "text": "Tillverkning av maskiner för produktion av massa, papper och papp",
+  "section": "C"
+ },
+ {
+  "code": "28950",
+  "text": "Tillverkning av maskiner för produktion av massa, papper och papp",
+  "section": "C"
+ },
+ {
+  "code": "2896",
+  "text": "Tillverkning av maskiner för gummi och plast",
+  "section": "C"
+ },
+ {
+  "code": "28960",
+  "text": "Tillverkning av maskiner för gummi och plast",
+  "section": "C"
+ },
+ {
+  "code": "2897",
+  "text": "Tillverkning av maskiner för additiv tillverkning",
+  "section": "C"
+ },
+ {
+  "code": "28970",
+  "text": "Tillverkning av maskiner för additiv tillverkning",
+  "section": "C"
+ },
+ {
+  "code": "2899",
+  "text": "Tillverkning av diverse övriga specialmaskiner",
+  "section": "C"
+ },
+ {
+  "code": "28990",
+  "text": "Tillverkning av diverse övriga specialmaskiner",
+  "section": "C"
+ },
+ {
+  "code": "29",
+  "text": "Tillverkning av motorfordon, släpfordon och påhängsvagnar",
+  "section": "C"
+ },
+ {
+  "code": "291",
+  "text": "Motorfordonstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "2910",
+  "text": "Motorfordonstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "29101",
+  "text": "Tillverkning av personbilar och andra lätta motorfordon",
+  "section": "C"
+ },
+ {
+  "code": "29102",
+  "text": "Tillverkning av lastbilar och andra tunga motorfordon",
+  "section": "C"
+ },
+ {
+  "code": "292",
+  "text": "Tillverkning av karosserier för motorfordon| tillverkning av släpfordon och påhängsvagnar",
+  "section": "C"
+ },
+ {
+  "code": "2920",
+  "text": "Tillverkning av karosserier för motorfordon| tillverkning av släpfordon och påhängsvagnar",
+  "section": "C"
+ },
+ {
+  "code": "29200",
+  "text": "Tillverkning av karosserier för motorfordon| tillverkning av släpfordon och påhängsvagnar",
+  "section": "C"
+ },
+ {
+  "code": "293",
+  "text": "Tillverkning av reservdelar och tillbehör till motorfordon",
+  "section": "C"
+ },
+ {
+  "code": "2931",
+  "text": "Tillverkning av elektrisk och elektronisk utrustning för motorfordon",
+  "section": "C"
+ },
+ {
+  "code": "29310",
+  "text": "Tillverkning av elektrisk och elektronisk utrustning för motorfordon",
+  "section": "C"
+ },
+ {
+  "code": "2932",
+  "text": "Tillverkning av andra delar och tillbehör till motorfordon",
+  "section": "C"
+ },
+ {
+  "code": "29320",
+  "text": "Tillverkning av andra delar och tillbehör till motorfordon",
+  "section": "C"
+ },
+ {
+  "code": "30",
+  "text": "Tillverkning av andra transportmedel",
+  "section": "C"
+ },
+ {
+  "code": "301",
+  "text": "Skepps- och båtbyggeri",
+  "section": "C"
+ },
+ {
+  "code": "3011",
+  "text": "Byggande av civila fartyg och flytande materiel",
+  "section": "C"
+ },
+ {
+  "code": "30110",
+  "text": "Byggande av civila fartyg och flytande materiel",
+  "section": "C"
+ },
+ {
+  "code": "3012",
+  "text": "Byggande av fritidsbåtar",
+  "section": "C"
+ },
+ {
+  "code": "30120",
+  "text": "Byggande av fritidsbåtar",
+  "section": "C"
+ },
+ {
+  "code": "3013",
+  "text": "Byggande av militära skepp och fartyg",
+  "section": "C"
+ },
+ {
+  "code": "30130",
+  "text": "Byggande av militära skepp och fartyg",
+  "section": "C"
+ },
+ {
+  "code": "302",
+  "text": "Tillverkning av rälsfordon",
+  "section": "C"
+ },
+ {
+  "code": "3020",
+  "text": "Tillverkning av rälsfordon",
+  "section": "C"
+ },
+ {
+  "code": "30200",
+  "text": "Tillverkning av rälsfordon",
+  "section": "C"
+ },
+ {
+  "code": "303",
+  "text": "Tillverkning av luftfartyg, rymdfarkoster o.d.",
+  "section": "C"
+ },
+ {
+  "code": "3031",
+  "text": "Tillverkning av civila luftfartyg, rymdfarkoster o.d.",
+  "section": "C"
+ },
+ {
+  "code": "30310",
+  "text": "Tillverkning av civila luftfartyg, rymdfarkoster o.d.",
+  "section": "C"
+ },
+ {
+  "code": "3032",
+  "text": "Tillverkning av militära luftfartyg, rymdfarkoster o.d.",
+  "section": "C"
+ },
+ {
+  "code": "30320",
+  "text": "Tillverkning av militära luftfartyg, rymdfarkoster o.d.",
+  "section": "C"
+ },
+ {
+  "code": "304",
+  "text": "Tillverkning av militära stridsfordon",
+  "section": "C"
+ },
+ {
+  "code": "3040",
+  "text": "Tillverkning av militära stridsfordon",
+  "section": "C"
+ },
+ {
+  "code": "30400",
+  "text": "Tillverkning av militära stridsfordon",
+  "section": "C"
+ },
+ {
+  "code": "309",
+  "text": "Övrig tillverkning av transportmedel",
+  "section": "C"
+ },
+ {
+  "code": "3091",
+  "text": "Tillverkning av motorcyklar",
+  "section": "C"
+ },
+ {
+  "code": "30910",
+  "text": "Tillverkning av motorcyklar",
+  "section": "C"
+ },
+ {
+  "code": "3092",
+  "text": "Tillverkning av cyklar, rullstolar o.d.",
+  "section": "C"
+ },
+ {
+  "code": "30920",
+  "text": "Tillverkning av cyklar, rullstolar o.d.",
+  "section": "C"
+ },
+ {
+  "code": "3099",
+  "text": "Diverse övrig transportmedelstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "30990",
+  "text": "Diverse övrig transportmedelstillverkning",
+  "section": "C"
+ },
+ {
+  "code": "31",
+  "text": "Tillverkning av möbler",
+  "section": "C"
+ },
+ {
+  "code": "310",
+  "text": "Tillverkning av möbler",
+  "section": "C"
+ },
+ {
+  "code": "3100",
+  "text": "Tillverkning av möbler",
+  "section": "C"
+ },
+ {
+  "code": "31001",
+  "text": "Tillverkning av kontors- och butiksmöbler",
+  "section": "C"
+ },
+ {
+  "code": "31002",
+  "text": "Tillverkning av kontors- och butiksinredningar",
+  "section": "C"
+ },
+ {
+  "code": "31003",
+  "text": "Tillverkning av köksmöbler",
+  "section": "C"
+ },
+ {
+  "code": "31004",
+  "text": "Tillverkning av köksinredningar",
+  "section": "C"
+ },
+ {
+  "code": "31009",
+  "text": "Tillverkning av andra möbler och madrasser",
+  "section": "C"
+ },
+ {
+  "code": "32",
+  "text": "Annan tillverkning",
+  "section": "C"
+ },
+ {
+  "code": "321",
+  "text": "Tillverkning av smycken, guld- och silversmedsvaror samt bijouterier",
+  "section": "C"
+ },
+ {
+  "code": "3211",
+  "text": "Prägling av mynt",
+  "section": "C"
+ },
+ {
+  "code": "32110",
+  "text": "Prägling av mynt",
+  "section": "C"
+ },
+ {
+  "code": "3212",
+  "text": "Tillverkning av smycken, guld- och silversmedsvaror",
+  "section": "C"
+ },
+ {
+  "code": "32120",
+  "text": "Tillverkning av smycken, guld- och silversmedsvaror",
+  "section": "C"
+ },
+ {
+  "code": "3213",
+  "text": "Tillverkning av bijouterier o.d.",
+  "section": "C"
+ },
+ {
+  "code": "32130",
+  "text": "Tillverkning av bijouterier o.d.",
+  "section": "C"
+ },
+ {
+  "code": "322",
+  "text": "Tillverkning av musikinstrument",
+  "section": "C"
+ },
+ {
+  "code": "3220",
+  "text": "Tillverkning av musikinstrument",
+  "section": "C"
+ },
+ {
+  "code": "32200",
+  "text": "Tillverkning av musikinstrument",
+  "section": "C"
+ },
+ {
+  "code": "323",
+  "text": "Tillverkning av sportartiklar",
+  "section": "C"
+ },
+ {
+  "code": "3230",
+  "text": "Tillverkning av sportartiklar",
+  "section": "C"
+ },
+ {
+  "code": "32300",
+  "text": "Tillverkning av sportartiklar",
+  "section": "C"
+ },
+ {
+  "code": "324",
+  "text": "Tillverkning av spel och leksaker",
+  "section": "C"
+ },
+ {
+  "code": "3240",
+  "text": "Tillverkning av spel och leksaker",
+  "section": "C"
+ },
+ {
+  "code": "32400",
+  "text": "Tillverkning av spel och leksaker",
+  "section": "C"
+ },
+ {
+  "code": "325",
+  "text": "Tillverkning av medicinsk och dental utrustning",
+  "section": "C"
+ },
+ {
+  "code": "3250",
+  "text": "Tillverkning av medicinsk och dental utrustning",
+  "section": "C"
+ },
+ {
+  "code": "32501",
+  "text": "Tillverkning av medicinska och dentala instrument och tillbehör",
+  "section": "C"
+ },
+ {
+  "code": "32502",
+  "text": "Tillverkning av tandproteser",
+  "section": "C"
+ },
+ {
+  "code": "329",
+  "text": "Övrig tillverkning",
+  "section": "C"
+ },
+ {
+  "code": "3291",
+  "text": "Tillverkning av borstbinderiarbeten",
+  "section": "C"
+ },
+ {
+  "code": "32910",
+  "text": "Tillverkning av borstbinderiarbeten",
+  "section": "C"
+ },
+ {
+  "code": "3299",
+  "text": "Diverse övrig tillverkning",
+  "section": "C"
+ },
+ {
+  "code": "32990",
+  "text": "Diverse övrig tillverkning",
+  "section": "C"
+ },
+ {
+  "code": "33",
+  "text": "Reparation, underhåll och installation av maskiner och utrustning",
+  "section": "C"
+ },
+ {
+  "code": "331",
+  "text": "Reparation och underhåll av metallvaror, maskiner och apparater",
+  "section": "C"
+ },
+ {
+  "code": "3311",
+  "text": "Reparation och underhåll av metallvaror",
+  "section": "C"
+ },
+ {
+  "code": "33110",
+  "text": "Reparation och underhåll av metallvaror",
+  "section": "C"
+ },
+ {
+  "code": "3312",
+  "text": "Reparation och underhåll av maskiner",
+  "section": "C"
+ },
+ {
+  "code": "33120",
+  "text": "Reparation och underhåll av maskiner",
+  "section": "C"
+ },
+ {
+  "code": "3313",
+  "text": "Reparation och underhåll av elektronisk och optisk utrustning",
+  "section": "C"
+ },
+ {
+  "code": "33130",
+  "text": "Reparation och underhåll av elektronisk och optisk utrustning",
+  "section": "C"
+ },
+ {
+  "code": "3314",
+  "text": "Reparation och underhåll av elapparatur",
+  "section": "C"
+ },
+ {
+  "code": "33140",
+  "text": "Reparation och underhåll av elapparatur",
+  "section": "C"
+ },
+ {
+  "code": "3315",
+  "text": "Reparation och underhåll av civila fartyg och båtar",
+  "section": "C"
+ },
+ {
+  "code": "33150",
+  "text": "Reparation och underhåll av civila fartyg och båtar",
+  "section": "C"
+ },
+ {
+  "code": "3316",
+  "text": "Reparation och underhåll av civila luftfartyg och rymdfarkoster",
+  "section": "C"
+ },
+ {
+  "code": "33160",
+  "text": "Reparation och underhåll av civila luftfartyg och rymdfarkoster",
+  "section": "C"
+ },
+ {
+  "code": "3317",
+  "text": "Reparation och underhåll av andra civila transportmedel",
+  "section": "C"
+ },
+ {
+  "code": "33170",
+  "text": "Reparation och underhåll av andra civila transportmedel",
+  "section": "C"
+ },
+ {
+  "code": "3318",
+  "text": "Reparation och underhåll av militära stridsfordon, skepp, båtar, luftfartyg och rymdfarkoster",
+  "section": "C"
+ },
+ {
+  "code": "33180",
+  "text": "Reparation och underhåll av militära stridsfordon, skepp, båtar, luftfartyg och rymdfarkoster",
+  "section": "C"
+ },
+ {
+  "code": "3319",
+  "text": "Reparation och underhåll av annan utrustning",
+  "section": "C"
+ },
+ {
+  "code": "33190",
+  "text": "Reparation och underhåll av annan utrustning",
+  "section": "C"
+ },
+ {
+  "code": "332",
+  "text": "Installation av industrimaskiner och -utrustning",
+  "section": "C"
+ },
+ {
+  "code": "3320",
+  "text": "Installation av industrimaskiner och -utrustning",
+  "section": "C"
+ },
+ {
+  "code": "33200",
+  "text": "Installation av industrimaskiner och -utrustning",
+  "section": "C"
+ },
+ {
+  "code": "35",
+  "text": "El-, gas- och ångförsörjning samt luftkonditionering",
+  "section": "D"
+ },
+ {
+  "code": "351",
+  "text": "Generering, överföring och distribution av elkraft",
+  "section": "D"
+ },
+ {
+  "code": "3511",
+  "text": "Generering av elektricitet från icke-förnybara energikällor",
+  "section": "D"
+ },
+ {
+  "code": "35110",
+  "text": "Generering av elektricitet från icke-förnybara energikällor",
+  "section": "D"
+ },
+ {
+  "code": "3512",
+  "text": "Generering av elektricitet från förnybara energikällor",
+  "section": "D"
+ },
+ {
+  "code": "35120",
+  "text": "Generering av elektricitet från förnybara energikällor",
+  "section": "D"
+ },
+ {
+  "code": "3513",
+  "text": "Överföring av elektricitet",
+  "section": "D"
+ },
+ {
+  "code": "35130",
+  "text": "Överföring av elektricitet",
+  "section": "D"
+ },
+ {
+  "code": "3514",
+  "text": "Distribution av elektricitet",
+  "section": "D"
+ },
+ {
+  "code": "35140",
+  "text": "Distribution av elektricitet",
+  "section": "D"
+ },
+ {
+  "code": "3515",
+  "text": "Handel med elektricitet",
+  "section": "D"
+ },
+ {
+  "code": "35150",
+  "text": "Handel med elektricitet",
+  "section": "D"
+ },
+ {
+  "code": "3516",
+  "text": "Lagring av elektricitet",
+  "section": "D"
+ },
+ {
+  "code": "35160",
+  "text": "Lagring av elektricitet",
+  "section": "D"
+ },
+ {
+  "code": "352",
+  "text": "Framställning av gas och distribution av gasformiga bränslen via rörnät",
+  "section": "D"
+ },
+ {
+  "code": "3521",
+  "text": "Framställning av gas",
+  "section": "D"
+ },
+ {
+  "code": "35210",
+  "text": "Framställning av gas",
+  "section": "D"
+ },
+ {
+  "code": "3522",
+  "text": "Distribution av gasformiga bränslen via rörnät",
+  "section": "D"
+ },
+ {
+  "code": "35220",
+  "text": "Distribution av gasformiga bränslen via rörnät",
+  "section": "D"
+ },
+ {
+  "code": "3523",
+  "text": "Handel med gas via rörnät",
+  "section": "D"
+ },
+ {
+  "code": "35230",
+  "text": "Handel med gas via rörnät",
+  "section": "D"
+ },
+ {
+  "code": "3524",
+  "text": "Lagring av gas som en del i nätförsörjningstjänster",
+  "section": "D"
+ },
+ {
+  "code": "35240",
+  "text": "Lagring av gas som en del i nätförsörjningstjänster",
+  "section": "D"
+ },
+ {
+  "code": "353",
+  "text": "Försörjning av värme och kyla",
+  "section": "D"
+ },
+ {
+  "code": "3530",
+  "text": "Försörjning av värme och kyla",
+  "section": "D"
+ },
+ {
+  "code": "35300",
+  "text": "Försörjning av värme och kyla",
+  "section": "D"
+ },
+ {
+  "code": "354",
+  "text": "Mäklare och agenter för el och naturgas",
+  "section": "D"
+ },
+ {
+  "code": "3540",
+  "text": "Mäklare och agenter för el och naturgas",
+  "section": "D"
+ },
+ {
+  "code": "35400",
+  "text": "Mäklare och agenter för el och naturgas",
+  "section": "D"
+ },
+ {
+  "code": "36",
+  "text": "Vattenförsörjning",
+  "section": "E"
+ },
+ {
+  "code": "360",
+  "text": "Vattenförsörjning",
+  "section": "E"
+ },
+ {
+  "code": "3600",
+  "text": "Vattenförsörjning",
+  "section": "E"
+ },
+ {
+  "code": "36000",
+  "text": "Vattenförsörjning",
+  "section": "E"
+ },
+ {
+  "code": "37",
+  "text": "Avloppsrening",
+  "section": "E"
+ },
+ {
+  "code": "370",
+  "text": "Avloppsrening",
+  "section": "E"
+ },
+ {
+  "code": "3700",
+  "text": "Avloppsrening",
+  "section": "E"
+ },
+ {
+  "code": "37000",
+  "text": "Avloppsrening",
+  "section": "E"
+ },
+ {
+  "code": "38",
+  "text": "Insamling av avfall, återvinning och bortskaffande",
+  "section": "E"
+ },
+ {
+  "code": "381",
+  "text": "Insamling av avfall",
+  "section": "E"
+ },
+ {
+  "code": "3811",
+  "text": "Insamling av icke-farligt avfall",
+  "section": "E"
+ },
+ {
+  "code": "38110",
+  "text": "Insamling av icke-farligt avfall",
+  "section": "E"
+ },
+ {
+  "code": "3812",
+  "text": "Insamling av farligt avfall",
+  "section": "E"
+ },
+ {
+  "code": "38120",
+  "text": "Insamling av farligt avfall",
+  "section": "E"
+ },
+ {
+  "code": "382",
+  "text": "Återvinning av avfall",
+  "section": "E"
+ },
+ {
+  "code": "3821",
+  "text": "Materialåtervinning",
+  "section": "E"
+ },
+ {
+  "code": "38211",
+  "text": "Demontering av uttjänta fordon",
+  "section": "E"
+ },
+ {
+  "code": "38212",
+  "text": "Demontering av elektrisk och elektronisk utrustning",
+  "section": "E"
+ },
+ {
+  "code": "38213",
+  "text": "Demontering av övrig kasserad utrustning",
+  "section": "E"
+ },
+ {
+  "code": "38214",
+  "text": "Återvinning av källsorterat material",
+  "section": "E"
+ },
+ {
+  "code": "38215",
+  "text": "Återvinning av farligt avfall",
+  "section": "E"
+ },
+ {
+  "code": "3822",
+  "text": "Energiåtervinning",
+  "section": "E"
+ },
+ {
+  "code": "38220",
+  "text": "Energiåtervinning",
+  "section": "E"
+ },
+ {
+  "code": "3823",
+  "text": "Annan återvinning av avfall",
+  "section": "E"
+ },
+ {
+  "code": "38230",
+  "text": "Annan återvinning av avfall",
+  "section": "E"
+ },
+ {
+  "code": "383",
+  "text": "Bortskaffande av avfall utan återvinning",
+  "section": "E"
+ },
+ {
+  "code": "3831",
+  "text": "Förbränning utan energiåtervinning",
+  "section": "E"
+ },
+ {
+  "code": "38310",
+  "text": "Förbränning utan energiåtervinning",
+  "section": "E"
+ },
+ {
+  "code": "3832",
+  "text": "Deponering eller slutförvaring",
+  "section": "E"
+ },
+ {
+  "code": "38321",
+  "text": "Deponering eller slutförvaring av icke-farligt avfall",
+  "section": "E"
+ },
+ {
+  "code": "38322",
+  "text": "Deponering eller slutförvaring av farligt avfall",
+  "section": "E"
+ },
+ {
+  "code": "3833",
+  "text": "Annat bortskaffande av avfall",
+  "section": "E"
+ },
+ {
+  "code": "38330",
+  "text": "Annat bortskaffande av avfall",
+  "section": "E"
+ },
+ {
+  "code": "39",
+  "text": "Sanering, efterbehandling av jord och vatten samt annan verksamhet för föroreningsbekämpning",
+  "section": "E"
+ },
+ {
+  "code": "390",
+  "text": "Sanering, efterbehandling av jord och vatten samt annan verksamhet för föroreningsbekämpning",
+  "section": "E"
+ },
+ {
+  "code": "3900",
+  "text": "Sanering, efterbehandling av jord och vatten samt annan verksamhet för föroreningsbekämpning",
+  "section": "E"
+ },
+ {
+  "code": "39000",
+  "text": "Sanering, efterbehandling av jord och vatten samt annan verksamhet för föroreningsbekämpning",
+  "section": "E"
+ },
+ {
+  "code": "41",
+  "text": "Byggande av bostadshus och andra byggnader",
+  "section": "F"
+ },
+ {
+  "code": "410",
+  "text": "Byggande av bostadshus och andra byggnader",
+  "section": "F"
+ },
+ {
+  "code": "4100",
+  "text": "Byggande av bostadshus och andra byggnader",
+  "section": "F"
+ },
+ {
+  "code": "41000",
+  "text": "Byggande av bostadshus och andra byggnader",
+  "section": "F"
+ },
+ {
+  "code": "42",
+  "text": "Anläggningsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "421",
+  "text": "Anläggning av vägar och järnvägar",
+  "section": "F"
+ },
+ {
+  "code": "4211",
+  "text": "Anläggning av vägar och motorvägar",
+  "section": "F"
+ },
+ {
+  "code": "42110",
+  "text": "Anläggning av vägar och motorvägar",
+  "section": "F"
+ },
+ {
+  "code": "4212",
+  "text": "Anläggning av järnvägar och tunnelbanor",
+  "section": "F"
+ },
+ {
+  "code": "42120",
+  "text": "Anläggning av järnvägar och tunnelbanor",
+  "section": "F"
+ },
+ {
+  "code": "4213",
+  "text": "Anläggning av broar och tunnlar",
+  "section": "F"
+ },
+ {
+  "code": "42130",
+  "text": "Anläggning av broar och tunnlar",
+  "section": "F"
+ },
+ {
+  "code": "422",
+  "text": "Allmännyttiga anläggningsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "4221",
+  "text": "Allmännyttiga anläggningsarbeten för värme, vatten och avlopp",
+  "section": "F"
+ },
+ {
+  "code": "42210",
+  "text": "Allmännyttiga anläggningsarbeten för värme, vatten och avlopp",
+  "section": "F"
+ },
+ {
+  "code": "4222",
+  "text": "Anläggningsarbeten för el och telekommunikation",
+  "section": "F"
+ },
+ {
+  "code": "42221",
+  "text": "Anläggningsarbeten för el",
+  "section": "F"
+ },
+ {
+  "code": "42222",
+  "text": "Anläggningsarbeten för telekommunikation",
+  "section": "F"
+ },
+ {
+  "code": "429",
+  "text": "Andra anläggningsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "4291",
+  "text": "Vattenbyggnad",
+  "section": "F"
+ },
+ {
+  "code": "42910",
+  "text": "Vattenbyggnad",
+  "section": "F"
+ },
+ {
+  "code": "4299",
+  "text": "Diverse övriga anläggningsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "42990",
+  "text": "Diverse övriga anläggningsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "43",
+  "text": "Specialiserad bygg- och anläggningsverksamhet",
+  "section": "F"
+ },
+ {
+  "code": "431",
+  "text": "Rivning av hus samt mark- och grundarbeten",
+  "section": "F"
+ },
+ {
+  "code": "4311",
+  "text": "Rivning av hus och byggnader",
+  "section": "F"
+ },
+ {
+  "code": "43110",
+  "text": "Rivning av hus och byggnader",
+  "section": "F"
+ },
+ {
+  "code": "4312",
+  "text": "Mark- och grundarbeten",
+  "section": "F"
+ },
+ {
+  "code": "43120",
+  "text": "Mark- och grundarbeten",
+  "section": "F"
+ },
+ {
+  "code": "4313",
+  "text": "Markundersökning",
+  "section": "F"
+ },
+ {
+  "code": "43130",
+  "text": "Markundersökning",
+  "section": "F"
+ },
+ {
+  "code": "432",
+  "text": "Elinstallationer, VVS-arbeten och andra bygginstallationer",
+  "section": "F"
+ },
+ {
+  "code": "4321",
+  "text": "Elinstallationer",
+  "section": "F"
+ },
+ {
+  "code": "43210",
+  "text": "Elinstallationer",
+  "section": "F"
+ },
+ {
+  "code": "4322",
+  "text": "VVS-arbeten",
+  "section": "F"
+ },
+ {
+  "code": "43221",
+  "text": "Värme- och sanitetsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "43222",
+  "text": "Ventilationsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "43223",
+  "text": "Kyl- och frysinstallationsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "43229",
+  "text": "Övriga VVS-arbeten",
+  "section": "F"
+ },
+ {
+  "code": "4323",
+  "text": "Installation av isolering",
+  "section": "F"
+ },
+ {
+  "code": "43230",
+  "text": "Installation av isolering",
+  "section": "F"
+ },
+ {
+  "code": "4324",
+  "text": "Andra bygginstallationer",
+  "section": "F"
+ },
+ {
+  "code": "43240",
+  "text": "Andra bygginstallationer",
+  "section": "F"
+ },
+ {
+  "code": "433",
+  "text": "Slutbehandling av byggnader",
+  "section": "F"
+ },
+ {
+  "code": "4331",
+  "text": "Puts-, fasad- och stuckatörsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "43310",
+  "text": "Puts-, fasad- och stuckatörsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "4332",
+  "text": "Byggnadssnickeriarbeten",
+  "section": "F"
+ },
+ {
+  "code": "43320",
+  "text": "Byggnadssnickeriarbeten",
+  "section": "F"
+ },
+ {
+  "code": "4333",
+  "text": "Golv- och väggbeläggningsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "43330",
+  "text": "Golv- och väggbeläggningsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "4334",
+  "text": "Måleri- och glasmästeriarbeten",
+  "section": "F"
+ },
+ {
+  "code": "43341",
+  "text": "Måleriarbeten",
+  "section": "F"
+ },
+ {
+  "code": "43342",
+  "text": "Glasmästeriarbeten",
+  "section": "F"
+ },
+ {
+  "code": "4335",
+  "text": "Annan slutbehandling av byggnader",
+  "section": "F"
+ },
+ {
+  "code": "43350",
+  "text": "Annan slutbehandling av byggnader",
+  "section": "F"
+ },
+ {
+  "code": "434",
+  "text": "Specialiserad bygg- och anläggningsverksamhet i samband med byggande av hus",
+  "section": "F"
+ },
+ {
+  "code": "4341",
+  "text": "Takarbeten",
+  "section": "F"
+ },
+ {
+  "code": "43411",
+  "text": "Takarbeten av plåt",
+  "section": "F"
+ },
+ {
+  "code": "43412",
+  "text": "Takarbeten av andra material än plåt",
+  "section": "F"
+ },
+ {
+  "code": "4342",
+  "text": "Annan specialiserad bygg- och anläggningsverksamhet i samband med byggande av hus",
+  "section": "F"
+ },
+ {
+  "code": "43420",
+  "text": "Annan specialiserad bygg- och anläggningsverksamhet i samband med byggande av hus",
+  "section": "F"
+ },
+ {
+  "code": "435",
+  "text": "Specialiserad bygg- och anläggningsverksamhet i samband med anläggningsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "4350",
+  "text": "Specialiserad bygg- och anläggningsverksamhet i samband med anläggningsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "43500",
+  "text": "Specialiserad bygg- och anläggningsverksamhet i samband med anläggningsarbeten",
+  "section": "F"
+ },
+ {
+  "code": "436",
+  "text": "Förmedling avseende specialiserad bygg- och anläggningsverksamhet",
+  "section": "F"
+ },
+ {
+  "code": "4360",
+  "text": "Förmedling avseende specialiserad bygg- och anläggningsverksamhet",
+  "section": "F"
+ },
+ {
+  "code": "43600",
+  "text": "Förmedling avseende specialiserad bygg- och anläggningsverksamhet",
+  "section": "F"
+ },
+ {
+  "code": "439",
+  "text": "Annan specialiserad bygg- och anläggningsverksamhet",
+  "section": "F"
+ },
+ {
+  "code": "4391",
+  "text": "Murarbeten",
+  "section": "F"
+ },
+ {
+  "code": "43910",
+  "text": "Murarbeten",
+  "section": "F"
+ },
+ {
+  "code": "4399",
+  "text": "Diverse övrig specialiserad bygg- och anläggningsverksamhet",
+  "section": "F"
+ },
+ {
+  "code": "43991",
+  "text": "Uthyrning av bygg- och anläggningsmaskiner med förare",
+  "section": "F"
+ },
+ {
+  "code": "43999",
+  "text": "Annan övrig specialiserad bygg- och anläggningsverksamhet",
+  "section": "F"
+ },
+ {
+  "code": "46",
+  "text": "Parti- och provisionshandel",
+  "section": "G"
+ },
+ {
+  "code": "461",
+  "text": "Provisionshandel",
+  "section": "G"
+ },
+ {
+  "code": "4611",
+  "text": "Provisionshandel med jordbruksråvaror, levande djur, textilråvaror och textilhalvfabrikat",
+  "section": "G"
+ },
+ {
+  "code": "46110",
+  "text": "Provisionshandel med jordbruksråvaror, levande djur, textilråvaror och textilhalvfabrikat",
+  "section": "G"
+ },
+ {
+  "code": "4612",
+  "text": "Provisionshandel med bränsle, malm, metaller och industrikemikalier",
+  "section": "G"
+ },
+ {
+  "code": "46120",
+  "text": "Provisionshandel med bränsle, malm, metaller och industrikemikalier",
+  "section": "G"
+ },
+ {
+  "code": "4613",
+  "text": "Provisionshandel med virke och byggmaterial",
+  "section": "G"
+ },
+ {
+  "code": "46130",
+  "text": "Provisionshandel med virke och byggmaterial",
+  "section": "G"
+ },
+ {
+  "code": "4614",
+  "text": "Provisionshandel med maskiner, industriell utrustning, fartyg och luftfartyg",
+  "section": "G"
+ },
+ {
+  "code": "46141",
+  "text": "Provisionshandel med maskiner, industriell utrustning, fartyg och luftfartyg utom kontorsutrustning och datorer",
+  "section": "G"
+ },
+ {
+  "code": "46142",
+  "text": "Provisionshandel med kontorsutrustning och datorer",
+  "section": "G"
+ },
+ {
+  "code": "4615",
+  "text": "Provisionshandel med möbler, hushålls- och järnhandelsvaror",
+  "section": "G"
+ },
+ {
+  "code": "46150",
+  "text": "Provisionshandel med möbler, hushålls- och järnhandelsvaror",
+  "section": "G"
+ },
+ {
+  "code": "4616",
+  "text": "Provisionshandel med textilier, kläder, pälsvaror, skodon och lädervaror",
+  "section": "G"
+ },
+ {
+  "code": "46160",
+  "text": "Provisionshandel med textilier, kläder, pälsvaror, skodon och lädervaror",
+  "section": "G"
+ },
+ {
+  "code": "4617",
+  "text": "Provisionshandel med livsmedel, drycker och tobak",
+  "section": "G"
+ },
+ {
+  "code": "46170",
+  "text": "Provisionshandel med livsmedel, drycker och tobak",
+  "section": "G"
+ },
+ {
+  "code": "4618",
+  "text": "Provisionshandel med annat specialsortiment",
+  "section": "G"
+ },
+ {
+  "code": "46181",
+  "text": "Provisionshandel med motorfordon, och reservdelar och tillbehör till motorfordon",
+  "section": "G"
+ },
+ {
+  "code": "46189",
+  "text": "Provisionshandel med annat specialsortiment utom motorfordon",
+  "section": "G"
+ },
+ {
+  "code": "4619",
+  "text": "Icke-specialiserad provisionshandel",
+  "section": "G"
+ },
+ {
+  "code": "46190",
+  "text": "Icke-specialiserad provisionshandel",
+  "section": "G"
+ },
+ {
+  "code": "462",
+  "text": "Partihandel med jordbruksråvaror och levande djur",
+  "section": "G"
+ },
+ {
+  "code": "4621",
+  "text": "Partihandel med spannmål, råtobak, utsäde och djurfoder",
+  "section": "G"
+ },
+ {
+  "code": "46210",
+  "text": "Partihandel med spannmål, råtobak, utsäde och djurfoder",
+  "section": "G"
+ },
+ {
+  "code": "4622",
+  "text": "Partihandel med blommor och växter",
+  "section": "G"
+ },
+ {
+  "code": "46220",
+  "text": "Partihandel med blommor och växter",
+  "section": "G"
+ },
+ {
+  "code": "4623",
+  "text": "Partihandel med levande djur",
+  "section": "G"
+ },
+ {
+  "code": "46230",
+  "text": "Partihandel med levande djur",
+  "section": "G"
+ },
+ {
+  "code": "4624",
+  "text": "Partihandel med hudar, skinn och läder",
+  "section": "G"
+ },
+ {
+  "code": "46240",
+  "text": "Partihandel med hudar, skinn och läder",
+  "section": "G"
+ },
+ {
+  "code": "463",
+  "text": "Partihandel med livsmedel, drycker och tobak",
+  "section": "G"
+ },
+ {
+  "code": "4631",
+  "text": "Partihandel med frukt och grönsaker",
+  "section": "G"
+ },
+ {
+  "code": "46310",
+  "text": "Partihandel med frukt och grönsaker",
+  "section": "G"
+ },
+ {
+  "code": "4632",
+  "text": "Partihandel med kött, köttprodukter, fisk och fiskprodukter",
+  "section": "G"
+ },
+ {
+  "code": "46321",
+  "text": "Partihandel med kött och köttvaror",
+  "section": "G"
+ },
+ {
+  "code": "46322",
+  "text": "Partihandel med fisk- och fiskprodukter",
+  "section": "G"
+ },
+ {
+  "code": "4633",
+  "text": "Partihandel med mejeriprodukter, ägg, matolja och matfett",
+  "section": "G"
+ },
+ {
+  "code": "46330",
+  "text": "Partihandel med mejeriprodukter, ägg, matolja och matfett",
+  "section": "G"
+ },
+ {
+  "code": "4634",
+  "text": "Partihandel med drycker",
+  "section": "G"
+ },
+ {
+  "code": "46340",
+  "text": "Partihandel med drycker",
+  "section": "G"
+ },
+ {
+  "code": "4635",
+  "text": "Partihandel med tobak",
+  "section": "G"
+ },
+ {
+  "code": "46350",
+  "text": "Partihandel med tobak",
+  "section": "G"
+ },
+ {
+  "code": "4636",
+  "text": "Partihandel med socker, choklad- och sockerkonfektyrer",
+  "section": "G"
+ },
+ {
+  "code": "46360",
+  "text": "Partihandel med socker, choklad- och sockerkonfektyrer",
+  "section": "G"
+ },
+ {
+  "code": "4637",
+  "text": "Partihandel med kaffe, te, kakao och kryddor",
+  "section": "G"
+ },
+ {
+  "code": "46370",
+  "text": "Partihandel med kaffe, te, kakao och kryddor",
+  "section": "G"
+ },
+ {
+  "code": "4638",
+  "text": "Partihandel med andra livsmedel",
+  "section": "G"
+ },
+ {
+  "code": "46380",
+  "text": "Partihandel med andra livsmedel",
+  "section": "G"
+ },
+ {
+  "code": "4639",
+  "text": "Icke-specialiserad partihandel med livsmedel, drycker och tobak",
+  "section": "G"
+ },
+ {
+  "code": "46390",
+  "text": "Icke-specialiserad partihandel med livsmedel, drycker och tobak",
+  "section": "G"
+ },
+ {
+  "code": "464",
+  "text": "Partihandel med hushållsvaror",
+  "section": "G"
+ },
+ {
+  "code": "4641",
+  "text": "Partihandel med textilier",
+  "section": "G"
+ },
+ {
+  "code": "46410",
+  "text": "Partihandel med textilier",
+  "section": "G"
+ },
+ {
+  "code": "4642",
+  "text": "Partihandel med kläder och skodon",
+  "section": "G"
+ },
+ {
+  "code": "46420",
+  "text": "Partihandel med kläder och skodon",
+  "section": "G"
+ },
+ {
+  "code": "4643",
+  "text": "Partihandel med hushållsapparater och elartiklar",
+  "section": "G"
+ },
+ {
+  "code": "46431",
+  "text": "Partihandel med elektriska hushållsmaskiner och -apparater",
+  "section": "G"
+ },
+ {
+  "code": "46432",
+  "text": "Partihandel med ljud- och bildanläggningar samt videoutrustning",
+  "section": "G"
+ },
+ {
+  "code": "46433",
+  "text": "Partihandel med elartiklar",
+  "section": "G"
+ },
+ {
+  "code": "46434",
+  "text": "Partihandel med fotografiska och optiska produkter",
+  "section": "G"
+ },
+ {
+  "code": "4644",
+  "text": "Partihandel med glas och porslin samt rengöringsmedel",
+  "section": "G"
+ },
+ {
+  "code": "46440",
+  "text": "Partihandel med glas och porslin samt rengöringsmedel",
+  "section": "G"
+ },
+ {
+  "code": "4645",
+  "text": "Partihandel med parfym och kosmetika",
+  "section": "G"
+ },
+ {
+  "code": "46450",
+  "text": "Partihandel med parfym och kosmetika",
+  "section": "G"
+ },
+ {
+  "code": "4646",
+  "text": "Partihandel med medicinsk utrustning och apoteksvaror",
+  "section": "G"
+ },
+ {
+  "code": "46460",
+  "text": "Partihandel med medicinsk utrustning och apoteksvaror",
+  "section": "G"
+ },
+ {
+  "code": "4647",
+  "text": "Partihandel med hushållsvaror, kontors- och butiksmöbler, mattor och belysningsartiklar",
+  "section": "G"
+ },
+ {
+  "code": "46471",
+  "text": "Partihandel med möbler, mattor och belysningsartiklar",
+  "section": "G"
+ },
+ {
+  "code": "46472",
+  "text": "Partihandel med kontorsmöbler",
+  "section": "G"
+ },
+ {
+  "code": "4648",
+  "text": "Partihandel med ur och guldsmedsvaror",
+  "section": "G"
+ },
+ {
+  "code": "46480",
+  "text": "Partihandel med ur och guldsmedsvaror",
+  "section": "G"
+ },
+ {
+  "code": "4649",
+  "text": "Partihandel med andra hushållsvaror",
+  "section": "G"
+ },
+ {
+  "code": "46491",
+  "text": "Partihandel med sport- och fritidsartiklar",
+  "section": "G"
+ },
+ {
+  "code": "46492",
+  "text": "Partihandel med kontorsförbrukningsvaror",
+  "section": "G"
+ },
+ {
+  "code": "46499",
+  "text": "Partihandel med övriga hushållsvaror",
+  "section": "G"
+ },
+ {
+  "code": "465",
+  "text": "Partihandel med informations- och kommunikationsutrustning",
+  "section": "G"
+ },
+ {
+  "code": "4650",
+  "text": "Partihandel med informations- och kommunikationsutrustning",
+  "section": "G"
+ },
+ {
+  "code": "46501",
+  "text": "Partihandel med datorer och kringutrustning samt programvara| samt annan kontorsutrustning",
+  "section": "G"
+ },
+ {
+  "code": "46502",
+  "text": "Partihandel med elektronikkomponenter",
+  "section": "G"
+ },
+ {
+  "code": "46503",
+  "text": "Partihandel med telekommunikationsutrustning",
+  "section": "G"
+ },
+ {
+  "code": "466",
+  "text": "Partihandel med andra maskiner och annan utrustning",
+  "section": "G"
+ },
+ {
+  "code": "4661",
+  "text": "Partihandel med jordbruksmaskiner och jordbruksutrustning",
+  "section": "G"
+ },
+ {
+  "code": "46610",
+  "text": "Partihandel med jordbruksmaskiner och jordbruksutrustning",
+  "section": "G"
+ },
+ {
+  "code": "4662",
+  "text": "Partihandel med verktygsmaskiner",
+  "section": "G"
+ },
+ {
+  "code": "46620",
+  "text": "Partihandel med verktygsmaskiner",
+  "section": "G"
+ },
+ {
+  "code": "4663",
+  "text": "Partihandel med gruv-, bygg- och anläggningsmaskiner",
+  "section": "G"
+ },
+ {
+  "code": "46630",
+  "text": "Partihandel med gruv-, bygg- och anläggningsmaskiner",
+  "section": "G"
+ },
+ {
+  "code": "4664",
+  "text": "Partihandel med andra maskiner och annan utrustning",
+  "section": "G"
+ },
+ {
+  "code": "46641",
+  "text": "Partihandel med mät- och precisionsinstrument",
+  "section": "G"
+ },
+ {
+  "code": "46642",
+  "text": "Partihandel med datoriserad materialhanteringsutrustning",
+  "section": "G"
+ },
+ {
+  "code": "46649",
+  "text": "Partihandel med diverse andra maskiner och diverse annan utrustning",
+  "section": "G"
+ },
+ {
+  "code": "467",
+  "text": "Partihandel med motorfordon och motorcyklar inklusive reservdelar och tillbehör",
+  "section": "G"
+ },
+ {
+  "code": "4671",
+  "text": "Partihandel med motorfordon",
+  "section": "G"
+ },
+ {
+  "code": "46711",
+  "text": "Partihandel med personbilar och lätta motorfordon",
+  "section": "G"
+ },
+ {
+  "code": "46712",
+  "text": "Partihandel med lastbilar, bussar och specialfordon",
+  "section": "G"
+ },
+ {
+  "code": "46713",
+  "text": "Partihandel med husvagnar, husbilar, släpfordon och påhängsvagnar",
+  "section": "G"
+ },
+ {
+  "code": "4672",
+  "text": "Partihandel med reservdelar och tillbehör till motorfordon",
+  "section": "G"
+ },
+ {
+  "code": "46720",
+  "text": "Partihandel med reservdelar och tillbehör till motorfordon",
+  "section": "G"
+ },
+ {
+  "code": "4673",
+  "text": "Partihandel med motorcyklar, reservdelar och tillbehör till motorcyklar",
+  "section": "G"
+ },
+ {
+  "code": "46730",
+  "text": "Partihandel med motorcyklar, reservdelar och tillbehör till motorcyklar",
+  "section": "G"
+ },
+ {
+  "code": "468",
+  "text": "Annan specialiserad partihandel",
+  "section": "G"
+ },
+ {
+  "code": "4681",
+  "text": "Partihandel med bränslen",
+  "section": "G"
+ },
+ {
+  "code": "46810",
+  "text": "Partihandel med bränslen",
+  "section": "G"
+ },
+ {
+  "code": "4682",
+  "text": "Partihandel med metaller och metallmalmer",
+  "section": "G"
+ },
+ {
+  "code": "46820",
+  "text": "Partihandel med metaller och metallmalmer",
+  "section": "G"
+ },
+ {
+  "code": "4683",
+  "text": "Partihandel med virke, andra byggmaterial och sanitetsgods",
+  "section": "G"
+ },
+ {
+  "code": "46831",
+  "text": "Partihandel med virke och andra byggmaterial",
+  "section": "G"
+ },
+ {
+  "code": "46832",
+  "text": "Partihandel med sanitetsgods",
+  "section": "G"
+ },
+ {
+  "code": "4684",
+  "text": "Partihandel med järnhandelsvaror och VVS-armatur",
+  "section": "G"
+ },
+ {
+  "code": "46841",
+  "text": "Partihandel med järnhandelsvaror",
+  "section": "G"
+ },
+ {
+  "code": "46842",
+  "text": "Partihandel med VVS-varor",
+  "section": "G"
+ },
+ {
+  "code": "4685",
+  "text": "Partihandel med kemiska produkter",
+  "section": "G"
+ },
+ {
+  "code": "46850",
+  "text": "Partihandel med kemiska produkter",
+  "section": "G"
+ },
+ {
+  "code": "4686",
+  "text": "Partihandel med andra insatsvaror",
+  "section": "G"
+ },
+ {
+  "code": "46860",
+  "text": "Partihandel med andra insatsvaror",
+  "section": "G"
+ },
+ {
+  "code": "4687",
+  "text": "Partihandel med avfallsprodukter och skrot",
+  "section": "G"
+ },
+ {
+  "code": "46871",
+  "text": "Partihandel med uttjänta fordon",
+  "section": "G"
+ },
+ {
+  "code": "46872",
+  "text": "Partihandel med metallavfall och metallskrot",
+  "section": "G"
+ },
+ {
+  "code": "46873",
+  "text": "Partihandel med avfall och skrot av icke-metall",
+  "section": "G"
+ },
+ {
+  "code": "4689",
+  "text": "Diverse övrig specialiserad partihandel",
+  "section": "G"
+ },
+ {
+  "code": "46890",
+  "text": "Diverse övrig specialiserad partihandel",
+  "section": "G"
+ },
+ {
+  "code": "469",
+  "text": "Icke-specialiserad partihandel",
+  "section": "G"
+ },
+ {
+  "code": "4690",
+  "text": "Icke-specialiserad partihandel",
+  "section": "G"
+ },
+ {
+  "code": "46900",
+  "text": "Icke-specialiserad partihandel",
+  "section": "G"
+ },
+ {
+  "code": "47",
+  "text": "Detaljhandel",
+  "section": "G"
+ },
+ {
+  "code": "471",
+  "text": "Detaljhandel med brett sortiment",
+  "section": "G"
+ },
+ {
+  "code": "4711",
+  "text": "Detaljhandel med brett sortiment, mest livsmedel, drycker och tobak",
+  "section": "G"
+ },
+ {
+  "code": "47111",
+  "text": "Varuhus- och stormarknadshandel, mest livsmedel, drycker och tobak",
+  "section": "G"
+ },
+ {
+  "code": "47112",
+  "text": "Livsmedelshandel med brett sortiment, ej varuhus eller stormarknad",
+  "section": "G"
+ },
+ {
+  "code": "47113",
+  "text": "Detaljhandel via internet eller postorder med brett sortiment, mest livsmedel, drycker och tobak",
+  "section": "G"
+ },
+ {
+  "code": "4712",
+  "text": "Annan detaljhandel med brett sortiment",
+  "section": "G"
+ },
+ {
+  "code": "47121",
+  "text": "Annan varuhus- eller stormarknadshandel",
+  "section": "G"
+ },
+ {
+  "code": "47122",
+  "text": "Övrig detaljhandel med brett sortiment",
+  "section": "G"
+ },
+ {
+  "code": "47123",
+  "text": "Detaljhandel via internet eller postorder med brett sortiment",
+  "section": "G"
+ },
+ {
+  "code": "472",
+  "text": "Detaljhandel med livsmedel, drycker och tobak",
+  "section": "G"
+ },
+ {
+  "code": "4721",
+  "text": "Detaljhandel med frukt och grönsaker",
+  "section": "G"
+ },
+ {
+  "code": "47210",
+  "text": "Detaljhandel med frukt och grönsaker",
+  "section": "G"
+ },
+ {
+  "code": "4722",
+  "text": "Detaljhandel med kött och charkuterier",
+  "section": "G"
+ },
+ {
+  "code": "47220",
+  "text": "Detaljhandel med kött och charkuterier",
+  "section": "G"
+ },
+ {
+  "code": "4723",
+  "text": "Detaljhandel med fisk, skal- och blötdjur",
+  "section": "G"
+ },
+ {
+  "code": "47230",
+  "text": "Detaljhandel med fisk, skal- och blötdjur",
+  "section": "G"
+ },
+ {
+  "code": "4724",
+  "text": "Detaljhandel med bröd, konditorivaror och konfektyrer",
+  "section": "G"
+ },
+ {
+  "code": "47241",
+  "text": "Detaljhandel med bröd och konditorivaror",
+  "section": "G"
+ },
+ {
+  "code": "47242",
+  "text": "Detaljhandel med konfektyrer",
+  "section": "G"
+ },
+ {
+  "code": "4725",
+  "text": "Detaljhandel med drycker",
+  "section": "G"
+ },
+ {
+  "code": "47250",
+  "text": "Detaljhandel med drycker",
+  "section": "G"
+ },
+ {
+  "code": "4726",
+  "text": "Detaljhandel med tobaksvaror",
+  "section": "G"
+ },
+ {
+  "code": "47260",
+  "text": "Detaljhandel med tobaksvaror",
+  "section": "G"
+ },
+ {
+  "code": "4727",
+  "text": "Detaljhandel med andra livsmedel",
+  "section": "G"
+ },
+ {
+  "code": "47271",
+  "text": "Detaljhandel med hälsokost",
+  "section": "G"
+ },
+ {
+  "code": "47272",
+  "text": "Detaljhandel med andra livsmedel utom hälsokost",
+  "section": "G"
+ },
+ {
+  "code": "473",
+  "text": "Detaljhandel med drivmedel",
+  "section": "G"
+ },
+ {
+  "code": "4730",
+  "text": "Detaljhandel med drivmedel",
+  "section": "G"
+ },
+ {
+  "code": "47300",
+  "text": "Detaljhandel med drivmedel",
+  "section": "G"
+ },
+ {
+  "code": "474",
+  "text": "Detaljhandel med informations- och kommunikationsutrustning",
+  "section": "G"
+ },
+ {
+  "code": "4740",
+  "text": "Detaljhandel med informations- och kommunikationsutrustning",
+  "section": "G"
+ },
+ {
+  "code": "47401",
+  "text": "Detaljhandel med datorer, programvara, data- och tv-spel",
+  "section": "G"
+ },
+ {
+  "code": "47402",
+  "text": "Detaljhandel med telekommunikationsutrustning",
+  "section": "G"
+ },
+ {
+  "code": "47403",
+  "text": "Detaljhandel med ljud- och bildanläggningar samt videoutrustning",
+  "section": "G"
+ },
+ {
+  "code": "47404",
+  "text": "Detaljhandel via internet eller postorder med informations- och kommunikationsutrustning",
+  "section": "G"
+ },
+ {
+  "code": "475",
+  "text": "Detaljhandel med heminredningsartiklar och husgeråd",
+  "section": "G"
+ },
+ {
+  "code": "4751",
+  "text": "Detaljhandel med textilier",
+  "section": "G"
+ },
+ {
+  "code": "47510",
+  "text": "Detaljhandel med textilier",
+  "section": "G"
+ },
+ {
+  "code": "4752",
+  "text": "Detaljhandel med bygg- och järnvaror samt färg och glas",
+  "section": "G"
+ },
+ {
+  "code": "47521",
+  "text": "Detaljhandel med virke och byggvaror",
+  "section": "G"
+ },
+ {
+  "code": "47522",
+  "text": "Detaljhandel med järn- och VVS-varor",
+  "section": "G"
+ },
+ {
+  "code": "47523",
+  "text": "Detaljhandel med färger, fernissor och lacker",
+  "section": "G"
+ },
+ {
+  "code": "4753",
+  "text": "Detaljhandel med mattor och inredningstextilier",
+  "section": "G"
+ },
+ {
+  "code": "47531",
+  "text": "Detaljhandel med mattor och annan vägg- och golvbeklädnad",
+  "section": "G"
+ },
+ {
+  "code": "47532",
+  "text": "Detaljhandel med inredningstextilier",
+  "section": "G"
+ },
+ {
+  "code": "47533",
+  "text": "Detaljhandel via internet eller postorder med mattor och inredningstextilier",
+  "section": "G"
+ },
+ {
+  "code": "4754",
+  "text": "Detaljhandel med elektriska hushållsmaskiner och hushållsapparater",
+  "section": "G"
+ },
+ {
+  "code": "47541",
+  "text": "Detaljhandel med elektriska hushållsmaskiner och hushållsapparater, utom via internet eller postorder",
+  "section": "G"
+ },
+ {
+  "code": "47542",
+  "text": "Detaljhandel via internet eller postorder med elektriska hushållsmaskiner och hushållsapparater",
+  "section": "G"
+ },
+ {
+  "code": "4755",
+  "text": "Detaljhandel med möbler, belysningsartiklar, bordsartiklar och hushållsartiklar",
+  "section": "G"
+ },
+ {
+  "code": "47551",
+  "text": "Detaljhandel med möbler",
+  "section": "G"
+ },
+ {
+  "code": "47552",
+  "text": "Detaljhandel med belysningsartiklar, bordsartiklar och hushållsartiklar utom möbler",
+  "section": "G"
+ },
+ {
+  "code": "47553",
+  "text": "Detaljhandel via internet eller postorder med möbler, belysningsartiklar, bordsartiklar och hushållsartiklar",
+  "section": "G"
+ },
+ {
+  "code": "476",
+  "text": "Detaljhandel med kultur- och fritidsartiklar",
+  "section": "G"
+ },
+ {
+  "code": "4761",
+  "text": "Detaljhandel med böcker",
+  "section": "G"
+ },
+ {
+  "code": "47611",
+  "text": "Detaljhandel med böcker, utom via internet eller postorder",
+  "section": "G"
+ },
+ {
+  "code": "47612",
+  "text": "Detaljhandel via internet eller postorder med böcker",
+  "section": "G"
+ },
+ {
+  "code": "4762",
+  "text": "Detaljhandel med tidningar, tidskrifter och kontorsförbrukningsvaror",
+  "section": "G"
+ },
+ {
+  "code": "47621",
+  "text": "Detaljhandel med tidningar",
+  "section": "G"
+ },
+ {
+  "code": "47622",
+  "text": "Detaljhandel med kontorsförbrukningsvaror",
+  "section": "G"
+ },
+ {
+  "code": "4763",
+  "text": "Detaljhandel med sport- och fritidsartiklar",
+  "section": "G"
+ },
+ {
+  "code": "47631",
+  "text": "Detaljhandel med sport- och fritidsartiklar utom cyklar och båtar",
+  "section": "G"
+ },
+ {
+  "code": "47632",
+  "text": "Detaljhandel med cyklar",
+  "section": "G"
+ },
+ {
+  "code": "47633",
+  "text": "Detaljhandel med båtar",
+  "section": "G"
+ },
+ {
+  "code": "47634",
+  "text": "Detaljhandel via internet eller postorder med sport- och fritidsartiklar",
+  "section": "G"
+ },
+ {
+  "code": "4764",
+  "text": "Detaljhandel med spel och leksaker",
+  "section": "G"
+ },
+ {
+  "code": "47641",
+  "text": "Detaljhandel med spel och leksaker, utom via internet eller postorder",
+  "section": "G"
+ },
+ {
+  "code": "47642",
+  "text": "Detaljhandel via internet eller postorder med spel- och leksaker",
+  "section": "G"
+ },
+ {
+  "code": "4769",
+  "text": "Detaljhandel med övriga kultur- och fritidsartiklar",
+  "section": "G"
+ },
+ {
+  "code": "47691",
+  "text": "Detaljhandel med musikinstrument och noter",
+  "section": "G"
+ },
+ {
+  "code": "47692",
+  "text": "Detaljhandel med konst samt galleriverksamhet",
+  "section": "G"
+ },
+ {
+  "code": "47693",
+  "text": "Detaljhandel med media för musik och bild",
+  "section": "G"
+ },
+ {
+  "code": "47694",
+  "text": "Detaljhandel via internet eller postorder med övriga kultur- och fritidsartiklar",
+  "section": "G"
+ },
+ {
+  "code": "47699",
+  "text": "Detaljhandel med andra övriga kultur- och fritidsartiklar",
+  "section": "G"
+ },
+ {
+  "code": "477",
+  "text": "Detaljhandel med andra hushållsvaror",
+  "section": "G"
+ },
+ {
+  "code": "4771",
+  "text": "Detaljhandel med kläder",
+  "section": "G"
+ },
+ {
+  "code": "47711",
+  "text": "Detaljhandel med kläder, utom via internet eller postorder",
+  "section": "G"
+ },
+ {
+  "code": "47712",
+  "text": "Detaljhandel via internet eller postorder med kläder",
+  "section": "G"
+ },
+ {
+  "code": "4772",
+  "text": "Detaljhandel med skodon och lädervaror",
+  "section": "G"
+ },
+ {
+  "code": "47721",
+  "text": "Detaljhandel med skodon",
+  "section": "G"
+ },
+ {
+  "code": "47722",
+  "text": "Detaljhandel med väskor, reseffekter och lädervaror",
+  "section": "G"
+ },
+ {
+  "code": "47723",
+  "text": "Detaljhandel via internet eller postorder med skodon och lädervaror",
+  "section": "G"
+ },
+ {
+  "code": "4773",
+  "text": "Detaljhandel med apoteksvaror",
+  "section": "G"
+ },
+ {
+  "code": "47731",
+  "text": "Detaljhandel med apoteksvaror, utom via internet eller postorder",
+  "section": "G"
+ },
+ {
+  "code": "47732",
+  "text": "Detaljhandel via internet eller postorder med apoteksvaror",
+  "section": "G"
+ },
+ {
+  "code": "4774",
+  "text": "Detaljhandel med medicinska och ortopediska artiklar",
+  "section": "G"
+ },
+ {
+  "code": "47741",
+  "text": "Detaljhandel med medicinska och ortopediska artiklar, utom glasögon och andra optiska artiklar",
+  "section": "G"
+ },
+ {
+  "code": "47742",
+  "text": "Detaljhandel med glasögon och andra optiska artiklar utom fotoutrustning",
+  "section": "G"
+ },
+ {
+  "code": "4775",
+  "text": "Detaljhandel med kosmetika och hygienartiklar",
+  "section": "G"
+ },
+ {
+  "code": "47751",
+  "text": "Detaljhandel med kosmetika och hygienartiklar, utom via internet eller postorder",
+  "section": "G"
+ },
+ {
+  "code": "47752",
+  "text": "Detaljhandel via internet eller postorder med kosmetika och hygienartiklar",
+  "section": "G"
+ },
+ {
+  "code": "4776",
+  "text": "Detaljhandel med blommor och andra växter, gödselmedel samt små sällskapsdjur och sällskapsdjursfoder",
+  "section": "G"
+ },
+ {
+  "code": "47761",
+  "text": "Detaljhandel med blommor och andra växter, frön och gödselmedel",
+  "section": "G"
+ },
+ {
+  "code": "47762",
+  "text": "Detaljhandel med små sällskapsdjur",
+  "section": "G"
+ },
+ {
+  "code": "4777",
+  "text": "Detaljhandel med ur, guldsmedsvaror och smycken",
+  "section": "G"
+ },
+ {
+  "code": "47771",
+  "text": "Detaljhandel med ur, guldsmedsvaror och smycken, utom via internet eller postorder",
+  "section": "G"
+ },
+ {
+  "code": "47772",
+  "text": "Detaljhandel via internet eller postorder med ur, guldsmedsvaror och smycken",
+  "section": "G"
+ },
+ {
+  "code": "4778",
+  "text": "Detaljhandel med andra nya varor",
+  "section": "G"
+ },
+ {
+  "code": "47781",
+  "text": "Detaljhandel med andra optiska artiklar utom fotoutrustning",
+  "section": "G"
+ },
+ {
+  "code": "47782",
+  "text": "Detaljhandel med fotoutrustning",
+  "section": "G"
+ },
+ {
+  "code": "47789",
+  "text": "Övrig specialiserad detaljhandel",
+  "section": "G"
+ },
+ {
+  "code": "4779",
+  "text": "Detaljhandel med antikviteter och andra begagnade varor",
+  "section": "G"
+ },
+ {
+  "code": "47791",
+  "text": "Detaljhandel med antikviteter och begagnade böcker",
+  "section": "G"
+ },
+ {
+  "code": "47792",
+  "text": "Detaljhandel med övriga begagnade varor",
+  "section": "G"
+ },
+ {
+  "code": "478",
+  "text": "Detaljhandel med motorfordon och motorcyklar inklusive reservdelar och tillbehör",
+  "section": "G"
+ },
+ {
+  "code": "4781",
+  "text": "Detaljhandel med motorfordon",
+  "section": "G"
+ },
+ {
+  "code": "47811",
+  "text": "Detaljhandel med personbilar och lätta motorfordon",
+  "section": "G"
+ },
+ {
+  "code": "47812",
+  "text": "Detaljhandel med lastbilar, bussar och specialfordon",
+  "section": "G"
+ },
+ {
+  "code": "47813",
+  "text": "Detaljhandel med husvagnar, husbilar, släpfordon och påhängsvagnar",
+  "section": "G"
+ },
+ {
+  "code": "4782",
+  "text": "Detaljhandel med reservdelar och tillbehör till motorfordon",
+  "section": "G"
+ },
+ {
+  "code": "47820",
+  "text": "Detaljhandel med reservdelar och tillbehör till motorfordon",
+  "section": "G"
+ },
+ {
+  "code": "4783",
+  "text": "Detaljhandel med motorcyklar, reservdelar och tillbehör till motorcyklar",
+  "section": "G"
+ },
+ {
+  "code": "47830",
+  "text": "Detaljhandel med motorcyklar, reservdelar och tillbehör till motorcyklar",
+  "section": "G"
+ },
+ {
+  "code": "479",
+  "text": "Förmedling avseende detaljhandel",
+  "section": "G"
+ },
+ {
+  "code": "4791",
+  "text": "Förmedling avseende icke-specialiserad detaljhandel",
+  "section": "G"
+ },
+ {
+  "code": "47910",
+  "text": "Förmedling avseende icke-specialiserad detaljhandel",
+  "section": "G"
+ },
+ {
+  "code": "4792",
+  "text": "Förmedling avseende specialiserad detaljhandel",
+  "section": "G"
+ },
+ {
+  "code": "47920",
+  "text": "Förmedling avseende specialiserad detaljhandel",
+  "section": "G"
+ },
+ {
+  "code": "49",
+  "text": "Landtransport| transport i rörsystem",
+  "section": "H"
+ },
+ {
+  "code": "491",
+  "text": "Järnvägstransport, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "4911",
+  "text": "Tung järnvägstransport, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "49110",
+  "text": "Tung järnvägstransport, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "4912",
+  "text": "Annan järnvägstransport, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "49120",
+  "text": "Annan järnvägstransport, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "492",
+  "text": "Järnvägstransport, godstrafik",
+  "section": "H"
+ },
+ {
+  "code": "4920",
+  "text": "Järnvägstransport, godstrafik",
+  "section": "H"
+ },
+ {
+  "code": "49200",
+  "text": "Järnvägstransport, godstrafik",
+  "section": "H"
+ },
+ {
+  "code": "493",
+  "text": "Annan landtransport, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "4931",
+  "text": "Reguljär vägtransport, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "49310",
+  "text": "Reguljär vägtransport, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "4932",
+  "text": "Icke-reguljär vägtransport, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "49320",
+  "text": "Icke-reguljär vägtransport, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "4933",
+  "text": "Passagerartrafik på beställning, fordon med förare",
+  "section": "H"
+ },
+ {
+  "code": "49330",
+  "text": "Passagerartrafik på beställning, fordon med förare",
+  "section": "H"
+ },
+ {
+  "code": "4934",
+  "text": "Kabinbanor och skidliftar, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "49340",
+  "text": "Kabinbanor och skidliftar, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "4939",
+  "text": "Diverse övrig landtransport av passagerare",
+  "section": "H"
+ },
+ {
+  "code": "49390",
+  "text": "Diverse övrig landtransport av passagerare",
+  "section": "H"
+ },
+ {
+  "code": "494",
+  "text": "Vägtransport, godstrafik och flyttjänster",
+  "section": "H"
+ },
+ {
+  "code": "4941",
+  "text": "Vägtransport, godstrafik",
+  "section": "H"
+ },
+ {
+  "code": "49410",
+  "text": "Vägtransport, godstrafik",
+  "section": "H"
+ },
+ {
+  "code": "4942",
+  "text": "Flyttjänster",
+  "section": "H"
+ },
+ {
+  "code": "49420",
+  "text": "Flyttjänster",
+  "section": "H"
+ },
+ {
+  "code": "495",
+  "text": "Transport i rörsystem",
+  "section": "H"
+ },
+ {
+  "code": "4950",
+  "text": "Transport i rörsystem",
+  "section": "H"
+ },
+ {
+  "code": "49500",
+  "text": "Transport i rörsystem",
+  "section": "H"
+ },
+ {
+  "code": "50",
+  "text": "Sjötransport",
+  "section": "H"
+ },
+ {
+  "code": "501",
+  "text": "Havs- och kustsjöfart, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "5010",
+  "text": "Havs- och kustsjöfart, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "50101",
+  "text": "Reguljär sjötrafik över hav och kust av passagerare",
+  "section": "H"
+ },
+ {
+  "code": "50102",
+  "text": "Icke reguljär sjötrafik över hav och kust av passagerare",
+  "section": "H"
+ },
+ {
+  "code": "502",
+  "text": "Havs- och kustsjöfart, godstrafik",
+  "section": "H"
+ },
+ {
+  "code": "5020",
+  "text": "Havs- och kustsjöfart, godstrafik",
+  "section": "H"
+ },
+ {
+  "code": "50201",
+  "text": "Reguljär sjötrafik över hav och kust av gods",
+  "section": "H"
+ },
+ {
+  "code": "50202",
+  "text": "Icke reguljär sjötrafik över hav och kust av gods",
+  "section": "H"
+ },
+ {
+  "code": "503",
+  "text": "Sjöfart på inre vattenvägar, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "5030",
+  "text": "Sjöfart på inre vattenvägar, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "50301",
+  "text": "Reguljär sjötrafik på inre vattenvägar av passagerare",
+  "section": "H"
+ },
+ {
+  "code": "50302",
+  "text": "Icke reguljär sjötrafik på inre vattenvägar av passagerare",
+  "section": "H"
+ },
+ {
+  "code": "504",
+  "text": "Sjöfart på inre vattenvägar, godstrafik",
+  "section": "H"
+ },
+ {
+  "code": "5040",
+  "text": "Sjöfart på inre vattenvägar, godstrafik",
+  "section": "H"
+ },
+ {
+  "code": "50401",
+  "text": "Reguljär sjötrafik på inre vattenvägar av gods",
+  "section": "H"
+ },
+ {
+  "code": "50402",
+  "text": "Icke reguljär sjötrafik på inre vattenvägar av gods",
+  "section": "H"
+ },
+ {
+  "code": "51",
+  "text": "Lufttransport",
+  "section": "H"
+ },
+ {
+  "code": "511",
+  "text": "Lufttransport, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "5110",
+  "text": "Lufttransport, passagerartrafik",
+  "section": "H"
+ },
+ {
+  "code": "51101",
+  "text": "Reguljär lufttransport av passagerare",
+  "section": "H"
+ },
+ {
+  "code": "51102",
+  "text": "Icke reguljär lufttransport av passagerare",
+  "section": "H"
+ },
+ {
+  "code": "512",
+  "text": "Lufttransport, godstrafik och rymdfart",
+  "section": "H"
+ },
+ {
+  "code": "5121",
+  "text": "Lufttransport, godstrafik",
+  "section": "H"
+ },
+ {
+  "code": "51211",
+  "text": "Reguljär lufttransport av gods",
+  "section": "H"
+ },
+ {
+  "code": "51212",
+  "text": "Icke reguljär lufttransport av gods",
+  "section": "H"
+ },
+ {
+  "code": "5122",
+  "text": "Rymdfart",
+  "section": "H"
+ },
+ {
+  "code": "51220",
+  "text": "Rymdfart",
+  "section": "H"
+ },
+ {
+  "code": "52",
+  "text": "Magasinering, varulagring och stödverksamhet avseende transport",
+  "section": "H"
+ },
+ {
+  "code": "521",
+  "text": "Magasinering och varulagring",
+  "section": "H"
+ },
+ {
+  "code": "5210",
+  "text": "Magasinering och varulagring",
+  "section": "H"
+ },
+ {
+  "code": "52100",
+  "text": "Magasinering och varulagring",
+  "section": "H"
+ },
+ {
+  "code": "522",
+  "text": "Stödverksamhet avseende transport",
+  "section": "H"
+ },
+ {
+  "code": "5221",
+  "text": "Stödverksamhet avseende landtransport",
+  "section": "H"
+ },
+ {
+  "code": "52211",
+  "text": "Bärgning avseende landtransport",
+  "section": "H"
+ },
+ {
+  "code": "52219",
+  "text": "Övrig stödverksamhet avseende landtransport",
+  "section": "H"
+ },
+ {
+  "code": "5222",
+  "text": "Stödverksamhet avseende sjötransport",
+  "section": "H"
+ },
+ {
+  "code": "52220",
+  "text": "Stödverksamhet avseende sjötransport",
+  "section": "H"
+ },
+ {
+  "code": "5223",
+  "text": "Stödverksamhet avseende lufttransport",
+  "section": "H"
+ },
+ {
+  "code": "52230",
+  "text": "Stödverksamhet avseende lufttransport",
+  "section": "H"
+ },
+ {
+  "code": "5224",
+  "text": "Godshantering",
+  "section": "H"
+ },
+ {
+  "code": "52241",
+  "text": "Hamngodshantering",
+  "section": "H"
+ },
+ {
+  "code": "52249",
+  "text": "Övrig godshantering",
+  "section": "H"
+ },
+ {
+  "code": "5225",
+  "text": "Logistikverksamhet",
+  "section": "H"
+ },
+ {
+  "code": "52250",
+  "text": "Logistikverksamhet",
+  "section": "H"
+ },
+ {
+  "code": "5226",
+  "text": "Annan stödverksamhet avseende transport",
+  "section": "H"
+ },
+ {
+  "code": "52260",
+  "text": "Annan stödverksamhet avseende transport",
+  "section": "H"
+ },
+ {
+  "code": "523",
+  "text": "Förmedling avseende transport",
+  "section": "H"
+ },
+ {
+  "code": "5231",
+  "text": "Förmedling avseende godstransport",
+  "section": "H"
+ },
+ {
+  "code": "52310",
+  "text": "Förmedling avseende godstransport",
+  "section": "H"
+ },
+ {
+  "code": "5232",
+  "text": "Förmedling avseende passagerartransport",
+  "section": "H"
+ },
+ {
+  "code": "52320",
+  "text": "Förmedling avseende passagerartransport",
+  "section": "H"
+ },
+ {
+  "code": "53",
+  "text": "Post- och kurirverksamhet",
+  "section": "H"
+ },
+ {
+  "code": "531",
+  "text": "Postbefordran via nationella posten",
+  "section": "H"
+ },
+ {
+  "code": "5310",
+  "text": "Postbefordran via nationella posten",
+  "section": "H"
+ },
+ {
+  "code": "53100",
+  "text": "Postbefordran via nationella posten",
+  "section": "H"
+ },
+ {
+  "code": "532",
+  "text": "Annan postbefordran samt kurirverksamhet",
+  "section": "H"
+ },
+ {
+  "code": "5320",
+  "text": "Annan postbefordran samt kurirverksamhet",
+  "section": "H"
+ },
+ {
+  "code": "53201",
+  "text": "Annan postbefordran och tidningsdistribution",
+  "section": "H"
+ },
+ {
+  "code": "53202",
+  "text": "Bud- och kurirverksamhet",
+  "section": "H"
+ },
+ {
+  "code": "533",
+  "text": "Förmedling avseende postbefordran samt kurirverksamhet",
+  "section": "H"
+ },
+ {
+  "code": "5330",
+  "text": "Förmedling avseende postbefordran samt kurirverksamhet",
+  "section": "H"
+ },
+ {
+  "code": "53300",
+  "text": "Förmedling avseende postbefordran samt kurirverksamhet",
+  "section": "H"
+ },
+ {
+  "code": "55",
+  "text": "Hotell- och logiverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "551",
+  "text": "Hotellverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "5510",
+  "text": "Hotellverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "55101",
+  "text": "Hotellverksamhet med restaurangrörelse",
+  "section": "I"
+ },
+ {
+  "code": "55102",
+  "text": "Drift av konferensanläggningar med boende",
+  "section": "I"
+ },
+ {
+  "code": "55103",
+  "text": "Hotellverksamhet utan restaurangrörelse",
+  "section": "I"
+ },
+ {
+  "code": "552",
+  "text": "Semesterbostäder och annan korttidsinkvartering",
+  "section": "I"
+ },
+ {
+  "code": "5520",
+  "text": "Semesterbostäder och annan korttidsinkvartering",
+  "section": "I"
+ },
+ {
+  "code": "55201",
+  "text": "Vandrarhemsverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "55202",
+  "text": "Stug- och rumsuthyrning",
+  "section": "I"
+ },
+ {
+  "code": "553",
+  "text": "Campingplatsverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "5530",
+  "text": "Campingplatsverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "55300",
+  "text": "Campingplatsverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "554",
+  "text": "Förmedling avseende hotell- och logiverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "5540",
+  "text": "Förmedling avseende hotell- och logiverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "55400",
+  "text": "Förmedling avseende hotell- och logiverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "559",
+  "text": "Annan logiverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "5590",
+  "text": "Annan logiverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "55900",
+  "text": "Annan logiverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "56",
+  "text": "Restaurang-, catering- och barverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "561",
+  "text": "Restaurangverksamhet och mobil restaurangverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "5611",
+  "text": "Restaurangverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "56110",
+  "text": "Restaurangverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "5612",
+  "text": "Mobil restaurangverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "56120",
+  "text": "Mobil restaurangverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "562",
+  "text": "Cateringverksamhet vid enskilda evenemang, kontrakterad cateringverksamhet och annan restaurangverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "5621",
+  "text": "Cateringverksamhet vid enskilda evenemang",
+  "section": "I"
+ },
+ {
+  "code": "56210",
+  "text": "Cateringverksamhet vid enskilda evenemang",
+  "section": "I"
+ },
+ {
+  "code": "5622",
+  "text": "Kontrakterad cateringverksamhet och annan restaurangverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "56221",
+  "text": "Drift av personalmatsalar",
+  "section": "I"
+ },
+ {
+  "code": "56222",
+  "text": "Centralköksverksamhet för sjukhus, skolor, omsorgs- och andra institutioner",
+  "section": "I"
+ },
+ {
+  "code": "56229",
+  "text": "Övrig centralköks- och cateringverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "563",
+  "text": "Barverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "5630",
+  "text": "Barverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "56300",
+  "text": "Barverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "564",
+  "text": "Förmedling avseende restaurang-, catering- och barverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "5640",
+  "text": "Förmedling avseende restaurang-, catering- och barverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "56400",
+  "text": "Förmedling avseende restaurang-, catering- och barverksamhet",
+  "section": "I"
+ },
+ {
+  "code": "58",
+  "text": "Förlagsverksamhet",
+  "section": "J"
+ },
+ {
+  "code": "581",
+  "text": "Utgivning av böcker och tidningar samt annan förlagsverksamhet, utom utgivning av programvara",
+  "section": "J"
+ },
+ {
+  "code": "5811",
+  "text": "Utgivning av böcker",
+  "section": "J"
+ },
+ {
+  "code": "58110",
+  "text": "Utgivning av böcker",
+  "section": "J"
+ },
+ {
+  "code": "5812",
+  "text": "Utgivning av tidningar",
+  "section": "J"
+ },
+ {
+  "code": "58121",
+  "text": "Dagstidningsutgivning",
+  "section": "J"
+ },
+ {
+  "code": "58122",
+  "text": "Annonstidningsutgivning",
+  "section": "J"
+ },
+ {
+  "code": "5813",
+  "text": "Utgivning av tidskrifter",
+  "section": "J"
+ },
+ {
+  "code": "58130",
+  "text": "Utgivning av tidskrifter",
+  "section": "J"
+ },
+ {
+  "code": "5819",
+  "text": "Annan förlagsverksamhet, utom utgivning av programvara",
+  "section": "J"
+ },
+ {
+  "code": "58190",
+  "text": "Annan förlagsverksamhet, utom utgivning av programvara",
+  "section": "J"
+ },
+ {
+  "code": "582",
+  "text": "Utgivning av programvara",
+  "section": "J"
+ },
+ {
+  "code": "5821",
+  "text": "Utgivning av datorspel",
+  "section": "J"
+ },
+ {
+  "code": "58210",
+  "text": "Utgivning av datorspel",
+  "section": "J"
+ },
+ {
+  "code": "5829",
+  "text": "Utgivning av annan programvara",
+  "section": "J"
+ },
+ {
+  "code": "58290",
+  "text": "Utgivning av annan programvara",
+  "section": "J"
+ },
+ {
+  "code": "59",
+  "text": "Film-, video- och tv-programverksamhet, ljudinspelning och musikutgivning",
+  "section": "J"
+ },
+ {
+  "code": "591",
+  "text": "Film-, video- och tv-programverksamhet",
+  "section": "J"
+ },
+ {
+  "code": "5911",
+  "text": "Produktion av film, video och tv-program",
+  "section": "J"
+ },
+ {
+  "code": "59110",
+  "text": "Produktion av film, video och tv-program",
+  "section": "J"
+ },
+ {
+  "code": "5912",
+  "text": "Efterproduktion av film, video och tv-program",
+  "section": "J"
+ },
+ {
+  "code": "59120",
+  "text": "Efterproduktion av film, video och tv-program",
+  "section": "J"
+ },
+ {
+  "code": "5913",
+  "text": "Film- och videodistribution",
+  "section": "J"
+ },
+ {
+  "code": "59130",
+  "text": "Film- och videodistribution",
+  "section": "J"
+ },
+ {
+  "code": "5914",
+  "text": "Filmvisning",
+  "section": "J"
+ },
+ {
+  "code": "59140",
+  "text": "Filmvisning",
+  "section": "J"
+ },
+ {
+  "code": "592",
+  "text": "Ljudinspelning och musikutgivning",
+  "section": "J"
+ },
+ {
+  "code": "5920",
+  "text": "Ljudinspelning och musikutgivning",
+  "section": "J"
+ },
+ {
+  "code": "59200",
+  "text": "Ljudinspelning och musikutgivning",
+  "section": "J"
+ },
+ {
+  "code": "60",
+  "text": "Planering, radio- och tv-sändning, nyhetsbyråer och annan distribution av medieinnehåll",
+  "section": "J"
+ },
+ {
+  "code": "601",
+  "text": "Radiosändning och distribution av ljudinspelningar",
+  "section": "J"
+ },
+ {
+  "code": "6010",
+  "text": "Radiosändning och distribution av ljudinspelningar",
+  "section": "J"
+ },
+ {
+  "code": "60100",
+  "text": "Radiosändning och distribution av ljudinspelningar",
+  "section": "J"
+ },
+ {
+  "code": "602",
+  "text": "Planering och sändning av tv-program samt distribution av video",
+  "section": "J"
+ },
+ {
+  "code": "6020",
+  "text": "Planering och sändning av tv-program samt distribution av video",
+  "section": "J"
+ },
+ {
+  "code": "60200",
+  "text": "Planering och sändning av tv-program samt distribution av video",
+  "section": "J"
+ },
+ {
+  "code": "603",
+  "text": "Nyhetsförmedling och annan distribution av medieinnehåll",
+  "section": "J"
+ },
+ {
+  "code": "6031",
+  "text": "Nyhetsförmedling",
+  "section": "J"
+ },
+ {
+  "code": "60310",
+  "text": "Nyhetsförmedling",
+  "section": "J"
+ },
+ {
+  "code": "6039",
+  "text": "Annan distribution av medieinnehåll",
+  "section": "J"
+ },
+ {
+  "code": "60390",
+  "text": "Annan distribution av medieinnehåll",
+  "section": "J"
+ },
+ {
+  "code": "61",
+  "text": "Telekommunikation",
+  "section": "K"
+ },
+ {
+  "code": "611",
+  "text": "Trådbunden och trådlös telekommunikation samt telekommunikation via satellit",
+  "section": "K"
+ },
+ {
+  "code": "6110",
+  "text": "Trådbunden och trådlös telekommunikation samt telekommunikation via satellit",
+  "section": "K"
+ },
+ {
+  "code": "61100",
+  "text": "Trådbunden och trådlös telekommunikation samt telekommunikation via satellit",
+  "section": "K"
+ },
+ {
+  "code": "612",
+  "text": "Återförsäljning och förmedling avseende telekommunikation",
+  "section": "K"
+ },
+ {
+  "code": "6120",
+  "text": "Återförsäljning och förmedling avseende telekommunikation",
+  "section": "K"
+ },
+ {
+  "code": "61200",
+  "text": "Återförsäljning och förmedling avseende telekommunikation",
+  "section": "K"
+ },
+ {
+  "code": "619",
+  "text": "Annan telekommunikation",
+  "section": "K"
+ },
+ {
+  "code": "6190",
+  "text": "Annan telekommunikation",
+  "section": "K"
+ },
+ {
+  "code": "61900",
+  "text": "Annan telekommunikation",
+  "section": "K"
+ },
+ {
+  "code": "62",
+  "text": "Dataprogrammering, datakonsultverksamhet o.d.",
+  "section": "K"
+ },
+ {
+  "code": "621",
+  "text": "Dataprogrammering",
+  "section": "K"
+ },
+ {
+  "code": "6210",
+  "text": "Dataprogrammering",
+  "section": "K"
+ },
+ {
+  "code": "62100",
+  "text": "Dataprogrammering",
+  "section": "K"
+ },
+ {
+  "code": "622",
+  "text": "Datakonsultverksamhet och datordrift",
+  "section": "K"
+ },
+ {
+  "code": "6220",
+  "text": "Datakonsultverksamhet och datordrift",
+  "section": "K"
+ },
+ {
+  "code": "62201",
+  "text": "Datakonsultverksamhet",
+  "section": "K"
+ },
+ {
+  "code": "62202",
+  "text": "Datordrifttjänster",
+  "section": "K"
+ },
+ {
+  "code": "629",
+  "text": "Annan it- och dataverksamhet",
+  "section": "K"
+ },
+ {
+  "code": "6290",
+  "text": "Annan it- och dataverksamhet",
+  "section": "K"
+ },
+ {
+  "code": "62900",
+  "text": "Annan it- och dataverksamhet",
+  "section": "K"
+ },
+ {
+  "code": "63",
+  "text": "Datainfrastruktur, databehandling, hosting och annan informationsverksamhet",
+  "section": "K"
+ },
+ {
+  "code": "631",
+  "text": "Datainfrastruktur, databehandling, hosting o.d.",
+  "section": "K"
+ },
+ {
+  "code": "6310",
+  "text": "Datainfrastruktur, databehandling, hosting o.d.",
+  "section": "K"
+ },
+ {
+  "code": "63100",
+  "text": "Datainfrastruktur, databehandling, hosting o.d.",
+  "section": "K"
+ },
+ {
+  "code": "639",
+  "text": "Webbportaler och annan informationsverksamhet",
+  "section": "K"
+ },
+ {
+  "code": "6391",
+  "text": "Webbportaler",
+  "section": "K"
+ },
+ {
+  "code": "63910",
+  "text": "Webbportaler",
+  "section": "K"
+ },
+ {
+  "code": "6392",
+  "text": "Övrig informationsverksamhet",
+  "section": "K"
+ },
+ {
+  "code": "63920",
+  "text": "Övrig informationsverksamhet",
+  "section": "K"
+ },
+ {
+  "code": "64",
+  "text": "Finansiell verksamhet utom försäkrings- och pensionsfondsverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "641",
+  "text": "Monetär finansförmedling",
+  "section": "L"
+ },
+ {
+  "code": "6411",
+  "text": "Centralbanksverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "64110",
+  "text": "Centralbanksverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "6419",
+  "text": "Annan monetär finansförmedling",
+  "section": "L"
+ },
+ {
+  "code": "64190",
+  "text": "Annan monetär finansförmedling",
+  "section": "L"
+ },
+ {
+  "code": "642",
+  "text": "Holding- och conduitverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "6421",
+  "text": "Holdingverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "64211",
+  "text": "Holdingverksamhet i finansiella koncerner",
+  "section": "L"
+ },
+ {
+  "code": "64212",
+  "text": "Holdingverksamhet i icke-finansiella koncerner",
+  "section": "L"
+ },
+ {
+  "code": "6422",
+  "text": "Conduitverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "64220",
+  "text": "Conduitverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "643",
+  "text": "Fonder och liknande finansiella enheter",
+  "section": "L"
+ },
+ {
+  "code": "6431",
+  "text": "Penningmarknadsfonder och andra fonder än penningmarknadsfonder",
+  "section": "L"
+ },
+ {
+  "code": "64310",
+  "text": "Penningmarknadsfonder och andra fonder än penningmarknadsfonder",
+  "section": "L"
+ },
+ {
+  "code": "6432",
+  "text": "Stiftelser, dödsbon och brevlådeföretag",
+  "section": "L"
+ },
+ {
+  "code": "64320",
+  "text": "Stiftelser, dödsbon och brevlådeföretag",
+  "section": "L"
+ },
+ {
+  "code": "649",
+  "text": "Annan finansiell verksamhet utom försäkrings- och pensionsfondsverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "6491",
+  "text": "Finansiell leasing",
+  "section": "L"
+ },
+ {
+  "code": "64910",
+  "text": "Finansiell leasing",
+  "section": "L"
+ },
+ {
+  "code": "6492",
+  "text": "Annan kreditgivning",
+  "section": "L"
+ },
+ {
+  "code": "64920",
+  "text": "Annan kreditgivning",
+  "section": "L"
+ },
+ {
+  "code": "6499",
+  "text": "Diverse övrig finansiell verksamhet utom försäkrings- och pensionsfondsverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "64991",
+  "text": "Investmentverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "64992",
+  "text": "Riskkapitalbolagsverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "64993",
+  "text": "Handel med och förvaltning av värdepapper, för egen räkning",
+  "section": "L"
+ },
+ {
+  "code": "64994",
+  "text": "Förvaltning av och handel med värdepapper, för en begränsad och sluten krets av ägare",
+  "section": "L"
+ },
+ {
+  "code": "64999",
+  "text": "Diverse övrig finansförmedling",
+  "section": "L"
+ },
+ {
+  "code": "65",
+  "text": "Försäkrings-, återförsäkrings- och pensionsfondsverksamhet utom obligatorisk socialförsäkring",
+  "section": "L"
+ },
+ {
+  "code": "651",
+  "text": "Försäkring",
+  "section": "L"
+ },
+ {
+  "code": "6511",
+  "text": "Livförsäkring",
+  "section": "L"
+ },
+ {
+  "code": "65111",
+  "text": "Fondanknuten livförsäkring",
+  "section": "L"
+ },
+ {
+  "code": "65119",
+  "text": "Övrig livförsäkring",
+  "section": "L"
+ },
+ {
+  "code": "6512",
+  "text": "Skadeförsäkring",
+  "section": "L"
+ },
+ {
+  "code": "65120",
+  "text": "Skadeförsäkring",
+  "section": "L"
+ },
+ {
+  "code": "652",
+  "text": "Återförsäkring",
+  "section": "L"
+ },
+ {
+  "code": "6520",
+  "text": "Återförsäkring",
+  "section": "L"
+ },
+ {
+  "code": "65200",
+  "text": "Återförsäkring",
+  "section": "L"
+ },
+ {
+  "code": "653",
+  "text": "Pensionsfondsverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "6530",
+  "text": "Pensionsfondsverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "65300",
+  "text": "Pensionsfondsverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "66",
+  "text": "Stödverksamhet avseende finansiella tjänster och försäkringsverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "661",
+  "text": "Stödverksamhet avseende finansiella tjänster utom försäkrings- och pensionsfondsverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "6611",
+  "text": "Administration avseende finansiella marknader",
+  "section": "L"
+ },
+ {
+  "code": "66110",
+  "text": "Administration avseende finansiella marknader",
+  "section": "L"
+ },
+ {
+  "code": "6612",
+  "text": "Verksamhet utförd av värdepappers- och varumäklare",
+  "section": "L"
+ },
+ {
+  "code": "66120",
+  "text": "Verksamhet utförd av värdepappers- och varumäklare",
+  "section": "L"
+ },
+ {
+  "code": "6619",
+  "text": "Annan stödverksamhet avseende finansiella tjänster utom försäkrings- och pensionsfondsverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "66190",
+  "text": "Annan stödverksamhet avseende finansiella tjänster utom försäkrings- och pensionsfondsverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "662",
+  "text": "Stödverksamhet avseende försäkrings- och pensionsfondsverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "6621",
+  "text": "Risk- och skadebedömning",
+  "section": "L"
+ },
+ {
+  "code": "66210",
+  "text": "Risk- och skadebedömning",
+  "section": "L"
+ },
+ {
+  "code": "6622",
+  "text": "Verksamhet utförd av försäkringsombud och försäkringsmäklare",
+  "section": "L"
+ },
+ {
+  "code": "66220",
+  "text": "Verksamhet utförd av försäkringsombud och försäkringsmäklare",
+  "section": "L"
+ },
+ {
+  "code": "6629",
+  "text": "Övrig stödverksamhet avseende försäkrings- och pensionsfondsverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "66290",
+  "text": "Övrig stödverksamhet avseende försäkrings- och pensionsfondsverksamhet",
+  "section": "L"
+ },
+ {
+  "code": "663",
+  "text": "Fondförvaltning",
+  "section": "L"
+ },
+ {
+  "code": "6630",
+  "text": "Fondförvaltning",
+  "section": "L"
+ },
+ {
+  "code": "66301",
+  "text": "Förvaltning av investeringsfonder",
+  "section": "L"
+ },
+ {
+  "code": "66309",
+  "text": "Annan fondförvaltning",
+  "section": "L"
+ },
+ {
+  "code": "68",
+  "text": "Fastighetsverksamhet",
+  "section": "M"
+ },
+ {
+  "code": "681",
+  "text": "Fastighetsverksamhet med egna fastigheter och utformning av byggprojekt",
+  "section": "M"
+ },
+ {
+  "code": "6811",
+  "text": "Handel med egna fastigheter",
+  "section": "M"
+ },
+ {
+  "code": "68110",
+  "text": "Handel med egna fastigheter",
+  "section": "M"
+ },
+ {
+  "code": "6812",
+  "text": "Utformning av byggprojekt",
+  "section": "M"
+ },
+ {
+  "code": "68120",
+  "text": "Utformning av byggprojekt",
+  "section": "M"
+ },
+ {
+  "code": "682",
+  "text": "Uthyrning och förvaltning av egna eller arrenderade fastigheter",
+  "section": "M"
+ },
+ {
+  "code": "6820",
+  "text": "Uthyrning och förvaltning av egna eller arrenderade fastigheter",
+  "section": "M"
+ },
+ {
+  "code": "68201",
+  "text": "Uthyrning och förvaltning av egna eller arrenderade bostäder",
+  "section": "M"
+ },
+ {
+  "code": "68202",
+  "text": "Uthyrning och förvaltning av egna eller arrenderade industrilokaler",
+  "section": "M"
+ },
+ {
+  "code": "68203",
+  "text": "Uthyrning och förvaltning av egna eller arrenderade, andra lokaler",
+  "section": "M"
+ },
+ {
+  "code": "68204",
+  "text": "Förvaltning i bostadsrättsföreningar",
+  "section": "M"
+ },
+ {
+  "code": "68209",
+  "text": "Övrig förvaltning av egna eller arrenderade fastigheter",
+  "section": "M"
+ },
+ {
+  "code": "683",
+  "text": "Fastighetsförmedling och fastighetsförvaltning på uppdrag",
+  "section": "M"
+ },
+ {
+  "code": "6831",
+  "text": "Förmedling avseende fastighetsverksamhet",
+  "section": "M"
+ },
+ {
+  "code": "68310",
+  "text": "Förmedling avseende fastighetsverksamhet",
+  "section": "M"
+ },
+ {
+  "code": "6832",
+  "text": "Annan fastighetsförmedling och fastighetsförvaltning på uppdrag",
+  "section": "M"
+ },
+ {
+  "code": "68320",
+  "text": "Annan fastighetsförmedling och fastighetsförvaltning på uppdrag",
+  "section": "M"
+ },
+ {
+  "code": "69",
+  "text": "Juridisk och ekonomisk konsultverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "691",
+  "text": "Juridisk verksamhet",
+  "section": "N"
+ },
+ {
+  "code": "6910",
+  "text": "Juridisk verksamhet",
+  "section": "N"
+ },
+ {
+  "code": "69101",
+  "text": "Advokatbyråverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "69102",
+  "text": "Juridiska byråers verksamhet m.m.",
+  "section": "N"
+ },
+ {
+  "code": "692",
+  "text": "Redovisning och bokföring, revision| skatterådgivning",
+  "section": "N"
+ },
+ {
+  "code": "6920",
+  "text": "Redovisning och bokföring, revision| skatterådgivning",
+  "section": "N"
+ },
+ {
+  "code": "69201",
+  "text": "Redovisning och bokföring| skatterådgivning",
+  "section": "N"
+ },
+ {
+  "code": "69202",
+  "text": "Revision",
+  "section": "N"
+ },
+ {
+  "code": "70",
+  "text": "Verksamheter som utövas av huvudkontor samt konsultverksamhet avseende företag",
+  "section": "N"
+ },
+ {
+  "code": "701",
+  "text": "Verksamheter som utövas av huvudkontor",
+  "section": "N"
+ },
+ {
+  "code": "7010",
+  "text": "Verksamheter som utövas av huvudkontor",
+  "section": "N"
+ },
+ {
+  "code": "70100",
+  "text": "Verksamheter som utövas av huvudkontor",
+  "section": "N"
+ },
+ {
+  "code": "702",
+  "text": "Konsultverksamhet avseende företags organisation",
+  "section": "N"
+ },
+ {
+  "code": "7020",
+  "text": "Konsultverksamhet avseende företags organisation",
+  "section": "N"
+ },
+ {
+  "code": "70200",
+  "text": "Konsultverksamhet avseende företags organisation",
+  "section": "N"
+ },
+ {
+  "code": "71",
+  "text": "Arkitekt- och teknisk konsultverksamhet| teknisk provning och analys",
+  "section": "N"
+ },
+ {
+  "code": "711",
+  "text": "Arkitekt- och teknisk konsultverksamhet o.d.",
+  "section": "N"
+ },
+ {
+  "code": "7111",
+  "text": "Arkitektverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "71110",
+  "text": "Arkitektverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "7112",
+  "text": "Teknisk konsultverksamhet o.d.",
+  "section": "N"
+ },
+ {
+  "code": "71121",
+  "text": "Teknisk konsultverksamhet inom bygg- och anläggningsteknik",
+  "section": "N"
+ },
+ {
+  "code": "71122",
+  "text": "Teknisk konsultverksamhet inom industriteknik",
+  "section": "N"
+ },
+ {
+  "code": "71123",
+  "text": "Teknisk konsultverksamhet inom elteknik",
+  "section": "N"
+ },
+ {
+  "code": "71124",
+  "text": "Teknisk konsultverksamhet inom energi-, miljö- och VVS-teknik",
+  "section": "N"
+ },
+ {
+  "code": "71129",
+  "text": "Övrig teknisk konsultverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "712",
+  "text": "Teknisk provning och analys",
+  "section": "N"
+ },
+ {
+  "code": "7120",
+  "text": "Teknisk provning och analys",
+  "section": "N"
+ },
+ {
+  "code": "71200",
+  "text": "Teknisk provning och analys",
+  "section": "N"
+ },
+ {
+  "code": "72",
+  "text": "Vetenskaplig forskning och utveckling",
+  "section": "N"
+ },
+ {
+  "code": "721",
+  "text": "Naturvetenskaplig och teknisk forskning och utveckling",
+  "section": "N"
+ },
+ {
+  "code": "7210",
+  "text": "Naturvetenskaplig och teknisk forskning och utveckling",
+  "section": "N"
+ },
+ {
+  "code": "72101",
+  "text": "Bioteknisk forskning och utveckling",
+  "section": "N"
+ },
+ {
+  "code": "72109",
+  "text": "Annan naturvetenskaplig och teknisk forskning och utveckling",
+  "section": "N"
+ },
+ {
+  "code": "722",
+  "text": "Samhällsvetenskaplig och humanistisk forskning och utveckling",
+  "section": "N"
+ },
+ {
+  "code": "7220",
+  "text": "Samhällsvetenskaplig och humanistisk forskning och utveckling",
+  "section": "N"
+ },
+ {
+  "code": "72200",
+  "text": "Samhällsvetenskaplig och humanistisk forskning och utveckling",
+  "section": "N"
+ },
+ {
+  "code": "73",
+  "text": "Reklamverksamhet, marknadsundersökningar och PR",
+  "section": "N"
+ },
+ {
+  "code": "731",
+  "text": "Reklamverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "7311",
+  "text": "Reklambyråer",
+  "section": "N"
+ },
+ {
+  "code": "73111",
+  "text": "Reklambyråverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "73112",
+  "text": "Direktreklamverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "73119",
+  "text": "Övrig reklamverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "7312",
+  "text": "Mediebyråverksamhet och annonsförsäljning",
+  "section": "N"
+ },
+ {
+  "code": "73120",
+  "text": "Mediebyråverksamhet och annonsförsäljning",
+  "section": "N"
+ },
+ {
+  "code": "732",
+  "text": "Marknads- och opinionsundersökning",
+  "section": "N"
+ },
+ {
+  "code": "7320",
+  "text": "Marknads- och opinionsundersökning",
+  "section": "N"
+ },
+ {
+  "code": "73200",
+  "text": "Marknads- och opinionsundersökning",
+  "section": "N"
+ },
+ {
+  "code": "733",
+  "text": "PR och kommunikation",
+  "section": "N"
+ },
+ {
+  "code": "7330",
+  "text": "PR och kommunikation",
+  "section": "N"
+ },
+ {
+  "code": "73300",
+  "text": "PR och kommunikation",
+  "section": "N"
+ },
+ {
+  "code": "74",
+  "text": "Annan verksamhet inom juridik, ekonomi, vetenskap och teknik",
+  "section": "N"
+ },
+ {
+  "code": "741",
+  "text": "Specialiserad designverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "7411",
+  "text": "Industridesign och modedesign",
+  "section": "N"
+ },
+ {
+  "code": "74110",
+  "text": "Industridesign och modedesign",
+  "section": "N"
+ },
+ {
+  "code": "7412",
+  "text": "Grafisk design och visuell kommunikation",
+  "section": "N"
+ },
+ {
+  "code": "74120",
+  "text": "Grafisk design och visuell kommunikation",
+  "section": "N"
+ },
+ {
+  "code": "7413",
+  "text": "Inredningsdesign",
+  "section": "N"
+ },
+ {
+  "code": "74130",
+  "text": "Inredningsdesign",
+  "section": "N"
+ },
+ {
+  "code": "7414",
+  "text": "Annan specialiserad designverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "74140",
+  "text": "Annan specialiserad designverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "742",
+  "text": "Fotoverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "7420",
+  "text": "Fotoverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "74200",
+  "text": "Fotoverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "743",
+  "text": "Översättning och tolkning",
+  "section": "N"
+ },
+ {
+  "code": "7430",
+  "text": "Översättning och tolkning",
+  "section": "N"
+ },
+ {
+  "code": "74300",
+  "text": "Översättning och tolkning",
+  "section": "N"
+ },
+ {
+  "code": "749",
+  "text": "Diverse övrig verksamhet inom juridik, ekonomi, vetenskap och teknik",
+  "section": "N"
+ },
+ {
+  "code": "7491",
+  "text": "Patentförmedling samt marknadsföring av patent",
+  "section": "N"
+ },
+ {
+  "code": "74910",
+  "text": "Patentförmedling samt marknadsföring av patent",
+  "section": "N"
+ },
+ {
+  "code": "7499",
+  "text": "All övrig verksamhet inom juridik, ekonomi, vetenskap och teknik",
+  "section": "N"
+ },
+ {
+  "code": "74990",
+  "text": "All övrig verksamhet inom juridik, ekonomi, vetenskap och teknik",
+  "section": "N"
+ },
+ {
+  "code": "75",
+  "text": "Veterinärverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "750",
+  "text": "Veterinärverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "7500",
+  "text": "Veterinärverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "75000",
+  "text": "Veterinärverksamhet",
+  "section": "N"
+ },
+ {
+  "code": "77",
+  "text": "Uthyrning och leasing",
+  "section": "O"
+ },
+ {
+  "code": "771",
+  "text": "Uthyrning och leasing av motorfordon",
+  "section": "O"
+ },
+ {
+  "code": "7711",
+  "text": "Uthyrning och leasing av personbilar och lätta motorfordon",
+  "section": "O"
+ },
+ {
+  "code": "77110",
+  "text": "Uthyrning och leasing av personbilar och lätta motorfordon",
+  "section": "O"
+ },
+ {
+  "code": "7712",
+  "text": "Uthyrning och leasing av lastbilar och andra tunga motorfordon",
+  "section": "O"
+ },
+ {
+  "code": "77120",
+  "text": "Uthyrning och leasing av lastbilar och andra tunga motorfordon",
+  "section": "O"
+ },
+ {
+  "code": "772",
+  "text": "Uthyrning och leasing av hushållsartiklar och varor för personligt bruk",
+  "section": "O"
+ },
+ {
+  "code": "7721",
+  "text": "Uthyrning och leasing av fritids- och sportutrustning",
+  "section": "O"
+ },
+ {
+  "code": "77210",
+  "text": "Uthyrning och leasing av fritids- och sportutrustning",
+  "section": "O"
+ },
+ {
+  "code": "7722",
+  "text": "Uthyrning och leasing av andra hushållsartiklar och varor för personligt bruk",
+  "section": "O"
+ },
+ {
+  "code": "77220",
+  "text": "Uthyrning och leasing av andra hushållsartiklar och varor för personligt bruk",
+  "section": "O"
+ },
+ {
+  "code": "773",
+  "text": "Uthyrning och leasing av annan utrustning och andra maskiner och materiella tillgångar",
+  "section": "O"
+ },
+ {
+  "code": "7731",
+  "text": "Uthyrning och leasing av jordbruksmaskiner och jordbruksredskap",
+  "section": "O"
+ },
+ {
+  "code": "77310",
+  "text": "Uthyrning och leasing av jordbruksmaskiner och jordbruksredskap",
+  "section": "O"
+ },
+ {
+  "code": "7732",
+  "text": "Uthyrning och leasing av bygg- och anläggningsmaskiner",
+  "section": "O"
+ },
+ {
+  "code": "77320",
+  "text": "Uthyrning och leasing av bygg- och anläggningsmaskiner",
+  "section": "O"
+ },
+ {
+  "code": "7733",
+  "text": "Uthyrning och leasing av kontorsmaskiner, kontorsutrustning och datorer",
+  "section": "O"
+ },
+ {
+  "code": "77330",
+  "text": "Uthyrning och leasing av kontorsmaskiner, kontorsutrustning och datorer",
+  "section": "O"
+ },
+ {
+  "code": "7734",
+  "text": "Uthyrning och leasing av fartyg och båtar",
+  "section": "O"
+ },
+ {
+  "code": "77340",
+  "text": "Uthyrning och leasing av fartyg och båtar",
+  "section": "O"
+ },
+ {
+  "code": "7735",
+  "text": "Uthyrning och leasing av flygplan",
+  "section": "O"
+ },
+ {
+  "code": "77350",
+  "text": "Uthyrning och leasing av flygplan",
+  "section": "O"
+ },
+ {
+  "code": "7739",
+  "text": "Uthyrning och leasing av diverse övrig utrustning samt diverse övriga maskiner och materiella tillgångar",
+  "section": "O"
+ },
+ {
+  "code": "77390",
+  "text": "Uthyrning och leasing av diverse övrig utrustning samt diverse övriga maskiner och materiella tillgångar",
+  "section": "O"
+ },
+ {
+  "code": "774",
+  "text": "Leasing av immateriell egendom och liknande produkter, med undantag för upphovsrättsskyddade verk",
+  "section": "O"
+ },
+ {
+  "code": "7740",
+  "text": "Leasing av immateriell egendom och liknande produkter, med undantag för upphovsrättsskyddade verk",
+  "section": "O"
+ },
+ {
+  "code": "77400",
+  "text": "Leasing av immateriell egendom och liknande produkter, med undantag för upphovsrättsskyddade verk",
+  "section": "O"
+ },
+ {
+  "code": "775",
+  "text": "Förmedling avseende uthyrning och leasing av materiella tillgångar och icke-finansiella immateriella tillgångar",
+  "section": "O"
+ },
+ {
+  "code": "7751",
+  "text": "Förmedling avseende uthyrning och leasing av personbilar, husbilar och släpfordon",
+  "section": "O"
+ },
+ {
+  "code": "77510",
+  "text": "Förmedling avseende uthyrning och leasing av personbilar, husbilar och släpfordon",
+  "section": "O"
+ },
+ {
+  "code": "7752",
+  "text": "Förmedling avseende uthyrning och leasing av andra materiella tillgångar och icke-finansiella immateriella tillgångar",
+  "section": "O"
+ },
+ {
+  "code": "77520",
+  "text": "Förmedling avseende uthyrning och leasing av andra materiella tillgångar och icke-finansiella immateriella tillgångar",
+  "section": "O"
+ },
+ {
+  "code": "78",
+  "text": "Arbetsförmedling, bemanning och annan personalrelaterad verksamhet",
+  "section": "O"
+ },
+ {
+  "code": "781",
+  "text": "Arbetsförmedling och rekrytering",
+  "section": "O"
+ },
+ {
+  "code": "7810",
+  "text": "Arbetsförmedling och rekrytering",
+  "section": "O"
+ },
+ {
+  "code": "78100",
+  "text": "Arbetsförmedling och rekrytering",
+  "section": "O"
+ },
+ {
+  "code": "782",
+  "text": "Personaluthyrning och annat tillhandahållande av personalfunktioner",
+  "section": "O"
+ },
+ {
+  "code": "7820",
+  "text": "Personaluthyrning och annat tillhandahållande av personalfunktioner",
+  "section": "O"
+ },
+ {
+  "code": "78201",
+  "text": "Personaluthyrning",
+  "section": "O"
+ },
+ {
+  "code": "78202",
+  "text": "Övrigt tillhandahållande av personalfunktioner",
+  "section": "O"
+ },
+ {
+  "code": "79",
+  "text": "Resebyrå- och researrangörsverksamhet samt annan boknings- och reserelaterad verksamhet",
+  "section": "O"
+ },
+ {
+  "code": "791",
+  "text": "Resebyrå- och researrangörsverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "7911",
+  "text": "Resebyråverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "79110",
+  "text": "Resebyråverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "7912",
+  "text": "Researrangemang",
+  "section": "O"
+ },
+ {
+  "code": "79120",
+  "text": "Researrangemang",
+  "section": "O"
+ },
+ {
+  "code": "799",
+  "text": "Turist- och bokningsverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "7990",
+  "text": "Turist- och bokningsverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "79900",
+  "text": "Turist- och bokningsverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "80",
+  "text": "Säkerhets- och bevakningsverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "800",
+  "text": "Säkerhets- och bevakningsverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "8001",
+  "text": "Bevakningsverksamhet och privat säkerhetsverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "80010",
+  "text": "Bevakningsverksamhet och privat säkerhetsverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "8009",
+  "text": "Övrig säkerhetsverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "80090",
+  "text": "Övrig säkerhetsverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "81",
+  "text": "Fastighetsrelaterad stödverksamhet samt skötsel och underhåll av grönytor",
+  "section": "O"
+ },
+ {
+  "code": "811",
+  "text": "Fastighetsrelaterad stödverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "8110",
+  "text": "Fastighetsrelaterad stödverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "81100",
+  "text": "Fastighetsrelaterad stödverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "812",
+  "text": "Rengöring och lokalvård",
+  "section": "O"
+ },
+ {
+  "code": "8121",
+  "text": "Lokalvård",
+  "section": "O"
+ },
+ {
+  "code": "81210",
+  "text": "Lokalvård",
+  "section": "O"
+ },
+ {
+  "code": "8122",
+  "text": "Annan rengöring och sotning av byggnader",
+  "section": "O"
+ },
+ {
+  "code": "81221",
+  "text": "Rengöring av byggnader",
+  "section": "O"
+ },
+ {
+  "code": "81222",
+  "text": "Skorstensfejarverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "8123",
+  "text": "Annan rengöring",
+  "section": "O"
+ },
+ {
+  "code": "81230",
+  "text": "Annan rengöring",
+  "section": "O"
+ },
+ {
+  "code": "813",
+  "text": "Skötsel och underhåll av grönytor",
+  "section": "O"
+ },
+ {
+  "code": "8130",
+  "text": "Skötsel och underhåll av grönytor",
+  "section": "O"
+ },
+ {
+  "code": "81300",
+  "text": "Skötsel och underhåll av grönytor",
+  "section": "O"
+ },
+ {
+  "code": "82",
+  "text": "Kontorstjänster och annan stödverksamhet till företag",
+  "section": "O"
+ },
+ {
+  "code": "821",
+  "text": "Kontorstjänster",
+  "section": "O"
+ },
+ {
+  "code": "8210",
+  "text": "Kontorstjänster",
+  "section": "O"
+ },
+ {
+  "code": "82100",
+  "text": "Kontorstjänster",
+  "section": "O"
+ },
+ {
+  "code": "822",
+  "text": "Callcenterverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "8220",
+  "text": "Callcenterverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "82200",
+  "text": "Callcenterverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "823",
+  "text": "Arrangemang av kongresser och mässor",
+  "section": "O"
+ },
+ {
+  "code": "8230",
+  "text": "Arrangemang av kongresser och mässor",
+  "section": "O"
+ },
+ {
+  "code": "82300",
+  "text": "Arrangemang av kongresser och mässor",
+  "section": "O"
+ },
+ {
+  "code": "824",
+  "text": "Förmedling avseende övrig stödverksamhet till företag",
+  "section": "O"
+ },
+ {
+  "code": "8240",
+  "text": "Förmedling avseende övrig stödverksamhet till företag",
+  "section": "O"
+ },
+ {
+  "code": "82400",
+  "text": "Förmedling avseende övrig stödverksamhet till företag",
+  "section": "O"
+ },
+ {
+  "code": "829",
+  "text": "Övrig stödverksamhet till företag",
+  "section": "O"
+ },
+ {
+  "code": "8291",
+  "text": "Inkassoföretags och kreditupplysningsföretags verksamhet",
+  "section": "O"
+ },
+ {
+  "code": "82910",
+  "text": "Inkassoföretags och kreditupplysningsföretags verksamhet",
+  "section": "O"
+ },
+ {
+  "code": "8292",
+  "text": "Förpackningsverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "82920",
+  "text": "Förpackningsverksamhet",
+  "section": "O"
+ },
+ {
+  "code": "8299",
+  "text": "Diverse övrig stödverksamhet till företag",
+  "section": "O"
+ },
+ {
+  "code": "82990",
+  "text": "Diverse övrig stödverksamhet till företag",
+  "section": "O"
+ },
+ {
+  "code": "84",
+  "text": "Offentlig förvaltning och försvar| obligatorisk socialförsäkring",
+  "section": "P"
+ },
+ {
+  "code": "841",
+  "text": "Offentlig förvaltning",
+  "section": "P"
+ },
+ {
+  "code": "8411",
+  "text": "Övergripande offentlig förvaltning",
+  "section": "P"
+ },
+ {
+  "code": "84110",
+  "text": "Övergripande offentlig förvaltning",
+  "section": "P"
+ },
+ {
+  "code": "8412",
+  "text": "Offentlig förvaltning av vård, utbildning, kulturell verksamhet och annan samhällsverksamhet",
+  "section": "P"
+ },
+ {
+  "code": "84121",
+  "text": "Offentlig förvaltning av grundskole- och gymnasieskoleutbildning",
+  "section": "P"
+ },
+ {
+  "code": "84122",
+  "text": "Offentlig förvaltning av universitets- och högskoleutbildning samt forskning",
+  "section": "P"
+ },
+ {
+  "code": "84123",
+  "text": "Offentlig förvaltning av hälso- och sjukvård",
+  "section": "P"
+ },
+ {
+  "code": "84124",
+  "text": "Offentlig förvaltning av omsorg och socialtjänst",
+  "section": "P"
+ },
+ {
+  "code": "84125",
+  "text": "Offentlig förvaltning av program för kultur, miljö, boende m.m.",
+  "section": "P"
+ },
+ {
+  "code": "8413",
+  "text": "Offentlig förvaltning av näringslivsprogram",
+  "section": "P"
+ },
+ {
+  "code": "84130",
+  "text": "Offentlig förvaltning av näringslivsprogram",
+  "section": "P"
+ },
+ {
+  "code": "842",
+  "text": "Verksamheter inom offentlig förvaltning",
+  "section": "P"
+ },
+ {
+  "code": "8421",
+  "text": "Utrikesförvaltning",
+  "section": "P"
+ },
+ {
+  "code": "84210",
+  "text": "Utrikesförvaltning",
+  "section": "P"
+ },
+ {
+  "code": "8422",
+  "text": "Totalförsvar",
+  "section": "P"
+ },
+ {
+  "code": "84221",
+  "text": "Militärt försvar| gemensam verksamhet för totalförsvaret",
+  "section": "P"
+ },
+ {
+  "code": "84222",
+  "text": "Civilt försvar och frivilligförsvar",
+  "section": "P"
+ },
+ {
+  "code": "8423",
+  "text": "Rättskipning",
+  "section": "P"
+ },
+ {
+  "code": "84231",
+  "text": "Åklagar- och domstolsverksamhet",
+  "section": "P"
+ },
+ {
+  "code": "84232",
+  "text": "Kriminalvård",
+  "section": "P"
+ },
+ {
+  "code": "8424",
+  "text": "Polisverksamhet",
+  "section": "P"
+ },
+ {
+  "code": "84240",
+  "text": "Polisverksamhet",
+  "section": "P"
+ },
+ {
+  "code": "8425",
+  "text": "Brand- och räddningsverksamhet",
+  "section": "P"
+ },
+ {
+  "code": "84250",
+  "text": "Brand- och räddningsverksamhet",
+  "section": "P"
+ },
+ {
+  "code": "843",
+  "text": "Obligatorisk socialförsäkring",
+  "section": "P"
+ },
+ {
+  "code": "8430",
+  "text": "Obligatorisk socialförsäkring",
+  "section": "P"
+ },
+ {
+  "code": "84300",
+  "text": "Obligatorisk socialförsäkring",
+  "section": "P"
+ },
+ {
+  "code": "85",
+  "text": "Utbildning",
+  "section": "Q"
+ },
+ {
+  "code": "851",
+  "text": "Förskoleutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "8510",
+  "text": "Förskoleutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85100",
+  "text": "Förskoleutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "852",
+  "text": "Grundskoleutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "8520",
+  "text": "Grundskoleutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85201",
+  "text": "Grundskoleutbildning och förskoleklass",
+  "section": "Q"
+ },
+ {
+  "code": "85202",
+  "text": "Utbildning inom anpassad grundskola",
+  "section": "Q"
+ },
+ {
+  "code": "853",
+  "text": "Gymnasial och eftergymnasial utbildning vid annat än universitet eller högskola",
+  "section": "Q"
+ },
+ {
+  "code": "8531",
+  "text": "Studieförberedande gymnasial utbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85311",
+  "text": "Studieförberedande gymnasial utbildning utom kommunal vuxenutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85312",
+  "text": "Kommunal vuxenutbildning o.d.",
+  "section": "Q"
+ },
+ {
+  "code": "8532",
+  "text": "Yrkesförberedande gymnasial utbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85321",
+  "text": "Gymnasial yrkesutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85322",
+  "text": "Utbildning inom anpassad gymnasieskola",
+  "section": "Q"
+ },
+ {
+  "code": "85323",
+  "text": "Annan gymnasial utbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85324",
+  "text": "Yrkesförarutbildning m.m.",
+  "section": "Q"
+ },
+ {
+  "code": "8533",
+  "text": "Eftergymnasial utbildning vid annat än universitet eller högskola",
+  "section": "Q"
+ },
+ {
+  "code": "85330",
+  "text": "Eftergymnasial utbildning vid annat än universitet eller högskola",
+  "section": "Q"
+ },
+ {
+  "code": "854",
+  "text": "Universitets- eller högskoleutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "8540",
+  "text": "Universitets- eller högskoleutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85400",
+  "text": "Universitets- eller högskoleutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "855",
+  "text": "Vuxenutbildning och övrig utbildning",
+  "section": "Q"
+ },
+ {
+  "code": "8551",
+  "text": "Sport- och fritidsutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85510",
+  "text": "Sport- och fritidsutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "8552",
+  "text": "Musik- och dansutbildning och övrig kulturutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85521",
+  "text": "Kommunala kulturskolans utbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85522",
+  "text": "Övrig musik-, dans- och kulturell utbildning",
+  "section": "Q"
+ },
+ {
+  "code": "8553",
+  "text": "Trafikskoleverksamhet",
+  "section": "Q"
+ },
+ {
+  "code": "85530",
+  "text": "Trafikskoleverksamhet",
+  "section": "Q"
+ },
+ {
+  "code": "8559",
+  "text": "Diverse övrig utbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85591",
+  "text": "Arbetsmarknadsutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85592",
+  "text": "Folkhögskoleutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85593",
+  "text": "Studieförbundens och frivilligorganisationernas utbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85594",
+  "text": "Personalutbildning",
+  "section": "Q"
+ },
+ {
+  "code": "85599",
+  "text": "Annan övrig utbildning",
+  "section": "Q"
+ },
+ {
+  "code": "856",
+  "text": "Stödverksamhet för utbildningsväsendet",
+  "section": "Q"
+ },
+ {
+  "code": "8561",
+  "text": "Förmedling avseende kurser och övrig undervisning",
+  "section": "Q"
+ },
+ {
+  "code": "85610",
+  "text": "Förmedling avseende kurser och övrig undervisning",
+  "section": "Q"
+ },
+ {
+  "code": "8569",
+  "text": "Övrig stödverksamhet för utbildningsväsendet",
+  "section": "Q"
+ },
+ {
+  "code": "85690",
+  "text": "Övrig stödverksamhet för utbildningsväsendet",
+  "section": "Q"
+ },
+ {
+  "code": "86",
+  "text": "Hälso- och sjukvård",
+  "section": "R"
+ },
+ {
+  "code": "861",
+  "text": "Sluten sjukvård",
+  "section": "R"
+ },
+ {
+  "code": "8610",
+  "text": "Sluten sjukvård",
+  "section": "R"
+ },
+ {
+  "code": "86101",
+  "text": "Sluten primärvård",
+  "section": "R"
+ },
+ {
+  "code": "86102",
+  "text": "Specialiserad sluten somatisk hälso- och sjukvård på sjukhus",
+  "section": "R"
+ },
+ {
+  "code": "86103",
+  "text": "Specialiserad sluten psykiatrisk hälso- och sjukvård på sjukhus",
+  "section": "R"
+ },
+ {
+  "code": "862",
+  "text": "Öppen hälso- och sjukvård, tandvård",
+  "section": "R"
+ },
+ {
+  "code": "8621",
+  "text": "Allmänpraktiserande läkarverksamhet",
+  "section": "R"
+ },
+ {
+  "code": "86211",
+  "text": "Primärvårdsmottagningar med läkare m.m.",
+  "section": "R"
+ },
+ {
+  "code": "86212",
+  "text": "Annan allmän öppen hälso- och sjukvård, ej primärvård",
+  "section": "R"
+ },
+ {
+  "code": "8622",
+  "text": "Specialistläkarverksamhet",
+  "section": "R"
+ },
+ {
+  "code": "86221",
+  "text": "Specialistläkarverksamhet inom öppenvård, på sjukhus",
+  "section": "R"
+ },
+ {
+  "code": "86222",
+  "text": "Specialistläkarverksamhet inom öppenvård, ej på sjukhus",
+  "section": "R"
+ },
+ {
+  "code": "8623",
+  "text": "Tandläkarverksamhet",
+  "section": "R"
+ },
+ {
+  "code": "86230",
+  "text": "Tandläkarverksamhet",
+  "section": "R"
+ },
+ {
+  "code": "869",
+  "text": "Annan hälso- och sjukvård",
+  "section": "R"
+ },
+ {
+  "code": "8691",
+  "text": "Medicinsk laboratorieverksamhet och bilddiagnostik",
+  "section": "R"
+ },
+ {
+  "code": "86910",
+  "text": "Medicinsk laboratorieverksamhet och bilddiagnostik",
+  "section": "R"
+ },
+ {
+  "code": "8692",
+  "text": "Ambulanstransporter och ambulanssjukvård",
+  "section": "R"
+ },
+ {
+  "code": "86920",
+  "text": "Ambulanstransporter och ambulanssjukvård",
+  "section": "R"
+ },
+ {
+  "code": "8693",
+  "text": "Psykologi- och psykoterapiverksamhet, utom läkare",
+  "section": "R"
+ },
+ {
+  "code": "86930",
+  "text": "Psykologi- och psykoterapiverksamhet, utom läkare",
+  "section": "R"
+ },
+ {
+  "code": "8694",
+  "text": "Sjuksköterske- och barnmorskeverksamhet",
+  "section": "R"
+ },
+ {
+  "code": "86940",
+  "text": "Sjuksköterske- och barnmorskeverksamhet",
+  "section": "R"
+ },
+ {
+  "code": "8695",
+  "text": "Fysioterapeutisk verksamhet",
+  "section": "R"
+ },
+ {
+  "code": "86950",
+  "text": "Fysioterapeutisk verksamhet",
+  "section": "R"
+ },
+ {
+  "code": "8696",
+  "text": "Traditionell, komplementär och alternativ medicin",
+  "section": "R"
+ },
+ {
+  "code": "86960",
+  "text": "Traditionell, komplementär och alternativ medicin",
+  "section": "R"
+ },
+ {
+  "code": "8697",
+  "text": "Förmedling avseende sjukvård, tandvård och annan hälso- och sjukvård",
+  "section": "R"
+ },
+ {
+  "code": "86970",
+  "text": "Förmedling avseende sjukvård, tandvård och annan hälso- och sjukvård",
+  "section": "R"
+ },
+ {
+  "code": "8699",
+  "text": "Diverse övrig hälso- och sjukvård",
+  "section": "R"
+ },
+ {
+  "code": "86991",
+  "text": "Tandhygienistverksamhet",
+  "section": "R"
+ },
+ {
+  "code": "86999",
+  "text": "Annan övrig hälso- och sjukvård",
+  "section": "R"
+ },
+ {
+  "code": "87",
+  "text": "Vård och omsorg med boende",
+  "section": "R"
+ },
+ {
+  "code": "871",
+  "text": "Boende med sjuksköterskevård",
+  "section": "R"
+ },
+ {
+  "code": "8710",
+  "text": "Boende med sjuksköterskevård",
+  "section": "R"
+ },
+ {
+  "code": "87100",
+  "text": "Boende med sjuksköterskevård",
+  "section": "R"
+ },
+ {
+  "code": "872",
+  "text": "Boende med särskild service för personer med psykisk funktionsnedsättning eller missbruksproblem",
+  "section": "R"
+ },
+ {
+  "code": "8720",
+  "text": "Boende med särskild service för personer med psykisk funktionsnedsättning eller missbruksproblem",
+  "section": "R"
+ },
+ {
+  "code": "87201",
+  "text": "Boende med särskild service för personer med psykisk funktionsnedsättning",
+  "section": "R"
+ },
+ {
+  "code": "87202",
+  "text": "Boende med särskild service för barn och ungdomar med missbruksproblem",
+  "section": "R"
+ },
+ {
+  "code": "87203",
+  "text": "Boende med särskild service för vuxna med missbruksproblem",
+  "section": "R"
+ },
+ {
+  "code": "873",
+  "text": "Vård och omsorg i särskilda boendeformer för äldre och personer med fysisk funktionsnedsättning",
+  "section": "R"
+ },
+ {
+  "code": "8730",
+  "text": "Vård och omsorg i särskilda boendeformer för äldre och personer med fysisk funktionsnedsättning",
+  "section": "R"
+ },
+ {
+  "code": "87301",
+  "text": "Vård och omsorg i särskilda boendeformer för äldre personer",
+  "section": "R"
+ },
+ {
+  "code": "87302",
+  "text": "Vård och omsorg i särskilda boendeformer för personer med fysisk funktionsnedsättning",
+  "section": "R"
+ },
+ {
+  "code": "879",
+  "text": "Annan vård och omsorg med boende",
+  "section": "R"
+ },
+ {
+  "code": "8791",
+  "text": "Förmedling avseende vård och omsorg med boende",
+  "section": "R"
+ },
+ {
+  "code": "87910",
+  "text": "Förmedling avseende vård och omsorg med boende",
+  "section": "R"
+ },
+ {
+  "code": "8799",
+  "text": "Diverse övrig vård och omsorg med boende",
+  "section": "R"
+ },
+ {
+  "code": "87991",
+  "text": "Heldygnsvård med boende för barn och ungdomar med sociala problem",
+  "section": "R"
+ },
+ {
+  "code": "87992",
+  "text": "Omsorg och sociala insatser i övriga boendeformer för vuxna",
+  "section": "R"
+ },
+ {
+  "code": "88",
+  "text": "Öppna sociala insatser",
+  "section": "R"
+ },
+ {
+  "code": "881",
+  "text": "Öppna sociala insatser för äldre och personer med funktionsnedsättning",
+  "section": "R"
+ },
+ {
+  "code": "8810",
+  "text": "Öppna sociala insatser för äldre och personer med funktionsnedsättning",
+  "section": "R"
+ },
+ {
+  "code": "88101",
+  "text": "Öppna sociala insatser för äldre personer",
+  "section": "R"
+ },
+ {
+  "code": "88102",
+  "text": "Öppna sociala insatser för personer med funktionsnedsättning",
+  "section": "R"
+ },
+ {
+  "code": "889",
+  "text": "Andra öppna sociala insatser",
+  "section": "R"
+ },
+ {
+  "code": "8891",
+  "text": "Dagbarnvård",
+  "section": "R"
+ },
+ {
+  "code": "88910",
+  "text": "Dagbarnvård",
+  "section": "R"
+ },
+ {
+  "code": "8899",
+  "text": "Diverse övriga öppna sociala insatser",
+  "section": "R"
+ },
+ {
+  "code": "88991",
+  "text": "Öppna sociala insatser för barn och ungdomar med sociala problem",
+  "section": "R"
+ },
+ {
+  "code": "88992",
+  "text": "Öppna sociala insatser för vuxna med missbruksproblem",
+  "section": "R"
+ },
+ {
+  "code": "88993",
+  "text": "Övriga öppna sociala insatser för vuxna",
+  "section": "R"
+ },
+ {
+  "code": "88994",
+  "text": "Humanitära insatser",
+  "section": "R"
+ },
+ {
+  "code": "88995",
+  "text": "Drift av flyktingförläggning",
+  "section": "R"
+ },
+ {
+  "code": "90",
+  "text": "Konstnärligt skapande och scenkonst",
+  "section": "S"
+ },
+ {
+  "code": "901",
+  "text": "Konstnärligt skapande",
+  "section": "S"
+ },
+ {
+  "code": "9011",
+  "text": "Litterärt skapande och musikkomposition",
+  "section": "S"
+ },
+ {
+  "code": "90110",
+  "text": "Litterärt skapande och musikkomposition",
+  "section": "S"
+ },
+ {
+  "code": "9012",
+  "text": "Bildkonst",
+  "section": "S"
+ },
+ {
+  "code": "90120",
+  "text": "Bildkonst",
+  "section": "S"
+ },
+ {
+  "code": "9013",
+  "text": "Annat konstnärligt skapande",
+  "section": "S"
+ },
+ {
+  "code": "90130",
+  "text": "Annat konstnärligt skapande",
+  "section": "S"
+ },
+ {
+  "code": "902",
+  "text": "Scenkonst",
+  "section": "S"
+ },
+ {
+  "code": "9020",
+  "text": "Scenkonst",
+  "section": "S"
+ },
+ {
+  "code": "90200",
+  "text": "Scenkonst",
+  "section": "S"
+ },
+ {
+  "code": "903",
+  "text": "Stödverksamhet avseende konstnärligt skapande och scenkonst",
+  "section": "S"
+ },
+ {
+  "code": "9031",
+  "text": "Drift av teatrar, konserthus o.d.",
+  "section": "S"
+ },
+ {
+  "code": "90310",
+  "text": "Drift av teatrar, konserthus o.d.",
+  "section": "S"
+ },
+ {
+  "code": "9039",
+  "text": "Annan stödverksamhet avseende konstnärligt skapande och scenkonst",
+  "section": "S"
+ },
+ {
+  "code": "90390",
+  "text": "Annan stödverksamhet avseende konstnärligt skapande och scenkonst",
+  "section": "S"
+ },
+ {
+  "code": "91",
+  "text": "Biblioteks-, arkiv- och museiverksamhet m.m.",
+  "section": "S"
+ },
+ {
+  "code": "911",
+  "text": "Biblioteks- och arkivverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "9111",
+  "text": "Biblioteksverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "91110",
+  "text": "Biblioteksverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "9112",
+  "text": "Arkivverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "91120",
+  "text": "Arkivverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "912",
+  "text": "Museiverksamhet, museisamlingar, vård av historiska minnesmärken och monument",
+  "section": "S"
+ },
+ {
+  "code": "9121",
+  "text": "Museiverksamhet och museisamlingar",
+  "section": "S"
+ },
+ {
+  "code": "91210",
+  "text": "Museiverksamhet och museisamlingar",
+  "section": "S"
+ },
+ {
+  "code": "9122",
+  "text": "Vård av historiska minnesmärken och monument",
+  "section": "S"
+ },
+ {
+  "code": "91220",
+  "text": "Vård av historiska minnesmärken och monument",
+  "section": "S"
+ },
+ {
+  "code": "913",
+  "text": "Bevarande, restaurering och annan stödverksamhet avseende kulturarv",
+  "section": "S"
+ },
+ {
+  "code": "9130",
+  "text": "Bevarande, restaurering och annan stödverksamhet avseende kulturarv",
+  "section": "S"
+ },
+ {
+  "code": "91300",
+  "text": "Bevarande, restaurering och annan stödverksamhet avseende kulturarv",
+  "section": "S"
+ },
+ {
+  "code": "914",
+  "text": "Drift av botaniska trädgårdar, djurparker och naturreservat",
+  "section": "S"
+ },
+ {
+  "code": "9141",
+  "text": "Drift av botaniska trädgårdar och djurparker",
+  "section": "S"
+ },
+ {
+  "code": "91410",
+  "text": "Drift av botaniska trädgårdar och djurparker",
+  "section": "S"
+ },
+ {
+  "code": "9142",
+  "text": "Drift av naturreservat",
+  "section": "S"
+ },
+ {
+  "code": "91420",
+  "text": "Drift av naturreservat",
+  "section": "S"
+ },
+ {
+  "code": "92",
+  "text": "Spel- och vadhållningsverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "920",
+  "text": "Spel- och vadhållningsverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "9200",
+  "text": "Spel- och vadhållningsverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "92000",
+  "text": "Spel- och vadhållningsverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "93",
+  "text": "Sport-, fritids- och nöjesverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "931",
+  "text": "Sportverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "9311",
+  "text": "Drift av sportanläggningar",
+  "section": "S"
+ },
+ {
+  "code": "93111",
+  "text": "Drift av skidsportanläggningar",
+  "section": "S"
+ },
+ {
+  "code": "93112",
+  "text": "Drift av golfbanor",
+  "section": "S"
+ },
+ {
+  "code": "93113",
+  "text": "Drift av motorbanor",
+  "section": "S"
+ },
+ {
+  "code": "93114",
+  "text": "Drift av trav- och galoppbanor",
+  "section": "S"
+ },
+ {
+  "code": "93119",
+  "text": "Drift av sporthallar, idrottsplatser och andra sportanläggningar",
+  "section": "S"
+ },
+ {
+  "code": "9312",
+  "text": "Sportklubbars och idrottsföreningars verksamhet",
+  "section": "S"
+ },
+ {
+  "code": "93120",
+  "text": "Sportklubbars och idrottsföreningars verksamhet",
+  "section": "S"
+ },
+ {
+  "code": "9313",
+  "text": "Drift av gymanläggningar",
+  "section": "S"
+ },
+ {
+  "code": "93130",
+  "text": "Drift av gymanläggningar",
+  "section": "S"
+ },
+ {
+  "code": "9319",
+  "text": "Övrig sportverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "93191",
+  "text": "Tävling med hästar",
+  "section": "S"
+ },
+ {
+  "code": "93199",
+  "text": "Annan sportverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "932",
+  "text": "Fritids- och nöjesverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "9321",
+  "text": "Nöjes- och temaparksverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "93210",
+  "text": "Nöjes- och temaparksverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "9329",
+  "text": "Övrig fritids- och nöjesverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "93290",
+  "text": "Övrig fritids- och nöjesverksamhet",
+  "section": "S"
+ },
+ {
+  "code": "94",
+  "text": "Intressebevakning| religiös verksamhet",
+  "section": "T"
+ },
+ {
+  "code": "941",
+  "text": "Intressebevakning inom bransch-, arbetsgivar- och yrkesorganisationer",
+  "section": "T"
+ },
+ {
+  "code": "9411",
+  "text": "Intressebevakning inom bransch- och arbetsgivarorganisationer",
+  "section": "T"
+ },
+ {
+  "code": "94111",
+  "text": "Intressebevakning inom branschorganisationer",
+  "section": "T"
+ },
+ {
+  "code": "94112",
+  "text": "Intressebevakning inom arbetsgivarorganisationer",
+  "section": "T"
+ },
+ {
+  "code": "9412",
+  "text": "Intressebevakning inom yrkesorganisationer",
+  "section": "T"
+ },
+ {
+  "code": "94120",
+  "text": "Intressebevakning inom yrkesorganisationer",
+  "section": "T"
+ },
+ {
+  "code": "942",
+  "text": "Intressebevakning inom arbetstagarorganisationer",
+  "section": "T"
+ },
+ {
+  "code": "9420",
+  "text": "Intressebevakning inom arbetstagarorganisationer",
+  "section": "T"
+ },
+ {
+  "code": "94200",
+  "text": "Intressebevakning inom arbetstagarorganisationer",
+  "section": "T"
+ },
+ {
+  "code": "949",
+  "text": "Verksamhet i religiösa samfund och i andra intresseorganisationer",
+  "section": "T"
+ },
+ {
+  "code": "9491",
+  "text": "Verksamhet i religiösa samfund",
+  "section": "T"
+ },
+ {
+  "code": "94910",
+  "text": "Verksamhet i religiösa samfund",
+  "section": "T"
+ },
+ {
+  "code": "9492",
+  "text": "Verksamhet i politiska organisationer",
+  "section": "T"
+ },
+ {
+  "code": "94920",
+  "text": "Verksamhet i politiska organisationer",
+  "section": "T"
+ },
+ {
+  "code": "9499",
+  "text": "Verksamhet i diverse övriga intresseorganisationer",
+  "section": "T"
+ },
+ {
+  "code": "94990",
+  "text": "Verksamhet i diverse övriga intresseorganisationer",
+  "section": "T"
+ },
+ {
+  "code": "95",
+  "text": "Reparation och underhåll av datorer, hushållsartiklar och varor för personligt bruk samt motorfordon och motorcyklar",
+  "section": "T"
+ },
+ {
+  "code": "951",
+  "text": "Reparation och underhåll av datorer och kommunikationsutrustning",
+  "section": "T"
+ },
+ {
+  "code": "9510",
+  "text": "Reparation och underhåll av datorer och kommunikationsutrustning",
+  "section": "T"
+ },
+ {
+  "code": "95101",
+  "text": "Reparation av datorer och kringutrustning",
+  "section": "T"
+ },
+ {
+  "code": "95102",
+  "text": "Reparation av kommunikationsutrustning",
+  "section": "T"
+ },
+ {
+  "code": "952",
+  "text": "Reparation och underhåll av hushållsartiklar och varor för personligt bruk",
+  "section": "T"
+ },
+ {
+  "code": "9521",
+  "text": "Reparation och underhåll av hemelektronik",
+  "section": "T"
+ },
+ {
+  "code": "95210",
+  "text": "Reparation och underhåll av hemelektronik",
+  "section": "T"
+ },
+ {
+  "code": "9522",
+  "text": "Reparation och underhåll av hushållsapparater samt av utrustning för hem och trädgård",
+  "section": "T"
+ },
+ {
+  "code": "95220",
+  "text": "Reparation och underhåll av hushållsapparater samt av utrustning för hem och trädgård",
+  "section": "T"
+ },
+ {
+  "code": "9523",
+  "text": "Reparation och underhåll av skodon och lädervaror",
+  "section": "T"
+ },
+ {
+  "code": "95230",
+  "text": "Reparation och underhåll av skodon och lädervaror",
+  "section": "T"
+ },
+ {
+  "code": "9524",
+  "text": "Reparation och underhåll av möbler och heminredning",
+  "section": "T"
+ },
+ {
+  "code": "95240",
+  "text": "Reparation och underhåll av möbler och heminredning",
+  "section": "T"
+ },
+ {
+  "code": "9525",
+  "text": "Reparation och underhåll av ur och guldsmedsvaror",
+  "section": "T"
+ },
+ {
+  "code": "95250",
+  "text": "Reparation och underhåll av ur och guldsmedsvaror",
+  "section": "T"
+ },
+ {
+  "code": "9529",
+  "text": "Reparation och underhåll av övriga hushållsartiklar och varor för personligt bruk",
+  "section": "T"
+ },
+ {
+  "code": "95290",
+  "text": "Reparation och underhåll av övriga hushållsartiklar och varor för personligt bruk",
+  "section": "T"
+ },
+ {
+  "code": "953",
+  "text": "Reparation och underhåll av motorfordon och motorcyklar",
+  "section": "T"
+ },
+ {
+  "code": "9531",
+  "text": "Reparation och underhåll av motorfordon",
+  "section": "T"
+ },
+ {
+  "code": "95311",
+  "text": "Allmän service och reparation av motorfordon utom motorcyklar",
+  "section": "T"
+ },
+ {
+  "code": "95312",
+  "text": "Plåt-, lack- och glasreparationer på motorfordon utom motorcyklar",
+  "section": "T"
+ },
+ {
+  "code": "95313",
+  "text": "Däckservice",
+  "section": "T"
+ },
+ {
+  "code": "9532",
+  "text": "Reparation och underhåll av motorcyklar",
+  "section": "T"
+ },
+ {
+  "code": "95320",
+  "text": "Reparation och underhåll av motorcyklar",
+  "section": "T"
+ },
+ {
+  "code": "954",
+  "text": "Förmedling avseende reparation och underhåll av datorer, hushållsartiklar och varor för personligt bruk samt motorfordon och motorcyklar",
+  "section": "T"
+ },
+ {
+  "code": "9540",
+  "text": "Förmedling avseende reparation och underhåll av datorer, hushållsartiklar och varor för personligt bruk samt motorfordon och motorcyklar",
+  "section": "T"
+ },
+ {
+  "code": "95400",
+  "text": "Förmedling avseende reparation och underhåll av datorer, hushållsartiklar och varor för personligt bruk samt motorfordon och motorcyklar",
+  "section": "T"
+ },
+ {
+  "code": "96",
+  "text": "Konsumenttjänster",
+  "section": "T"
+ },
+ {
+  "code": "961",
+  "text": "Tvätteriverksamhet",
+  "section": "T"
+ },
+ {
+  "code": "9610",
+  "text": "Tvätteriverksamhet",
+  "section": "T"
+ },
+ {
+  "code": "96101",
+  "text": "Industri- och institutionstvätt",
+  "section": "T"
+ },
+ {
+  "code": "96102",
+  "text": "Konsumenttvätt",
+  "section": "T"
+ },
+ {
+  "code": "962",
+  "text": "Hår- och skönhetsvård, dagspa o.d.",
+  "section": "T"
+ },
+ {
+  "code": "9621",
+  "text": "Frisörer och barberare",
+  "section": "T"
+ },
+ {
+  "code": "96210",
+  "text": "Frisörer och barberare",
+  "section": "T"
+ },
+ {
+  "code": "9622",
+  "text": "Skönhetsvård och andra skönhetsbehandlingar",
+  "section": "T"
+ },
+ {
+  "code": "96220",
+  "text": "Skönhetsvård och andra skönhetsbehandlingar",
+  "section": "T"
+ },
+ {
+  "code": "9623",
+  "text": "Dagspa, bastu och ångbastu",
+  "section": "T"
+ },
+ {
+  "code": "96230",
+  "text": "Dagspa, bastu och ångbastu",
+  "section": "T"
+ },
+ {
+  "code": "963",
+  "text": "Begravningsverksamhet",
+  "section": "T"
+ },
+ {
+  "code": "9630",
+  "text": "Begravningsverksamhet",
+  "section": "T"
+ },
+ {
+  "code": "96300",
+  "text": "Begravningsverksamhet",
+  "section": "T"
+ },
+ {
+  "code": "964",
+  "text": "Förmedling avseende konsumenttjänster",
+  "section": "T"
+ },
+ {
+  "code": "9640",
+  "text": "Förmedling avseende konsumenttjänster",
+  "section": "T"
+ },
+ {
+  "code": "96400",
+  "text": "Förmedling avseende konsumenttjänster",
+  "section": "T"
+ },
+ {
+  "code": "969",
+  "text": "Övriga konsumenttjänster",
+  "section": "T"
+ },
+ {
+  "code": "9691",
+  "text": "Tillhandahållande av konsumenttjänster i hemmet",
+  "section": "T"
+ },
+ {
+  "code": "96910",
+  "text": "Tillhandahållande av konsumenttjänster i hemmet",
+  "section": "T"
+ },
+ {
+  "code": "9699",
+  "text": "Diverse övriga konsumenttjänster",
+  "section": "T"
+ },
+ {
+  "code": "96990",
+  "text": "Diverse övriga konsumenttjänster",
+  "section": "T"
+ },
+ {
+  "code": "97",
+  "text": "Förvärvsarbete i hushåll",
+  "section": "U"
+ },
+ {
+  "code": "970",
+  "text": "Förvärvsarbete i hushåll",
+  "section": "U"
+ },
+ {
+  "code": "9700",
+  "text": "Förvärvsarbete i hushåll",
+  "section": "U"
+ },
+ {
+  "code": "97000",
+  "text": "Förvärvsarbete i hushåll",
+  "section": "U"
+ },
+ {
+  "code": "98",
+  "text": "Hushållens produktion av diverse varor och tjänster för eget bruk",
+  "section": "U"
+ },
+ {
+  "code": "981",
+  "text": "Hushållens produktion av diverse varor för eget bruk",
+  "section": "U"
+ },
+ {
+  "code": "9810",
+  "text": "Hushållens produktion av diverse varor för eget bruk",
+  "section": "U"
+ },
+ {
+  "code": "98100",
+  "text": "Hushållens produktion av diverse varor för eget bruk",
+  "section": "U"
+ },
+ {
+  "code": "982",
+  "text": "Hushållens produktion av diverse tjänster för eget bruk",
+  "section": "U"
+ },
+ {
+  "code": "9820",
+  "text": "Hushållens produktion av diverse tjänster för eget bruk",
+  "section": "U"
+ },
+ {
+  "code": "98200",
+  "text": "Hushållens produktion av diverse tjänster för eget bruk",
+  "section": "U"
+ },
+ {
+  "code": "99",
+  "text": "Verksamhet vid internationella organisationer, utländska ambassader o.d.",
+  "section": "V"
+ },
+ {
+  "code": "990",
+  "text": "Verksamhet vid internationella organisationer, utländska ambassader o.d.",
+  "section": "V"
+ },
+ {
+  "code": "9900",
+  "text": "Verksamhet vid internationella organisationer, utländska ambassader o.d.",
+  "section": "V"
+ },
+ {
+  "code": "99000",
+  "text": "Verksamhet vid internationella organisationer, utländska ambassader o.d.",
+  "section": "V"
+ }
+]

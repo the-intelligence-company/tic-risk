@@ -1,0 +1,10 @@
+{
+  "format": "tic-risk-input/1",
+  "focal": 1,
+  "read_at": "2026-10-19T00:00:00Z",
+  "as_of": [
+    "2026-10-15"
+  ],
+  "pseudonyms": true,
+  "name": "Company B"
+}

@@ -1,0 +1,1742 @@
+[
+ {
+  "code": "0114",
+  "text": "Upplands Väsby",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0115",
+  "text": "Vallentuna",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0117",
+  "text": "Österåker",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0120",
+  "text": "Värmdö",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0123",
+  "text": "Järfälla",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0125",
+  "text": "Ekerö",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0126",
+  "text": "Huddinge",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0127",
+  "text": "Botkyrka",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0128",
+  "text": "Salem",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0136",
+  "text": "Haninge",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0138",
+  "text": "Tyresö",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0139",
+  "text": "Upplands-Bro",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0140",
+  "text": "Nykvarn",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0160",
+  "text": "Täby",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0162",
+  "text": "Danderyd",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0163",
+  "text": "Sollentuna",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0180",
+  "text": "Stockholm",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0181",
+  "text": "Södertälje",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0182",
+  "text": "Nacka",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0183",
+  "text": "Sundbyberg",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0184",
+  "text": "Solna",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0186",
+  "text": "Lidingö",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0187",
+  "text": "Vaxholm",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0188",
+  "text": "Norrtälje",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0191",
+  "text": "Sigtuna",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0192",
+  "text": "Nynäshamn",
+  "county": "01",
+  "county_name": "Stockholms län"
+ },
+ {
+  "code": "0305",
+  "text": "Håbo",
+  "county": "03",
+  "county_name": "Uppsala län"
+ },
+ {
+  "code": "0319",
+  "text": "Älvkarleby",
+  "county": "03",
+  "county_name": "Uppsala län"
+ },
+ {
+  "code": "0330",
+  "text": "Knivsta",
+  "county": "03",
+  "county_name": "Uppsala län"
+ },
+ {
+  "code": "0331",
+  "text": "Heby",
+  "county": "03",
+  "county_name": "Uppsala län"
+ },
+ {
+  "code": "0360",
+  "text": "Tierp",
+  "county": "03",
+  "county_name": "Uppsala län"
+ },
+ {
+  "code": "0380",
+  "text": "Uppsala",
+  "county": "03",
+  "county_name": "Uppsala län"
+ },
+ {
+  "code": "0381",
+  "text": "Enköping",
+  "county": "03",
+  "county_name": "Uppsala län"
+ },
+ {
+  "code": "0382",
+  "text": "Östhammar",
+  "county": "03",
+  "county_name": "Uppsala län"
+ },
+ {
+  "code": "0428",
+  "text": "Vingåker",
+  "county": "04",
+  "county_name": "Södermanlands län"
+ },
+ {
+  "code": "0461",
+  "text": "Gnesta",
+  "county": "04",
+  "county_name": "Södermanlands län"
+ },
+ {
+  "code": "0480",
+  "text": "Nyköping",
+  "county": "04",
+  "county_name": "Södermanlands län"
+ },
+ {
+  "code": "0481",
+  "text": "Oxelösund",
+  "county": "04",
+  "county_name": "Södermanlands län"
+ },
+ {
+  "code": "0482",
+  "text": "Flen",
+  "county": "04",
+  "county_name": "Södermanlands län"
+ },
+ {
+  "code": "0483",
+  "text": "Katrineholm",
+  "county": "04",
+  "county_name": "Södermanlands län"
+ },
+ {
+  "code": "0484",
+  "text": "Eskilstuna",
+  "county": "04",
+  "county_name": "Södermanlands län"
+ },
+ {
+  "code": "0486",
+  "text": "Strängnäs",
+  "county": "04",
+  "county_name": "Södermanlands län"
+ },
+ {
+  "code": "0488",
+  "text": "Trosa",
+  "county": "04",
+  "county_name": "Södermanlands län"
+ },
+ {
+  "code": "0509",
+  "text": "Ödeshög",
+  "county": "05",
+  "county_name": "Östergötlands län"
+ },
+ {
+  "code": "0512",
+  "text": "Ydre",
+  "county": "05",
+  "county_name": "Östergötlands län"
+ },
+ {
+  "code": "0513",
+  "text": "Kinda",
+  "county": "05",
+  "county_name": "Östergötlands län"
+ },
+ {
+  "code": "0560",
+  "text": "Boxholm",
+  "county": "05",
+  "county_name": "Östergötlands län"
+ },
+ {
+  "code": "0561",
+  "text": "Åtvidaberg",
+  "county": "05",
+  "county_name": "Östergötlands län"
+ },
+ {
+  "code": "0562",
+  "text": "Finspång",
+  "county": "05",
+  "county_name": "Östergötlands län"
+ },
+ {
+  "code": "0563",
+  "text": "Valdemarsvik",
+  "county": "05",
+  "county_name": "Östergötlands län"
+ },
+ {
+  "code": "0580",
+  "text": "Linköping",
+  "county": "05",
+  "county_name": "Östergötlands län"
+ },
+ {
+  "code": "0581",
+  "text": "Norrköping",
+  "county": "05",
+  "county_name": "Östergötlands län"
+ },
+ {
+  "code": "0582",
+  "text": "Söderköping",
+  "county": "05",
+  "county_name": "Östergötlands län"
+ },
+ {
+  "code": "0583",
+  "text": "Motala",
+  "county": "05",
+  "county_name": "Östergötlands län"
+ },
+ {
+  "code": "0584",
+  "text": "Vadstena",
+  "county": "05",
+  "county_name": "Östergötlands län"
+ },
+ {
+  "code": "0586",
+  "text": "Mjölby",
+  "county": "05",
+  "county_name": "Östergötlands län"
+ },
+ {
+  "code": "0604",
+  "text": "Aneby",
+  "county": "06",
+  "county_name": "Jönköpings län"
+ },
+ {
+  "code": "0617",
+  "text": "Gnosjö",
+  "county": "06",
+  "county_name": "Jönköpings län"
+ },
+ {
+  "code": "0642",
+  "text": "Mullsjö",
+  "county": "06",
+  "county_name": "Jönköpings län"
+ },
+ {
+  "code": "0643",
+  "text": "Habo",
+  "county": "06",
+  "county_name": "Jönköpings län"
+ },
+ {
+  "code": "0662",
+  "text": "Gislaved",
+  "county": "06",
+  "county_name": "Jönköpings län"
+ },
+ {
+  "code": "0665",
+  "text": "Vaggeryd",
+  "county": "06",
+  "county_name": "Jönköpings län"
+ },
+ {
+  "code": "0680",
+  "text": "Jönköping",
+  "county": "06",
+  "county_name": "Jönköpings län"
+ },
+ {
+  "code": "0682",
+  "text": "Nässjö",
+  "county": "06",
+  "county_name": "Jönköpings län"
+ },
+ {
+  "code": "0683",
+  "text": "Värnamo",
+  "county": "06",
+  "county_name": "Jönköpings län"
+ },
+ {
+  "code": "0684",
+  "text": "Sävsjö",
+  "county": "06",
+  "county_name": "Jönköpings län"
+ },
+ {
+  "code": "0685",
+  "text": "Vetlanda",
+  "county": "06",
+  "county_name": "Jönköpings län"
+ },
+ {
+  "code": "0686",
+  "text": "Eksjö",
+  "county": "06",
+  "county_name": "Jönköpings län"
+ },
+ {
+  "code": "0687",
+  "text": "Tranås",
+  "county": "06",
+  "county_name": "Jönköpings län"
+ },
+ {
+  "code": "0760",
+  "text": "Uppvidinge",
+  "county": "07",
+  "county_name": "Kronobergs län"
+ },
+ {
+  "code": "0761",
+  "text": "Lessebo",
+  "county": "07",
+  "county_name": "Kronobergs län"
+ },
+ {
+  "code": "0763",
+  "text": "Tingsryd",
+  "county": "07",
+  "county_name": "Kronobergs län"
+ },
+ {
+  "code": "0764",
+  "text": "Alvesta",
+  "county": "07",
+  "county_name": "Kronobergs län"
+ },
+ {
+  "code": "0765",
+  "text": "Älmhult",
+  "county": "07",
+  "county_name": "Kronobergs län"
+ },
+ {
+  "code": "0767",
+  "text": "Markaryd",
+  "county": "07",
+  "county_name": "Kronobergs län"
+ },
+ {
+  "code": "0780",
+  "text": "Växjö",
+  "county": "07",
+  "county_name": "Kronobergs län"
+ },
+ {
+  "code": "0781",
+  "text": "Ljungby",
+  "county": "07",
+  "county_name": "Kronobergs län"
+ },
+ {
+  "code": "0821",
+  "text": "Högsby",
+  "county": "08",
+  "county_name": "Kalmar län"
+ },
+ {
+  "code": "0834",
+  "text": "Torsås",
+  "county": "08",
+  "county_name": "Kalmar län"
+ },
+ {
+  "code": "0840",
+  "text": "Mörbylånga",
+  "county": "08",
+  "county_name": "Kalmar län"
+ },
+ {
+  "code": "0860",
+  "text": "Hultsfred",
+  "county": "08",
+  "county_name": "Kalmar län"
+ },
+ {
+  "code": "0861",
+  "text": "Mönsterås",
+  "county": "08",
+  "county_name": "Kalmar län"
+ },
+ {
+  "code": "0862",
+  "text": "Emmaboda",
+  "county": "08",
+  "county_name": "Kalmar län"
+ },
+ {
+  "code": "0880",
+  "text": "Kalmar",
+  "county": "08",
+  "county_name": "Kalmar län"
+ },
+ {
+  "code": "0881",
+  "text": "Nybro",
+  "county": "08",
+  "county_name": "Kalmar län"
+ },
+ {
+  "code": "0882",
+  "text": "Oskarshamn",
+  "county": "08",
+  "county_name": "Kalmar län"
+ },
+ {
+  "code": "0883",
+  "text": "Västervik",
+  "county": "08",
+  "county_name": "Kalmar län"
+ },
+ {
+  "code": "0884",
+  "text": "Vimmerby",
+  "county": "08",
+  "county_name": "Kalmar län"
+ },
+ {
+  "code": "0885",
+  "text": "Borgholm",
+  "county": "08",
+  "county_name": "Kalmar län"
+ },
+ {
+  "code": "0980",
+  "text": "Gotland",
+  "county": "09",
+  "county_name": "Gotlands län"
+ },
+ {
+  "code": "1060",
+  "text": "Olofström",
+  "county": "10",
+  "county_name": "Blekinge län"
+ },
+ {
+  "code": "1080",
+  "text": "Karlskrona",
+  "county": "10",
+  "county_name": "Blekinge län"
+ },
+ {
+  "code": "1081",
+  "text": "Ronneby",
+  "county": "10",
+  "county_name": "Blekinge län"
+ },
+ {
+  "code": "1082",
+  "text": "Karlshamn",
+  "county": "10",
+  "county_name": "Blekinge län"
+ },
+ {
+  "code": "1083",
+  "text": "Sölvesborg",
+  "county": "10",
+  "county_name": "Blekinge län"
+ },
+ {
+  "code": "1214",
+  "text": "Svalöv",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1230",
+  "text": "Staffanstorp",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1231",
+  "text": "Burlöv",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1233",
+  "text": "Vellinge",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1256",
+  "text": "Östra Göinge",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1257",
+  "text": "Örkelljunga",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1260",
+  "text": "Bjuv",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1261",
+  "text": "Kävlinge",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1262",
+  "text": "Lomma",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1263",
+  "text": "Svedala",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1264",
+  "text": "Skurup",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1265",
+  "text": "Sjöbo",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1266",
+  "text": "Hörby",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1267",
+  "text": "Höör",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1270",
+  "text": "Tomelilla",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1272",
+  "text": "Bromölla",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1273",
+  "text": "Osby",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1275",
+  "text": "Perstorp",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1276",
+  "text": "Klippan",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1277",
+  "text": "Åstorp",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1278",
+  "text": "Båstad",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1280",
+  "text": "Malmö",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1281",
+  "text": "Lund",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1282",
+  "text": "Landskrona",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1283",
+  "text": "Helsingborg",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1284",
+  "text": "Höganäs",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1285",
+  "text": "Eslöv",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1286",
+  "text": "Ystad",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1287",
+  "text": "Trelleborg",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1290",
+  "text": "Kristianstad",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1291",
+  "text": "Simrishamn",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1292",
+  "text": "Ängelholm",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1293",
+  "text": "Hässleholm",
+  "county": "12",
+  "county_name": "Skåne län"
+ },
+ {
+  "code": "1315",
+  "text": "Hylte",
+  "county": "13",
+  "county_name": "Hallands län"
+ },
+ {
+  "code": "1380",
+  "text": "Halmstad",
+  "county": "13",
+  "county_name": "Hallands län"
+ },
+ {
+  "code": "1381",
+  "text": "Laholm",
+  "county": "13",
+  "county_name": "Hallands län"
+ },
+ {
+  "code": "1382",
+  "text": "Falkenberg",
+  "county": "13",
+  "county_name": "Hallands län"
+ },
+ {
+  "code": "1383",
+  "text": "Varberg",
+  "county": "13",
+  "county_name": "Hallands län"
+ },
+ {
+  "code": "1384",
+  "text": "Kungsbacka",
+  "county": "13",
+  "county_name": "Hallands län"
+ },
+ {
+  "code": "1401",
+  "text": "Härryda",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1402",
+  "text": "Partille",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1407",
+  "text": "Öckerö",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1415",
+  "text": "Stenungsund",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1419",
+  "text": "Tjörn",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1421",
+  "text": "Orust",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1427",
+  "text": "Sotenäs",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1430",
+  "text": "Munkedal",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1435",
+  "text": "Tanum",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1438",
+  "text": "Dals-Ed",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1439",
+  "text": "Färgelanda",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1440",
+  "text": "Ale",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1441",
+  "text": "Lerum",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1442",
+  "text": "Vårgårda",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1443",
+  "text": "Bollebygd",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1444",
+  "text": "Grästorp",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1445",
+  "text": "Essunga",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1446",
+  "text": "Karlsborg",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1447",
+  "text": "Gullspång",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1452",
+  "text": "Tranemo",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1460",
+  "text": "Bengtsfors",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1461",
+  "text": "Mellerud",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1462",
+  "text": "Lilla Edet",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1463",
+  "text": "Mark",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1465",
+  "text": "Svenljunga",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1466",
+  "text": "Herrljunga",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1470",
+  "text": "Vara",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1471",
+  "text": "Götene",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1472",
+  "text": "Tibro",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1473",
+  "text": "Töreboda",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1480",
+  "text": "Göteborg",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1481",
+  "text": "Mölndal",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1482",
+  "text": "Kungälv",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1484",
+  "text": "Lysekil",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1485",
+  "text": "Uddevalla",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1486",
+  "text": "Strömstad",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1487",
+  "text": "Vänersborg",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1488",
+  "text": "Trollhättan",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1489",
+  "text": "Alingsås",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1490",
+  "text": "Borås",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1491",
+  "text": "Ulricehamn",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1492",
+  "text": "Åmål",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1493",
+  "text": "Mariestad",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1494",
+  "text": "Lidköping",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1495",
+  "text": "Skara",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1496",
+  "text": "Skövde",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1497",
+  "text": "Hjo",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1498",
+  "text": "Tidaholm",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1499",
+  "text": "Falköping",
+  "county": "14",
+  "county_name": "Västra Götalands län"
+ },
+ {
+  "code": "1715",
+  "text": "Kil",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1730",
+  "text": "Eda",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1737",
+  "text": "Torsby",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1760",
+  "text": "Storfors",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1761",
+  "text": "Hammarö",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1762",
+  "text": "Munkfors",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1763",
+  "text": "Forshaga",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1764",
+  "text": "Grums",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1765",
+  "text": "Årjäng",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1766",
+  "text": "Sunne",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1780",
+  "text": "Karlstad",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1781",
+  "text": "Kristinehamn",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1782",
+  "text": "Filipstad",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1783",
+  "text": "Hagfors",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1784",
+  "text": "Arvika",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1785",
+  "text": "Säffle",
+  "county": "17",
+  "county_name": "Värmlands län"
+ },
+ {
+  "code": "1814",
+  "text": "Lekeberg",
+  "county": "18",
+  "county_name": "Örebro län"
+ },
+ {
+  "code": "1860",
+  "text": "Laxå",
+  "county": "18",
+  "county_name": "Örebro län"
+ },
+ {
+  "code": "1861",
+  "text": "Hallsberg",
+  "county": "18",
+  "county_name": "Örebro län"
+ },
+ {
+  "code": "1862",
+  "text": "Degerfors",
+  "county": "18",
+  "county_name": "Örebro län"
+ },
+ {
+  "code": "1863",
+  "text": "Hällefors",
+  "county": "18",
+  "county_name": "Örebro län"
+ },
+ {
+  "code": "1864",
+  "text": "Ljusnarsberg",
+  "county": "18",
+  "county_name": "Örebro län"
+ },
+ {
+  "code": "1880",
+  "text": "Örebro",
+  "county": "18",
+  "county_name": "Örebro län"
+ },
+ {
+  "code": "1881",
+  "text": "Kumla",
+  "county": "18",
+  "county_name": "Örebro län"
+ },
+ {
+  "code": "1882",
+  "text": "Askersund",
+  "county": "18",
+  "county_name": "Örebro län"
+ },
+ {
+  "code": "1883",
+  "text": "Karlskoga",
+  "county": "18",
+  "county_name": "Örebro län"
+ },
+ {
+  "code": "1884",
+  "text": "Nora",
+  "county": "18",
+  "county_name": "Örebro län"
+ },
+ {
+  "code": "1885",
+  "text": "Lindesberg",
+  "county": "18",
+  "county_name": "Örebro län"
+ },
+ {
+  "code": "1904",
+  "text": "Skinnskatteberg",
+  "county": "19",
+  "county_name": "Västmanlands län"
+ },
+ {
+  "code": "1907",
+  "text": "Surahammar",
+  "county": "19",
+  "county_name": "Västmanlands län"
+ },
+ {
+  "code": "1960",
+  "text": "Kungsör",
+  "county": "19",
+  "county_name": "Västmanlands län"
+ },
+ {
+  "code": "1961",
+  "text": "Hallstahammar",
+  "county": "19",
+  "county_name": "Västmanlands län"
+ },
+ {
+  "code": "1962",
+  "text": "Norberg",
+  "county": "19",
+  "county_name": "Västmanlands län"
+ },
+ {
+  "code": "1980",
+  "text": "Västerås",
+  "county": "19",
+  "county_name": "Västmanlands län"
+ },
+ {
+  "code": "1981",
+  "text": "Sala",
+  "county": "19",
+  "county_name": "Västmanlands län"
+ },
+ {
+  "code": "1982",
+  "text": "Fagersta",
+  "county": "19",
+  "county_name": "Västmanlands län"
+ },
+ {
+  "code": "1983",
+  "text": "Köping",
+  "county": "19",
+  "county_name": "Västmanlands län"
+ },
+ {
+  "code": "1984",
+  "text": "Arboga",
+  "county": "19",
+  "county_name": "Västmanlands län"
+ },
+ {
+  "code": "2021",
+  "text": "Vansbro",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2023",
+  "text": "Malung-Sälen",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2026",
+  "text": "Gagnef",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2029",
+  "text": "Leksand",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2031",
+  "text": "Rättvik",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2034",
+  "text": "Orsa",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2039",
+  "text": "Älvdalen",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2061",
+  "text": "Smedjebacken",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2062",
+  "text": "Mora",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2080",
+  "text": "Falun",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2081",
+  "text": "Borlänge",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2082",
+  "text": "Säter",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2083",
+  "text": "Hedemora",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2084",
+  "text": "Avesta",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2085",
+  "text": "Ludvika",
+  "county": "20",
+  "county_name": "Dalarnas län"
+ },
+ {
+  "code": "2101",
+  "text": "Ockelbo",
+  "county": "21",
+  "county_name": "Gävleborgs län"
+ },
+ {
+  "code": "2104",
+  "text": "Hofors",
+  "county": "21",
+  "county_name": "Gävleborgs län"
+ },
+ {
+  "code": "2121",
+  "text": "Ovanåker",
+  "county": "21",
+  "county_name": "Gävleborgs län"
+ },
+ {
+  "code": "2132",
+  "text": "Nordanstig",
+  "county": "21",
+  "county_name": "Gävleborgs län"
+ },
+ {
+  "code": "2161",
+  "text": "Ljusdal",
+  "county": "21",
+  "county_name": "Gävleborgs län"
+ },
+ {
+  "code": "2180",
+  "text": "Gävle",
+  "county": "21",
+  "county_name": "Gävleborgs län"
+ },
+ {
+  "code": "2181",
+  "text": "Sandviken",
+  "county": "21",
+  "county_name": "Gävleborgs län"
+ },
+ {
+  "code": "2182",
+  "text": "Söderhamn",
+  "county": "21",
+  "county_name": "Gävleborgs län"
+ },
+ {
+  "code": "2183",
+  "text": "Bollnäs",
+  "county": "21",
+  "county_name": "Gävleborgs län"
+ },
+ {
+  "code": "2184",
+  "text": "Hudiksvall",
+  "county": "21",
+  "county_name": "Gävleborgs län"
+ },
+ {
+  "code": "2260",
+  "text": "Ånge",
+  "county": "22",
+  "county_name": "Västernorrlands län"
+ },
+ {
+  "code": "2262",
+  "text": "Timrå",
+  "county": "22",
+  "county_name": "Västernorrlands län"
+ },
+ {
+  "code": "2280",
+  "text": "Härnösand",
+  "county": "22",
+  "county_name": "Västernorrlands län"
+ },
+ {
+  "code": "2281",
+  "text": "Sundsvall",
+  "county": "22",
+  "county_name": "Västernorrlands län"
+ },
+ {
+  "code": "2282",
+  "text": "Kramfors",
+  "county": "22",
+  "county_name": "Västernorrlands län"
+ },
+ {
+  "code": "2283",
+  "text": "Sollefteå",
+  "county": "22",
+  "county_name": "Västernorrlands län"
+ },
+ {
+  "code": "2284",
+  "text": "Örnsköldsvik",
+  "county": "22",
+  "county_name": "Västernorrlands län"
+ },
+ {
+  "code": "2303",
+  "text": "Ragunda",
+  "county": "23",
+  "county_name": "Jämtlands län"
+ },
+ {
+  "code": "2305",
+  "text": "Bräcke",
+  "county": "23",
+  "county_name": "Jämtlands län"
+ },
+ {
+  "code": "2309",
+  "text": "Krokom",
+  "county": "23",
+  "county_name": "Jämtlands län"
+ },
+ {
+  "code": "2313",
+  "text": "Strömsund",
+  "county": "23",
+  "county_name": "Jämtlands län"
+ },
+ {
+  "code": "2321",
+  "text": "Åre",
+  "county": "23",
+  "county_name": "Jämtlands län"
+ },
+ {
+  "code": "2326",
+  "text": "Berg",
+  "county": "23",
+  "county_name": "Jämtlands län"
+ },
+ {
+  "code": "2361",
+  "text": "Härjedalen",
+  "county": "23",
+  "county_name": "Jämtlands län"
+ },
+ {
+  "code": "2380",
+  "text": "Östersund",
+  "county": "23",
+  "county_name": "Jämtlands län"
+ },
+ {
+  "code": "2401",
+  "text": "Nordmaling",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2403",
+  "text": "Bjurholm",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2404",
+  "text": "Vindeln",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2409",
+  "text": "Robertsfors",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2417",
+  "text": "Norsjö",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2418",
+  "text": "Malå",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2421",
+  "text": "Storuman",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2422",
+  "text": "Sorsele",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2425",
+  "text": "Dorotea",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2460",
+  "text": "Vännäs",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2462",
+  "text": "Vilhelmina",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2463",
+  "text": "Åsele",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2480",
+  "text": "Umeå",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2481",
+  "text": "Lycksele",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2482",
+  "text": "Skellefteå",
+  "county": "24",
+  "county_name": "Västerbottens län"
+ },
+ {
+  "code": "2505",
+  "text": "Arvidsjaur",
+  "county": "25",
+  "county_name": "Norrbottens län"
+ },
+ {
+  "code": "2506",
+  "text": "Arjeplog",
+  "county": "25",
+  "county_name": "Norrbottens län"
+ },
+ {
+  "code": "2510",
+  "text": "Jokkmokk",
+  "county": "25",
+  "county_name": "Norrbottens län"
+ },
+ {
+  "code": "2513",
+  "text": "Överkalix",
+  "county": "25",
+  "county_name": "Norrbottens län"
+ },
+ {
+  "code": "2514",
+  "text": "Kalix",
+  "county": "25",
+  "county_name": "Norrbottens län"
+ },
+ {
+  "code": "2518",
+  "text": "Övertorneå",
+  "county": "25",
+  "county_name": "Norrbottens län"
+ },
+ {
+  "code": "2521",
+  "text": "Pajala",
+  "county": "25",
+  "county_name": "Norrbottens län"
+ },
+ {
+  "code": "2523",
+  "text": "Gällivare",
+  "county": "25",
+  "county_name": "Norrbottens län"
+ },
+ {
+  "code": "2560",
+  "text": "Älvsbyn",
+  "county": "25",
+  "county_name": "Norrbottens län"
+ },
+ {
+  "code": "2580",
+  "text": "Luleå",
+  "county": "25",
+  "county_name": "Norrbottens län"
+ },
+ {
+  "code": "2581",
+  "text": "Piteå",
+  "county": "25",
+  "county_name": "Norrbottens län"
+ },
+ {
+  "code": "2582",
+  "text": "Boden",
+  "county": "25",
+  "county_name": "Norrbottens län"
+ },
+ {
+  "code": "2583",
+  "text": "Haparanda",
+  "county": "25",
+  "county_name": "Norrbottens län"
+ },
+ {
+  "code": "2584",
+  "text": "Kiruna",
+  "county": "25",
+  "county_name": "Norrbottens län"
+ }
+]

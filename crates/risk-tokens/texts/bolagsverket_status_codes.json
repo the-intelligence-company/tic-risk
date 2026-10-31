@@ -1,0 +1,338 @@
+[
+ {
+  "code": "11",
+  "text": "Ackordsförhandling inledd",
+  "text_en": "Composition negotiations commenced",
+  "status_type": "43",
+  "ceased": false
+ },
+ {
+  "code": "12",
+  "text": "Ackordsförhandling upphör",
+  "text_en": "Composition negotiations terminated",
+  "status_type": "44",
+  "ceased": false
+ },
+ {
+  "code": "13",
+  "text": "Ackordsförhandling upphävd av rätt",
+  "text_en": "Composition negotiations repealed by court",
+  "status_type": "45",
+  "ceased": false
+ },
+ {
+  "code": "20",
+  "text": "Konkurs inledd",
+  "text_en": "Bankruptcy proceedings commenced",
+  "status_type": "9",
+  "ceased": false
+ },
+ {
+  "code": "21",
+  "text": "Konkurs avslutad",
+  "text_en": "Bankruptcy proceedings terminated",
+  "status_type": "10",
+  "ceased": true
+ },
+ {
+  "code": "22",
+  "text": "Konkurs avslutad med överskott",
+  "text_en": "Bankruptcy terminated with surplus",
+  "status_type": "1",
+  "ceased": false
+ },
+ {
+  "code": "24",
+  "text": "Konkurs upphävd av rätt",
+  "text_en": "Bankruptcy repealed by court",
+  "status_type": "17",
+  "ceased": false
+ },
+ {
+  "code": "31",
+  "text": "Likvidation avslutad",
+  "text_en": "Liquidation terminated",
+  "status_type": "3",
+  "ceased": true
+ },
+ {
+  "code": "32",
+  "text": "Likvidation beslutad",
+  "text_en": "Liquidation decided",
+  "status_type": "8",
+  "ceased": false
+ },
+ {
+  "code": "33",
+  "text": "Likvidation fortsätter",
+  "text_en": "Liquidation continues",
+  "status_type": "15",
+  "ceased": false
+ },
+ {
+  "code": "34",
+  "text": "Likvidation upphör, verksamheten återupptas.",
+  "text_en": "Liquidation ends and the business resumes",
+  "status_type": "18",
+  "ceased": false
+ },
+ {
+  "code": "35",
+  "text": "Likvidation upphävd av rätt",
+  "text_en": "Liquidation repealed by court",
+  "status_type": "19",
+  "ceased": false
+ },
+ {
+  "code": "36",
+  "text": "Bolaget avfört enligt 13 kap. 18 § aktiebolagslagen",
+  "text_en": "Company struck off 13 chapter 18 § Limited Liability Companies Act",
+  "status_type": "NULL",
+  "ceased": true
+ },
+ {
+  "code": "37",
+  "text": "Bolaget är avfört",
+  "text_en": "Company struck off register",
+  "status_type": "NULL",
+  "ceased": true
+ },
+ {
+  "code": "40",
+  "text": "Fusion inledd",
+  "text_en": "Merger procedure commenced",
+  "status_type": "4",
+  "ceased": false
+ },
+ {
+  "code": "41",
+  "text": "Upplöst genom fusion",
+  "text_en": "Dissolved by merger procedure",
+  "status_type": "7",
+  "ceased": true
+ },
+ {
+  "code": "45",
+  "text": "Fusion tillåten",
+  "text_en": "Merger permitted",
+  "status_type": "11",
+  "ceased": false
+ },
+ {
+  "code": "49",
+  "text": "Fusion pågår",
+  "text_en": "Acquisition by merger",
+  "status_type": "6",
+  "ceased": false
+ },
+ {
+  "code": "50",
+  "text": "Avförd enligt 17 § handelsregisterlagen",
+  "text_en": "Company struck off 17 paragraph The Trade Register Act",
+  "status_type": "26",
+  "ceased": true
+ },
+ {
+  "code": "51",
+  "text": "Avförd",
+  "text_en": "Company struck off register",
+  "status_type": "20",
+  "ceased": true
+ },
+ {
+  "code": "52",
+  "text": "Avregistrerad p g a verksamheten upphört",
+  "text_en": "Deregistered",
+  "status_type": "28",
+  "ceased": true
+ },
+ {
+  "code": "53",
+  "text": "Avregistrerad p.g.a. ny innehavare",
+  "text_en": "Deregistered due to new holder",
+  "status_type": "27",
+  "ceased": true
+ },
+ {
+  "code": "54",
+  "text": "Avförd p.g.a. fusion med utländskt företag",
+  "text_en": "Struck off register due to cross-border merger",
+  "status_type": "16",
+  "ceased": true
+ },
+ {
+  "code": "60",
+  "text": "Avförd p.g.a. utländskt företags likvidation/konkurs",
+  "text_en": "Struck off register, foreign liquidation /bankruptcy",
+  "status_type": "33",
+  "ceased": true
+ },
+ {
+  "code": "61",
+  "text": "Avförd, verksamheten har upphört",
+  "text_en": "Struck off register, operations ceased",
+  "status_type": "34",
+  "ceased": true
+ },
+ {
+  "code": "62",
+  "text": "Avförd, filialen saknar verkställande direktör",
+  "text_en": "Struck off register, branch missing managing director",
+  "status_type": "35",
+  "ceased": true
+ },
+ {
+  "code": "63",
+  "text": "Avförd, enligt domstolsbeslut",
+  "text_en": "Struck off register, court order",
+  "status_type": "36",
+  "ceased": true
+ },
+ {
+  "code": "64",
+  "text": "Avförd, årsredovisning saknas",
+  "text_en": "Struck off register, missing annual report",
+  "status_type": "37",
+  "ceased": true
+ },
+ {
+  "code": "70",
+  "text": "Bolaget avfört på egen begäran",
+  "text_en": "Struck off register at companys own request",
+  "status_type": "30",
+  "ceased": true
+ },
+ {
+  "code": "71",
+  "text": "Bolaget avfört av Bolagsverket",
+  "text_en": "Struck off register by Bolagsverket.",
+  "status_type": "31",
+  "ceased": true
+ },
+ {
+  "code": "73",
+  "text": "Avförd",
+  "text_en": "Struck off register",
+  "status_type": "20",
+  "ceased": true
+ },
+ {
+  "code": "74",
+  "text": "Avförd, omregistrerat till Bankaktiebolag",
+  "text_en": "Struck off register, re-entered as joint-stock",
+  "status_type": "32",
+  "ceased": true
+ },
+ {
+  "code": "75",
+  "text": "Beslut om ombildning",
+  "text_en": "Conversion decided",
+  "status_type": "NULL",
+  "ceased": false
+ },
+ {
+  "code": "76",
+  "text": "Tillstånd till ombildning",
+  "text_en": "Conversion permitted",
+  "status_type": "NULL",
+  "ceased": false
+ },
+ {
+  "code": "77",
+  "text": "Avregistrerad p.g.a. ombildning",
+  "text_en": "Company struck off register due to conversion",
+  "status_type": "NULL",
+  "ceased": true
+ },
+ {
+  "code": "78",
+  "text": "Ombildning förfallen",
+  "text_en": "Conversation due",
+  "status_type": "NULL",
+  "ceased": false
+ },
+ {
+  "code": "80",
+  "text": "Företagsrekonstruktion inledd",
+  "text_en": "Reorganization of business commenced",
+  "status_type": "0",
+  "ceased": false
+ },
+ {
+  "code": "81",
+  "text": "Företagsrekonstruktion upphörd",
+  "text_en": "Company reorganisation ended",
+  "status_type": "NULL",
+  "ceased": false
+ },
+ {
+  "code": "82",
+  "text": "Företagsrekonstruktion upphävd av domstol",
+  "text_en": "Company reorganisation repealed by court",
+  "status_type": "NULL",
+  "ceased": false
+ },
+ {
+  "code": "85",
+  "text": "Resolution inledd",
+  "text_en": "Resolution commenced",
+  "status_type": "NULL",
+  "ceased": false
+ },
+ {
+  "code": "86",
+  "text": "Resolution avslutad",
+  "text_en": "Resolution terminated",
+  "status_type": "NULL",
+  "ceased": false
+ },
+ {
+  "code": "87",
+  "text": "Resolution upphävd",
+  "text_en": "Resolution repealed by court",
+  "status_type": "NULL",
+  "ceased": false
+ },
+ {
+  "code": "90",
+  "text": "Delning pågår",
+  "text_en": "Company division commenced",
+  "status_type": "42",
+  "ceased": false
+ },
+ {
+  "code": "91",
+  "text": "Upplöst genom delning",
+  "text_en": "Dissolved by company division",
+  "status_type": "2",
+  "ceased": true
+ },
+ {
+  "code": "96",
+  "text": "Gränsöverskridande ombildning inledd",
+  "text_en": "Cross-border conversion commenced",
+  "status_type": "NULL",
+  "ceased": false
+ },
+ {
+  "code": "97",
+  "text": "Gränsöverskridande ombildning tillåten",
+  "text_en": "Cross-border conversion permitted",
+  "status_type": "NULL",
+  "ceased": false
+ },
+ {
+  "code": "98",
+  "text": "Avförd genom gränsöverskridande ombildning",
+  "text_en": "Company struck off register due to cross-border conversion",
+  "status_type": "NULL",
+  "ceased": true
+ },
+ {
+  "code": "99",
+  "text": "Övertagande av annat bolag pågår",
+  "text_en": "Acquisition by company division",
+  "status_type": "5",
+  "ceased": false
+ }
+]

@@ -1,0 +1,36 @@
+[package]
+name = "risk-engine"
+description = "The TIC Risk Open Model's engine on the CPU: the view built from a company's facts, the input from files, the answer with its calibration, band and explanation"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license = "MIT OR Apache-2.0"
+publish.workspace = true
+
+[dependencies]
+risk-model = { path = "../risk-model" }
+risk-tokens = { path = "../risk-tokens" }
+risk-eval = { path = "../risk-eval" }
+# the company life type only
+risk-store = { path = "../risk-store" }
+chrono = { workspace = true }
+half = "2.7.1"
+memmap2 = "0.9.11"
+safetensors = "0.8.0"
+serde = { workspace = true }
+serde_json = { workspace = true }
+thiserror = { workspace = true }
+tracing = { workspace = true }
+# the matrix products (sgemm in pure Rust with SIMD) and the exact erff of the GELU (std has no erf)
+matrixmultiply = "0.3.11"
+libm = "0.2.16"
+rayon = { workspace = true }
+
+# unsafe in two places only: sgemm through raw pointers over disjoint column blocks, and the
+# checkpoint mapped into memory while it is read
+[lints.rust]
+unsafe_code = "allow"
+
+[lints.clippy]
+unwrap_used = "warn"
+expect_used = "warn"

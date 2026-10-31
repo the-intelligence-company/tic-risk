@@ -1,0 +1,21 @@
+[package]
+name = "risk-model"
+description = "The model's data contract: the vocabulary and the fixed-shape packed samples the network reads"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license = "MIT OR Apache-2.0"
+publish.workspace = true
+
+[dependencies]
+risk-eval = { path = "../risk-eval" }
+risk-tokens = { path = "../risk-tokens" }
+serde = { workspace = true }
+serde_json = { workspace = true }
+chrono = { workspace = true }
+thiserror = { workspace = true }
+rayon = { workspace = true }
+tracing = { workspace = true }
+
+[lints]
+workspace = true

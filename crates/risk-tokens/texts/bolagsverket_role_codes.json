@@ -1,0 +1,130 @@
+[
+ {
+  "code": "AK",
+  "text": "Aktuarie"
+ },
+ {
+  "code": "BO",
+  "text": "Bolagsman"
+ },
+ {
+  "code": "DELG",
+  "text": "Delgivningsbar person (särskild delgivningsmottagare)"
+ },
+ {
+  "code": "EFT",
+  "text": "Extern firmatecknare (ej styrelsemedlem)"
+ },
+ {
+  "code": "EVD",
+  "text": "Extern verkställande direktör (ej styrelsemedlem)"
+ },
+ {
+  "code": "EVVD",
+  "text": "Extern vice verkställande direktör (ej styrelsemedlem)"
+ },
+ {
+  "code": "FÖ",
+  "text": "Föreståndare"
+ },
+ {
+  "code": "HREV",
+  "text": "Revisor hållbarhetsrapport"
+ },
+ {
+  "code": "HREVH",
+  "text": "Huvudansvarig revisor hållbarhetsrapport"
+ },
+ {
+  "code": "HREVS",
+  "text": "Revisorssuppleant hållbarhetsrapport"
+ },
+ {
+  "code": "IN",
+  "text": "Innehavare"
+ },
+ {
+  "code": "KD",
+  "text": "Kommanditdelägare"
+ },
+ {
+  "code": "KP",
+  "text": "Komplementär"
+ },
+ {
+  "code": "LE",
+  "text": "Styrelseledamot"
+ },
+ {
+  "code": "LI",
+  "text": "Likvidator"
+ },
+ {
+  "code": "LS",
+  "text": "Likvidatorssuppleant"
+ },
+ {
+  "code": "OF",
+  "text": "Ordförande"
+ },
+ {
+  "code": "PO",
+  "text": "Prokurist"
+ },
+ {
+  "code": "REP",
+  "text": "Representant"
+ },
+ {
+  "code": "REV",
+  "text": "Revisor"
+ },
+ {
+  "code": "REVH",
+  "text": "Huvudansvarig revisor"
+ },
+ {
+  "code": "REVL",
+  "text": "Lekmannarevisor"
+ },
+ {
+  "code": "REVS",
+  "text": "Revisorssuppleant"
+ },
+ {
+  "code": "REVSL",
+  "text": "Lekmannarevisorssuppleant"
+ },
+ {
+  "code": "REVST",
+  "text": "Aktuarie revisorssuppleant"
+ },
+ {
+  "code": "REVT",
+  "text": "Revisor med tillstånd"
+ },
+ {
+  "code": "SU",
+  "text": "Styrelsesuppleant"
+ },
+ {
+  "code": "SVD",
+  "text": "Ställföreträdande verkställande direktör"
+ },
+ {
+  "code": "VD",
+  "text": "Verkställande direktör"
+ },
+ {
+  "code": "VLE",
+  "text": "Verkställande ledamot"
+ },
+ {
+  "code": "VOF",
+  "text": "Vice ordförande"
+ },
+ {
+  "code": "VVD",
+  "text": "Vice verkställande direktör"
+ }
+]

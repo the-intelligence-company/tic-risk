@@ -1,0 +1,8 @@
+{"a":{"abstain":true,"prob":0.4472,"prob_division":0.489,"rank":1,"sni":"41000"},"c":1,"est":true,"k":"industry.code","ka":"2026-08-29","s":"tic","t":"2026-08-29"}
+{"a":{"rank":1,"sni":"16239"},"c":1,"est":false,"k":"industry.code","ka":"2026-09-12","s":"scb","t":"2026-09-12"}
+{"a":{"rank":2,"sni":"43341"},"c":1,"est":false,"k":"industry.code","ka":"2026-09-12","s":"scb","t":"2026-09-12"}
+{"a":{"extent":"INTERVALL2","govern":"ART10"},"c":1,"est":false,"k":"ownership.owner_added","ka":"2026-09-01","s":"bolagsverket","t":"2026-08-29"}
+{"a":{"extent":"INTERVALL2","govern":"ART20"},"c":1,"est":false,"k":"ownership.owner_added","ka":"2026-09-01","s":"bolagsverket","t":"2026-08-29"}
+{"a":{"code":"LE"},"c":1,"est":false,"k":"role.started","ka":"2026-08-29","s":"bolagsverket","t":"2026-08-29"}
+{"a":{"code":"SU"},"c":1,"est":false,"k":"role.started","ka":"2026-08-29","s":"bolagsverket","t":"2026-08-29"}
+{"a":{"employer":false,"fskatt":"F","vat":true},"c":1,"est":false,"k":"tax.registration","ka":"2026-09-05","s":"skatteverket","t":"2026-09-05"}

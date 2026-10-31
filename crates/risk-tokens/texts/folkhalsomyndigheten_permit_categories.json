@@ -1,0 +1,210 @@
+[
+ {
+  "code": "1",
+  "text": "Servering till allmänheten och catering: Spritdryck, vin och andra jästa alkoholdrycker, starköl (till allmänheten); Spritdryck, vin och andra jästa alkoholdrycker, starköl (catering); året runt"
+ },
+ {
+  "code": "2",
+  "text": "Servering till allmänheten och catering: Spritdryck, vin och andra jästa alkoholdrycker, starköl (till allmänheten); Spritdryck, vin och andra jästa alkoholdrycker, starköl (catering); årligen under viss tidsperiod"
+ },
+ {
+  "code": "3",
+  "text": "Servering till allmänheten och catering: Spritdryck, vin och andra jästa alkoholdrycker, starköl (till allmänheten); Vin och andra jästa alkoholdrycker, starköl (catering); året runt"
+ },
+ {
+  "code": "4",
+  "text": "Servering till allmänheten och catering: Spritdryck, vin och andra jästa alkoholdrycker, starköl (till allmänheten); Vin och andra jästa alkoholdrycker, starköl (catering); årligen under viss tidsperiod"
+ },
+ {
+  "code": "5",
+  "text": "Servering till allmänheten och catering: Spritdryck, vin och andra jästa alkoholdrycker, starköl (till allmänheten); Starköl (catering); året runt"
+ },
+ {
+  "code": "6",
+  "text": "Servering till allmänheten och catering: Spritdryck, vin och andra jästa alkoholdrycker, starköl (till allmänheten); Starköl (catering); årligen under viss tidsperiod"
+ },
+ {
+  "code": "7",
+  "text": "Servering till allmänheten och catering: Vin och andra jästa alkoholdrycker, starköl (till allmänheten); Spritdryck, vin och andra jästa alkoholdrycker, starköl (catering); året runt"
+ },
+ {
+  "code": "8",
+  "text": "Servering till allmänheten och catering: Vin och andra jästa alkoholdrycker, starköl (till allmänheten); Spritdryck, vin och andra jästa alkoholdrycker, starköl (catering); årligen under viss tidsperiod"
+ },
+ {
+  "code": "9",
+  "text": "Servering till allmänheten och catering: Vin och andra jästa alkoholdrycker, starköl (till allmänheten); Vin och andra jästa alkoholdrycker, starköl (catering); året runt"
+ },
+ {
+  "code": "10",
+  "text": "Servering till allmänheten och catering: Vin och andra jästa alkoholdrycker, starköl (till allmänheten); Vin och andra jästa alkoholdrycker, starköl (catering); årligen under viss tidsperiod"
+ },
+ {
+  "code": "11",
+  "text": "Servering till allmänheten gemensamt serveringsutrymme: Spritdryck, vin och andra jästa alkoholdrycker, starköl; året runt"
+ },
+ {
+  "code": "12",
+  "text": "Servering till allmänheten gemensamt serveringsutrymme: Spritdryck, vin och andra jästa alkoholdrycker, starköl; årligen under viss tidsperiod"
+ },
+ {
+  "code": "13",
+  "text": "Servering till allmänheten och catering: Vin och andra jästa alkoholdrycker, starköl (till allmänheten); Starköl (catering); året runt"
+ },
+ {
+  "code": "14",
+  "text": "Servering till allmänheten och catering: Vin och andra jästa alkoholdrycker, starköl (till allmänheten); Starköl (catering); årligen under viss tidsperiod"
+ },
+ {
+  "code": "15",
+  "text": "Servering till allmänheten och catering: Starköl (till allmänheten); Spritdryck, vin och andra jästa alkoholdrycker, starköl (catering); året runt"
+ },
+ {
+  "code": "16",
+  "text": "Servering till allmänheten och catering: Starköl (till allmänheten); Spritdryck, vin och andra jästa alkoholdrycker, starköl (catering); årligen under viss tidsperiod"
+ },
+ {
+  "code": "17",
+  "text": "Servering till allmänheten och catering: Starköl (till allmänheten); Vin och andra jästa alkoholdrycker, starköl (catering); året runt"
+ },
+ {
+  "code": "18",
+  "text": "Servering till allmänheten och catering: Starköl (till allmänheten); Vin och andra jästa alkoholdrycker, starköl (catering); årligen under viss tidsperiod"
+ },
+ {
+  "code": "19",
+  "text": "Servering till allmänheten och catering: Starköl (till allmänheten); Starköl (catering); året runt"
+ },
+ {
+  "code": "20",
+  "text": "Servering till allmänheten och catering: Starköl (till allmänheten); Starköl (catering); årligen under viss tidsperiod"
+ },
+ {
+  "code": "21",
+  "text": "Servering till allmänheten: Spritdryck, vin och andra jästa alkoholdrycker, starköl; året runt"
+ },
+ {
+  "code": "22",
+  "text": "Servering till allmänheten: Spritdryck, vin och andra jästa alkoholdrycker, starköl; årligen under viss tidsperiod"
+ },
+ {
+  "code": "24",
+  "text": "Servering till slutet sällskap: Spritdryck, vin och andra jästa alkoholdrycker, starköl; året runt"
+ },
+ {
+  "code": "25",
+  "text": "Servering till slutet sällskap: Spritdryck, vin och andra jästa alkoholdrycker, starköl; årligen under viss tidsperiod"
+ },
+ {
+  "code": "26",
+  "text": "Trafikservering till slutet sällskap: Spritdryck, vin och andra jästa alkoholdrycker, starköl; året runt"
+ },
+ {
+  "code": "27",
+  "text": "Trafikservering till allmänheten: Spritdryck, vin och andra jästa alkoholdrycker, starköl; året runt"
+ },
+ {
+  "code": "31",
+  "text": "Servering till allmänheten gemensamt serveringsutrymme: Vin och andra jästa alkoholdrycker, starköl; året runt"
+ },
+ {
+  "code": "32",
+  "text": "Servering till allmänheten gemensamt serveringsutrymme: Vin och andra jästa alkoholdrycker, starköl; årligen under viss tidsperiod"
+ },
+ {
+  "code": "41",
+  "text": "Servering till allmänheten: Vin och andra jästa alkoholdrycker, starköl; året runt"
+ },
+ {
+  "code": "42",
+  "text": "Servering till allmänheten: Vin och andra jästa alkoholdrycker, starköl; årligen under viss tidsperiod"
+ },
+ {
+  "code": "44",
+  "text": "Servering till slutet sällskap: Vin och andra jästa alkoholdrycker, starköl; året runt"
+ },
+ {
+  "code": "45",
+  "text": "Servering till slutet sällskap: Vin och andra jästa alkoholdrycker, starköl; årligen under viss tidsperiod"
+ },
+ {
+  "code": "46",
+  "text": "Trafikservering till slutet sällskap: Vin och andra jästa alkoholdrycker, starköl; året runt"
+ },
+ {
+  "code": "47",
+  "text": "Trafikservering till allmänheten: Vin och andra jästa alkoholdrycker, starköl; året runt"
+ },
+ {
+  "code": "48",
+  "text": "Pausservering: Vin och andra jästa alkoholdrycker, starköl; året runt"
+ },
+ {
+  "code": "51",
+  "text": "Servering till allmänheten gemensamt serveringsutrymme: Starköl; året runt"
+ },
+ {
+  "code": "52",
+  "text": "Servering till allmänheten gemensamt serveringsutrymme: Starköl; årligen under viss tidsperiod"
+ },
+ {
+  "code": "61",
+  "text": "Servering till allmänheten: Starköl; året runt"
+ },
+ {
+  "code": "62",
+  "text": "Servering till allmänheten: Starköl; årligen under viss tidsperiod"
+ },
+ {
+  "code": "64",
+  "text": "Servering till slutet sällskap: Starköl; året runt"
+ },
+ {
+  "code": "65",
+  "text": "Servering till slutet sällskap: Starköl; årligen under viss tidsperiod"
+ },
+ {
+  "code": "66",
+  "text": "Trafikservering till slutet sällskap: Starköl; året runt"
+ },
+ {
+  "code": "67",
+  "text": "Trafikservering till allmänheten: Starköl; året runt"
+ },
+ {
+  "code": "68",
+  "text": "Pausservering: Starköl; året runt"
+ },
+ {
+  "code": "74",
+  "text": "Catering: Spritdryck, vin och andra jästa alkoholdrycker, starköl; året runt"
+ },
+ {
+  "code": "75",
+  "text": "Catering: Spritdryck, vin och andra jästa alkoholdrycker, starköl; årligen under viss tidsperiod"
+ },
+ {
+  "code": "84",
+  "text": "Catering: Vin och andra jästa alkoholdrycker, starköl; året runt"
+ },
+ {
+  "code": "85",
+  "text": "Catering: Vin och andra jästa alkoholdrycker, starköl; årligen under viss tidsperiod"
+ },
+ {
+  "code": "94",
+  "text": "Catering: Starköl; året runt"
+ },
+ {
+  "code": "95",
+  "text": "Catering: Starköl; årligen under viss tidsperiod"
+ },
+ {
+  "code": "97",
+  "text": "Kombinerat tillstånd: Vin och andra jästa alkoholdrycker, starköl (till allmänheten); Spritdryck, vin och andra jästa alkoholdrycker, starköl (till slutet sällskap); året runt"
+ },
+ {
+  "code": "98",
+  "text": "Kombinerat tillstånd: Starköl (till allmänheten); Spritdryck, vin och andra jästa alkoholdrycker, starköl (till slutet sällskap); året runt"
+ }
+]

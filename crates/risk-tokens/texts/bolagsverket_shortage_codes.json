@@ -1,0 +1,366 @@
+[
+ {
+  "code": "0001",
+  "text": "Påminnelse"
+ },
+ {
+  "code": "0003",
+  "text": "Aktiekapitalet i balansräkningen stämmer inte med det registrerade"
+ },
+ {
+  "code": "0004",
+  "text": "Skicka in en bestyrkt kopia av årsredovisningen"
+ },
+ {
+  "code": "0008",
+  "text": "Skicka in en kopia av årsredovisningen med beloppen i euro"
+ },
+ {
+  "code": "0010",
+  "text": "Utdelningsbeloppet är olika i protokollet och fastställelseintyget"
+ },
+ {
+  "code": "0011",
+  "text": "Datum för årsstämman är olika i protokollet och fastställelseintyget"
+ },
+ {
+  "code": "0012",
+  "text": "Resultatdispositionen är olika i protokollet och fastställelseintyget"
+ },
+ {
+  "code": "0013",
+  "text": "Fastställelseintyget saknar uppgift om fastställd balansräkning"
+ },
+ {
+  "code": "0015",
+  "text": "Stämman får inte ha varit innan revisionsberättelsen lämnades"
+ },
+ {
+  "code": "0017",
+  "text": "Skicka in en balansräkning istället för en balansrapport"
+ },
+ {
+  "code": "0018",
+  "text": "Skicka in en balansräkning"
+ },
+ {
+  "code": "0019",
+  "text": "Fel i balansomslutningen"
+ },
+ {
+  "code": "0031",
+  "text": "Delårsrapporten saknar underskrifter"
+ },
+ {
+  "code": "0050",
+  "text": "Information om förseningsavgift"
+ },
+ {
+  "code": "0052",
+  "text": "Information om en till förseningsavgift"
+ },
+ {
+  "code": "0053",
+  "text": "Skicka in en förvaltningsberättelse"
+ },
+ {
+  "code": "0060",
+  "text": "Information om likvidation"
+ },
+ {
+  "code": "0070",
+  "text": "Jämförelsesiffror för föregående år saknas"
+ },
+ {
+  "code": "0080",
+  "text": "Resultat- och balansräkning för koncernen saknas"
+ },
+ {
+  "code": "0081",
+  "text": "Skicka in en koncernredovisning"
+ },
+ {
+  "code": "0090",
+  "text": "Företaget har fått ett föreläggande om likvidation"
+ },
+ {
+  "code": "0091",
+  "text": "Företaget har fått ett föreläggande om likvidation"
+ },
+ {
+  "code": "0100",
+  "text": "Fastställelseintyget saknar uppgift om resultatdisposition"
+ },
+ {
+  "code": "0101",
+  "text": "Fastställelseintyget saknar datumet när stämman hölls"
+ },
+ {
+  "code": "0102",
+  "text": "Skicka in ett fastställelseintyg med underskriften i original"
+ },
+ {
+  "code": "0103",
+  "text": "Skicka in ett fastställelseintyg"
+ },
+ {
+  "code": "0105",
+  "text": "Fastställelseintyget saknar underskrift"
+ },
+ {
+  "code": "0107",
+  "text": "Skicka in ett fastställelseintyg"
+ },
+ {
+  "code": "0108",
+  "text": "Fastställelseintyget saknar likvidatorns underskrift"
+ },
+ {
+  "code": "0109",
+  "text": "Årsstämman får inte hållas innan årsredovisningen skrivits under"
+ },
+ {
+  "code": "0120",
+  "text": "Medelantalet anställda saknas i noterna"
+ },
+ {
+  "code": "0132",
+  "text": "Företagsnamnet eller organisationsnumret stämmer inte med vårt register"
+ },
+ {
+  "code": "0133",
+  "text": "Styrelsen är inte längre behörig"
+ },
+ {
+  "code": "0143",
+  "text": "Årsredovisningens räkenskapsår stämmer inte med det registrerade"
+ },
+ {
+  "code": "0151",
+  "text": "Företagets revisor har inte skrivit under"
+ },
+ {
+  "code": "0152",
+  "text": "Revisionsberättelsens räkenskapsår stämmer inte med årsredovisningen"
+ },
+ {
+  "code": "0153",
+  "text": "Företaget saknar revisor"
+ },
+ {
+  "code": "0154",
+  "text": "Fastställelseintyget saknar uppgift om fastställd resultaträkning"
+ },
+ {
+  "code": "0156",
+  "text": "Revisionsberättelsen för koncernen saknas"
+ },
+ {
+  "code": "0161",
+  "text": "Årsredovisningen saknar underskrift från revisorn"
+ },
+ {
+  "code": "0162",
+  "text": "Revisionsberättelsen saknar revisorns underskrift"
+ },
+ {
+  "code": "0163",
+  "text": "Revisionsberättelse saknas"
+ },
+ {
+  "code": "0165",
+  "text": "Skicka in en bestyrkt kopia av revisionsberättelsen"
+ },
+ {
+  "code": "0166",
+  "text": "Godkänd eller auktoriserad revisor har inte skrivit under"
+ },
+ {
+  "code": "0168",
+  "text": "Årsredovisningen saknar datum när revisionsberättelsen lämnades"
+ },
+ {
+  "code": "0169",
+  "text": "Revisionsberättelsen saknar datum"
+ },
+ {
+  "code": "0172",
+  "text": "Skicka in årsredovisningen på svenska"
+ },
+ {
+  "code": "0202",
+  "text": "Skicka in en resultaträkning istället för en resultatrapport"
+ },
+ {
+  "code": "0203",
+  "text": "Skicka in en resultaträkning"
+ },
+ {
+  "code": "0204",
+  "text": "Skicka in en resultaträkning"
+ },
+ {
+  "code": "0214",
+  "text": "Årsredovisningen saknar underskrifter"
+ },
+ {
+  "code": "0215",
+  "text": "Årsredovisningen saknar uppgift om datum"
+ },
+ {
+  "code": "0216",
+  "text": "Årsredovisningen saknar likvidatorns underskrift"
+ },
+ {
+  "code": "0220",
+  "text": "Vill företaget byta ut årsredovisningen?"
+ },
+ {
+  "code": "0221",
+  "text": "Information om handlingar som vi har fått"
+ },
+ {
+  "code": "0222",
+  "text": "Årsredovisningen saknar uppgift om datum när den gjordes klar"
+ },
+ {
+  "code": "0223",
+  "text": "Revisionsberättelsen är daterad innan årsredovisningen skrevs under."
+ },
+ {
+  "code": "0400",
+  "text": "Skicka in årsredovisningen med beloppen i euro"
+ },
+ {
+  "code": "0401",
+  "text": "Fastställelseintyget saknar uppgift om fastställd balansräkning"
+ },
+ {
+  "code": "0402",
+  "text": "Stämman får inte ha varit innan revisionsberättelsen lämnades"
+ },
+ {
+  "code": "0403",
+  "text": "Skicka in årsredovisningen med en balansräkning"
+ },
+ {
+  "code": "0404",
+  "text": "Skicka in årsredovisningen med en förvaltningsberättelse"
+ },
+ {
+  "code": "0405",
+  "text": "Skicka in en koncernredovisning"
+ },
+ {
+  "code": "0406",
+  "text": "Fastställelseintyget saknar uppgift om resultatdisposition"
+ },
+ {
+  "code": "0407",
+  "text": "Fastställelseintyget saknar datumet när stämman hölls"
+ },
+ {
+  "code": "0408",
+  "text": "Fastställelseintyget saknar underskrift"
+ },
+ {
+  "code": "0409",
+  "text": "Årsstämman får inte hållas innan årsredovisningen skrivits under"
+ },
+ {
+  "code": "0410",
+  "text": "Företagsnamnet stämmer inte med vårt register"
+ },
+ {
+  "code": "0411",
+  "text": "Årsredovisningens räkenskapsår stämmer inte med det registrerade"
+ },
+ {
+  "code": "0412",
+  "text": "Företagets revisor har inte skrivit under"
+ },
+ {
+  "code": "0413",
+  "text": "Revisionsberättelsens räkenskapsår stämmer inte med årsredovisningen"
+ },
+ {
+  "code": "0414",
+  "text": "Fastställelseintyget saknar uppgift om fastställd resultaträkning"
+ },
+ {
+  "code": "0415",
+  "text": "Årsredovisningen saknar underskrift från revisorn"
+ },
+ {
+  "code": "0416",
+  "text": "Revisionsberättelsen saknar revisorns underskrift"
+ },
+ {
+  "code": "0417",
+  "text": "Revisionsberättelse saknas"
+ },
+ {
+  "code": "0418",
+  "text": "Godkänd eller auktoriserad revisor har inte skrivit under revisionsberättelsen"
+ },
+ {
+  "code": "0419",
+  "text": "Årsredovisningen saknar datum när revisionsberättelsen lämnades"
+ },
+ {
+  "code": "0420",
+  "text": "Revisionsberättelsen saknar datum"
+ },
+ {
+  "code": "0421",
+  "text": "Skicka in årsredovisningen på svenska"
+ },
+ {
+  "code": "0422",
+  "text": "Skicka in årsredovisningen med en resultaträkning"
+ },
+ {
+  "code": "0423",
+  "text": "Årsredovisningen saknar underskrifter"
+ },
+ {
+  "code": "0424",
+  "text": "Årsredovisningen saknar uppgift om datum den skrevs under"
+ },
+ {
+  "code": "0425",
+  "text": "Vill företaget byta ut årsredovisningen?"
+ },
+ {
+  "code": "0426",
+  "text": "Fastställelseintyget ska skrivas under av likvidatorn"
+ },
+ {
+  "code": "0427",
+  "text": "Årsredovisningen saknar likvidatorns underskrift"
+ },
+ {
+  "code": "0428",
+  "text": "Årsredovisningen saknar uppgift om datum när den gjordes klar"
+ },
+ {
+  "code": "0429",
+  "text": "Revisionsberättelsen är daterad innan årsredovisningen."
+ },
+ {
+  "code": "0699",
+  "text": "Vi utreder årsredovisningen"
+ },
+ {
+  "code": "0799",
+  "text": "Föreläggandet har skickats manuellt"
+ },
+ {
+  "code": "0994",
+  "text": "Upplysningar"
+ },
+ {
+  "code": "0995",
+  "text": "Årsredovisningen saknar uppgifter"
+ }
+]

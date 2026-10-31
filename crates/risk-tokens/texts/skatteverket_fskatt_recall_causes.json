@@ -1,0 +1,66 @@
+[
+ {
+  "code": "503",
+  "text": "Konkurs"
+ },
+ {
+  "code": "504",
+  "text": "Felregistrering"
+ },
+ {
+  "code": "508",
+  "text": "Maskinellt avregistrerad"
+ },
+ {
+  "code": "511",
+  "text": "Egen begäran"
+ },
+ {
+  "code": "512",
+  "text": "Näringsverksamhet bedrivs inte"
+ },
+ {
+  "code": "514",
+  "text": "Inkomstdeklaration ej lämnad"
+ },
+ {
+  "code": "515",
+  "text": "Bristande redovisning/betalning"
+ },
+ {
+  "code": "516",
+  "text": "Näringsförbud"
+ },
+ {
+  "code": "517",
+  "text": "Missbruk av F-skatt"
+ },
+ {
+  "code": "518",
+  "text": "Försummelse av fåmansbolag"
+ },
+ {
+  "code": "519",
+  "text": "Försummelse av företagsledare"
+ },
+ {
+  "code": "524",
+  "text": "Ink.dekl. ej lämnad. Bristande redovisning/betalning"
+ },
+ {
+  "code": "525",
+  "text": "Egen begäran, tidsbegränsat godkännande"
+ },
+ {
+  "code": "526",
+  "text": "Inget eller otillräckligt svar på föreläggande"
+ },
+ {
+  "code": "527",
+  "text": "Ej återbetalat ROT/RUT"
+ },
+ {
+  "code": "528",
+  "text": "Tidigare grund för återkallelse kvarstår"
+ }
+]
