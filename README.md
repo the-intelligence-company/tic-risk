@@ -88,10 +88,10 @@ a Hugging Face mirror.
 
 | Example | Bankruptcy within 12 months | Risk class | Notes |
 |---|---|---|---|
+| `company-d` | 57.2% | 1 | Frequent board changes, payment orders, enforcement debts |
 | `company-b` | 20.1% | 1 | Payment orders piling up, late fees, annual report deficiencies |
 | `company-a` | 7.4% | 1 | Late fees on tax returns, corrected payroll declarations |
 | `company-c` | 3.9% | 2 | Findings in annual reports, registry cases |
-| `company-d` | 0.9% | 3 | Newly registered company |
 
 The examples are in [`examples/`](examples) and in the release downloads. They are based on real
 companies with identifying details removed. IDs are replaced, dates are shifted by a few days,
